@@ -1,0 +1,69 @@
+LOCUS       Scaffold15              1139 bp    DNA     linear       03-AUG-2021
+DEFINITION  Bacillus subtilis strain LHL010.
+ACCESSION   LHL010_Scaffold15
+VERSION
+KEYWORDS    .
+SOURCE      Bacillus subtilis
+  ORGANISM  Bacillus subtilis
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..1139
+                     /organism="Bacillus subtilis"
+                     /mol_type="genomic DNA"
+                     /strain="LHL010"
+     rRNA            13..123
+                     /locus_tag="LHL010_04165"
+                     /product="5S ribosomal RNA"
+     tRNA            172..246
+                     /locus_tag="LHL010_04166"
+                     /product="tRNA-Asn"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Asn(gtt)"
+     tRNA            249..321
+                     /locus_tag="LHL010_04167"
+                     /product="tRNA-Thr"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Thr(ggt)"
+     tRNA            383..457
+                     /locus_tag="LHL010_04168"
+                     /product="tRNA-Gly"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Gly(gcc)"
+     tRNA            489..565
+                     /locus_tag="LHL010_04169"
+                     /product="tRNA-Arg"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Arg(acg)"
+     tRNA            593..669
+                     /locus_tag="LHL010_04170"
+                     /product="tRNA-Pro"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Pro(tgg)"
+     tRNA            677..752
+                     /locus_tag="LHL010_04171"
+                     /product="tRNA-Ala"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Ala(tgc)"
+ORIGIN      
+        1 tctcaatttg tttggtggcg atagcgaaga ggtcacaccc gttcccatac cgaacacgga
+       61 agttaagctc ttcagcgccg atggtagtcg ggggtttccc cctgtgagag taggacgccg
+      121 ccaagcagat ttattatttc taccatgttt gtttatgaag ctttttatta ttccgcagta
+      181 gctcagtggt agagctatcg gctgttaacc gatcggtcgt aggttcgaat cctacctgcg
+      241 gagccattgc ttccatagct cagcaggtag agcacttcca tggtaaggaa gaggtcagcg
+      301 gttcgagccc gcttggaagc tttattaaat gtattattac taaggtttct caaaaaggag
+      361 aaagcttttt ttattgcgac atgcggaagt agttcagtgg tagaacacca ccttgccaag
+      421 gtgggggtcg cgggttcgaa tcccgtcttc cgctccattt atcccaacgg gatattataa
+      481 atttaattgc gcccgtagct caattggata gagcgtttga ctacggatca aaaggttagg
+      541 ggttcgactc ctctcgggcg cgccatatct cttaatagaa tagataggaa atcgggaagt
+      601 agctcagctt ggtagagcac atggtttggg accatggggt cgcaggttcg aatcctgtct
+      661 tcccgaccat tttcatgggg ccttagctca gctgggagag cgcctgcttt gcacgcagga
+      721 ggtcagcggt tcgatcccgc taggctccac caaaagtttt aaaaaaagtt gttgactttg
+      781 aagaagcgac attgtatact aataaagttg ctttaacaaa gcagacaaac aaaatgatct
+      841 ttgaaaacta aacaagacaa aacgtacctg ttaattcatt tttttataaa tcgcacagta
+      901 atgtgcgtag tcagtcaaac tactttatcg gagagtttga tcctggctca ggacgaacgc
+      961 tggcggcgtg cctaatacat gcaagtcgag cggacagatg ggagcttgct ccctgatgtt
+     1021 agcggcggac gggtgagtaa cacgtgggta acctgcctgt aagactggga taactccggg
+     1081 aaaccggggc taataccgga tgcttgtttg aaccgcatgg ttcaaacata aaaggtggc
+//

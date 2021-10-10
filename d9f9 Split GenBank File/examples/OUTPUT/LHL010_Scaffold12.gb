@@ -1,0 +1,64 @@
+LOCUS       Scaffold12              2576 bp    DNA     linear       03-AUG-2021
+DEFINITION  Bacillus subtilis strain LHL010.
+ACCESSION   LHL010_Scaffold12
+VERSION
+KEYWORDS    .
+SOURCE      Bacillus subtilis
+  ORGANISM  Bacillus subtilis
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..2576
+                     /organism="Bacillus subtilis"
+                     /mol_type="genomic DNA"
+                     /strain="LHL010"
+     rRNA            complement(19..2575)
+                     /locus_tag="LHL010_04153"
+                     /product="23S ribosomal RNA (partial)"
+                     /note="aligned only 79 percent of the 23S ribosomal RNA"
+ORIGIN      
+        1 tgacatcatt caaaatgtgg ttaagtcctc gatcgattag tatctgtcag ctccatgtgt
+       61 cgccacactt ccacctcaga cctatcaacc tgatcatctt tcagggatct tacttccttg
+      121 cggaatggga aatctcatct tgaggggggc ttcatgctta gatgctttca gcacttatcc
+      181 cgtccgcaca tagctaccca gcgatgccct tggcagaaca actggtacac cagcggtgcg
+      241 tccatcccgg tcctctcgta ctaaggacag ctcctctcaa atttcctgcg cccgcgacgg
+      301 atagggaccg aactgtctca cgacgttctg aacccagctc gcgtaccgct ttaatgggcg
+      361 aacagcccaa cccttgggac cgactacagc cccaggatgc gatgagccga catcgaggtg
+      421 ccaaacctcc ccgtcgatgt ggactcttgg gggagataag cctgttatcc ccggggtagc
+      481 ttttatccgt tgagcgatgg cccttccatg cggaaccacc ggatcactaa gcccgacttt
+      541 cgtccctgct cgacttgtag gtctcgcagt caagctccct tgtgccttta cactctgcga
+      601 atgatttcca accattctga gggaaccttt gggcgcctcc gttacctttt aggaggcgac
+      661 cgccccagtc aaactgccca cctgacactg tctccccgcc cgataagggc ggcgggttag
+      721 aaggtcaata cagccagggt agtatcccac cgatgcctcc accgaagctg gcgctccggt
+      781 ttccaaggct cctacctatc ctgtacaagc tgtaccaaca ttcaatatca ggctgcagta
+      841 aagctccacg gggtctttcc gtcctgtcgc gggtaacctg catcttcaca ggtactataa
+      901 tttcaccgag tctctcgttg agacagtgcc cagatcgttg cgcctttcgt gcgggtcgga
+      961 acttacccga caaggaattt cgctacctta ggaccgttat agttacggcc gccgtttact
+     1021 ggggcttcaa ttcgcacctt cgcttacgct aagcgctcct cttaaccttc cagcaccggg
+     1081 caggcgtcag cccctatact tcgccttacg gcttcgcaga gacctgtgtt tttgctaaac
+     1141 agtcgcctgg gcctattcac tgcggctctc tcgggcttgc accctaacag agcacccctt
+     1201 ctcccgaagt tacggggtca ttttgccgag ttccttaacg agagttctct cgatcacctt
+     1261 aggattctct cctcgcctac ctgtgtcggt ttgcggtacg ggcacctctc acctcgctag
+     1321 aggcttttct tggcagtgtg gaatcaggaa cttcgctact atatttcgct cgccatcaca
+     1381 gctcagcctt atgggaaacg gatttgccta tttcccagcc taactgcttg gacgcggata
+     1441 tccaataccg cgcttaccct atcctcctgc gtccccccat tgctcaaatg gtgaggaggt
+     1501 ggtacaggaa tatcaacctg ttgtccatcg cctacgcctt tcggcctcgg cttaggtccc
+     1561 gactaaccct gagcggacga gccttcctca ggaaacctta ggcattcggt ggaggggatt
+     1621 ctcacccctc tttcgctact cataccggca ttctcacttc taagcgctcc accagtcctt
+     1681 ccggtctggc ttcacagccc ttagaacgct ctcctaccac tgttcgaaga acagtccgca
+     1741 gcttcggtga tacgtttagc cccggtacat tttcggcgca gagtcactcg accagtgagc
+     1801 tattacgcac tctttaaatg gtggctgctt ctaagccaac atcctggttg tctaagcaac
+     1861 tccacatcct tttccactta acgtatactt tgggacctta gctggcggtc tgggctgttt
+     1921 ccctttcgac tacggatctt atcactcgca gtctgactcc caaggataag tcattggcat
+     1981 tcggagtttg actgaattcg gtaacccggt aggggcccct agtccaatca gtgctctacc
+     2041 tccaagactc ttaccttgag gctagcccta aagctatttc ggagagaacc agctatctcc
+     2101 aggttcgatt ggcatttcac ccctacccac acctcatccc cgcacttttc aacgtgcgtg
+     2161 ggttcgggcc tccattcagt gttacctgaa cttcaccctg gacatgggta gatcacctgg
+     2221 tttcgggtct acgaccacgt actcatgcgc cctattcaga ctcgctttcg ctgcggctcc
+     2281 gcatcttctg cttaaccttg cacgggatcg taactcgccg gttcattcta caaaaggcac
+     2341 gccatcaccc gttaacgggc tctgactact tgtaggcaca cggtttcagg atctctttca
+     2401 ctccccttcc ggggtgcttt tcacctttcc ctcacggtac tggttcacta tcggtcacta
+     2461 gggagtattt agccttggga gatggtcctc ccggattccg acggaatttc acgtgttccg
+     2521 ccgtactcag gatccactca ggagagaacg aagttttgac tacagggctg ttacct
+//

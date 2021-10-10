@@ -1,0 +1,48 @@
+LOCUS       Scaffold13              1626 bp    DNA     linear       03-AUG-2021
+DEFINITION  Bacillus subtilis strain LHL010.
+ACCESSION   LHL010_Scaffold13
+VERSION
+KEYWORDS    .
+SOURCE      Bacillus subtilis
+  ORGANISM  Bacillus subtilis
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..1626
+                     /organism="Bacillus subtilis"
+                     /mol_type="genomic DNA"
+                     /strain="LHL010"
+     rRNA            complement(77..1623)
+                     /locus_tag="LHL010_04154"
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tccttcaaaa ctaaacaaga cagggaacgt tctgtttata agacccaagg tcttatattc
+       61 cgtataatat ccttagaaag gaggtgatcc agccgcacct tccgatacgg ctaccttgtt
+      121 acgacttcac cccaatcatc tgtcccacct tcggcggctg gctcctaaaa ggttacctca
+      181 ccgacttcgg gtgttacaaa ctctcgtggt gtgacgggcg gtgtgtacaa ggcccgggaa
+      241 cgtattcacc gcggcatgct gatccgcgat tactagcgat tccagcttca cgcagtcgag
+      301 ttgcagactg cgatccgaac tgagaacaga tttgtgggat tggcttaacc tcgcggtttc
+      361 gctgcccttt gttctgtcca ttgtagcacg tgtgtagccc aggtcataag gggcatgatg
+      421 atttgacgtc atccccacct tcctccggtt tgtcaccggc agtcacctta gagtgcccaa
+      481 ctgaatgctg gcaactaaga tcaagggttg cgctcgttgc gggacttaac ccaacatctc
+      541 acgacacgag ctgacgacaa ccatgcacca cctgtcactc tgcccccgaa ggggacgtcc
+      601 tatctctagg attgtcagag gatgtcaaga cctggtaagg ttcttcgcgt tgcttcgaat
+      661 taaaccacat gctccaccgc ttgtgcgggc ccccgtcaat tcctttgagt ttcagtcttg
+      721 cgaccgtact ccccaggcgg agtgcttaat gcgttagctg cagcactaag gggcggaaac
+      781 cccctaacac ttagcactca tcgtttacgg cgtggactac cagggtatct aatcctgttc
+      841 gctccccacg ctttcgctcc tcagcgtcag ttacagacca gagagtcgcc ttcgccactg
+      901 gtgttcctcc acatctctac gcatttcacc gctacacgtg gaattccact ctcctcttct
+      961 gcactcaagt tccccagttt ccaatgaccc tccccggttg agccgggggc tttcacatca
+     1021 gacttaagaa accgcctgcg agccctttac gcccaataat tccggacaac gcttgccacc
+     1081 tacgtattac cgcggctgct ggcacgtagt tagccgtggc tttctggtta ggtaccgtca
+     1141 aggtaccgcc ctattcgaac ggtacttgtt cttccctaac aacagagctt tacgatccga
+     1201 aaaccttcat cactcacgcg gcgttgctcc gtcagacttt cgtccattgc ggaagattcc
+     1261 ctactgctgc ctcccgtagg agtctgggcc gtgtctcagt cccagtgtgg ccgatcaccc
+     1321 tctcaggtcg gctacgcatc gtcgccttgg tgagccatta cctcaccaac tagctaatgc
+     1381 gccgcgggtc catctgtaag tggtagccga agccaccttt tatgtttgaa ccatgcggtt
+     1441 caaacaagca tccggtatta gccccggttt cccggagtta tcccagtctt acaggcaggt
+     1501 tacccacgtg ttactcaccc gtccgccgct aacatcaggg agcaagctcc catctgtccg
+     1561 ctcgacttgc atgtattagg cacgccgcca gcgttcgtcc tgagccagga tcaaactctc
+     1621 cgataa
+//

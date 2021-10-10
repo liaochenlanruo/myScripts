@@ -1,0 +1,92 @@
+LOCUS       Scaffold14              1613 bp    DNA     linear       03-AUG-2021
+DEFINITION  Bacillus subtilis strain LHL010.
+ACCESSION   LHL010_Scaffold14
+VERSION
+KEYWORDS    .
+SOURCE      Bacillus subtilis
+  ORGANISM  Bacillus subtilis
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..1613
+                     /organism="Bacillus subtilis"
+                     /mol_type="genomic DNA"
+                     /strain="LHL010"
+     tRNA            complement(387..462)
+                     /locus_tag="LHL010_04155"
+                     /product="tRNA-Ala"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Ala(tgc)"
+     tRNA            complement(470..546)
+                     /locus_tag="LHL010_04156"
+                     /product="tRNA-Pro"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Pro(tgg)"
+     tRNA            complement(574..650)
+                     /locus_tag="LHL010_04157"
+                     /product="tRNA-Arg"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Arg(acg)"
+     tRNA            complement(660..745)
+                     /locus_tag="LHL010_04158"
+                     /product="tRNA-Leu"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Leu(taa)"
+     tRNA            complement(760..834)
+                     /locus_tag="LHL010_04159"
+                     /product="tRNA-Gly"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Gly(gcc)"
+     tRNA            complement(874..956)
+                     /locus_tag="LHL010_04160"
+                     /product="tRNA-Leu"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Leu(tag)"
+     tRNA            complement(963..1038)
+                     /locus_tag="LHL010_04161"
+                     /product="tRNA-Lys"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Lys(ttt)"
+     tRNA            complement(1076..1151)
+                     /locus_tag="LHL010_04162"
+                     /product="tRNA-Thr"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Thr(tgt)"
+     tRNA            complement(1156..1231)
+                     /locus_tag="LHL010_04163"
+                     /product="tRNA-Val"
+                     /inference="COORDINATES:profile:Aragorn:001002"
+                     /note="tRNA-Val(tac)"
+     rRNA            complement(1257..1367)
+                     /locus_tag="LHL010_04164"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 gccacctttt atgtttgaac catgcggttc aaacaagcat ccggtattag ccccggtttc
+       61 ccggagttat cccagtctta caggcaggtt acccacgtgt tactcacccg tccgccgcta
+      121 acatcaggga gcaagctccc atctgtccgc tcgacttgca tgtattaggc acgccgccag
+      181 cgttcgtcct gagccaggat caaactctcc gataaagtag tttgactgac tacgcacatc
+      241 gctgtgcgat ttataaaaat gaattaacag gtacgttttg tcttgtttag ttttcaaaga
+      301 tcattttgtt cgtctgcttt gttaaagcaa ctttattagt atacaatgtc gcttcttcaa
+      361 agtcaacaat tttttaaaaa aacttttggt ggagcctagc gggatcgaac cgctgacctc
+      421 ctgcgtgcaa agcaggcgct ctcccagctg agctaaggcc ccatggaaat ggtcgggaag
+      481 acaggattcg aacctgcgac cccatggtcc caaaccatgt gctctaccaa gctgagctac
+      541 ttcccgattt cctatctatt ctattaaaag atatggcgcg cccgagagga gtcgaacccc
+      601 taaccttttg atccgtagtc aaacgctcta tccaattgag ctacgggcgc aaaacataat
+      661 gccgagggcc ggacttgaac cggcacggta gtcacctacc gcaggatttt aagtcctgtg
+      721 tgtctgccaa ttccaccacc ccggcgtgga tggtatagtt ggagcggaag acgggattcg
+      781 aacccgcgac ccccaccttg gcaaggtggt gttctaccac tgaactactt ccgcagacag
+      841 gatgtccagt ttttctaact gttatcctag aaatgcgggt gaagggactt gaacccccac
+      901 gtcataaaga cactagatcc taagtctagc gcgtctgcca attccgccac acccgcgtaa
+      961 aatggtgagc catgaaggac tcgaaccttc gaccctctga ttaaaagtca gatgctctac
+     1021 caactgagct aatggctctt cttacaagag acttgagtat tatatcatat aaaagtggtg
+     1081 ccggcaagag gacttgaacc cccaacctac tgattacaag tcagttgctc taccaattga
+     1141 gctacaccgg caaaatggtg gaggatgacg ggctcgaacc gccgaccctc tgcttgtaag
+     1201 gcagatgctc tcccagctga gctaatcctc cataattgca ctaacgtgca attgcttggc
+     1261 agcgtcctac tctcacaggg ggaaaccccc gactaccatc ggcgctgaag agcttaactt
+     1321 ccgtgttcgg tatgggaacg ggtgtgacct cttcgctatc gccaccaaac aaatgccttc
+     1381 aggatgaagg tactgggcgt ttctcacagg atgtgagagc ccttagcgga gtttccttac
+     1441 ctttccgcct ttagagagat gttctctcaa aactagataa caggtatgac atcattcaaa
+     1501 atgtggttaa gtcctcgatc gattagtatc tgtcagctcc atgtgtcgcc acacttccac
+     1561 ctcagaccta tcaacctgat catctttcag ggatcttact tccttgcgga atg
+//
