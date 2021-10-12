@@ -1,6 +1,8 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+# Author: Liu hualin
+# Date: Sep 28, 2021
 
 my @faa = glob("*.faa");# 读取所有后缀为“.faa”的文件，可以自己更改
 foreach  (@faa) {

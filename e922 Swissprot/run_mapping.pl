@@ -1,6 +1,8 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+# Author: Liu hualin
+# Date: Sep 28, 2021
 
 my %maps;
 my @diaout = glob("*.diamond");# 读取所有的diamond比对后的输出文件

@@ -1,6 +1,8 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+# Author: Liu hualin
+# Date: Oct 9, 2021
 
 my @gbk = glob("*.gbk");# 批处理所有后缀为.gbk的文件
 foreach  (@gbk) {

@@ -1,6 +1,8 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+# Author: Liu hualin
+# Date: Sep 30, 2021
 
 local $/=">";
 open IN, "All.sequences.fas" || die;

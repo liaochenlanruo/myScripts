@@ -1,6 +1,8 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+# Author: Liu hualin
+# Date: Sep 28, 2021
 
 my @mapped = glob("*.mapped");
 foreach  (@mapped) {

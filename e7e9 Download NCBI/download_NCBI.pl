@@ -2,6 +2,9 @@
 use strict;
 use warnings;
 use LWP::Simple;
+# Author: Liu hualin
+# Date: Sep 28, 2021
+
 
 # Usage: perl download_NCBI.pl 列表文件 序列类型（参照https://www.ncbi.nlm.nih.gov/sites/batchentrez数据库填写，常用的包括nucleotide, protein）
 

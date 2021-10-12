@@ -2,6 +2,8 @@
 use strict;
 use warnings;
 use Bio::SeqIO;
+# Author: Liu hualin
+# Date: Oct 8, 2021
 
 # Split GenBank files
 my @gbk = glob("*.gbk");# 批处理所有后缀为.gbk的文件
