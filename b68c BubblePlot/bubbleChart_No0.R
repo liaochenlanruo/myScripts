@@ -3,6 +3,7 @@
 # Date: Oct 12, 2021
 
 setwd("E:/Researches/lujia16S/Analysis_20200907/Downstream_analysis/Function")#设置工作目录
+#setwd("E:/Researches/lujia16S/Analysis_20200907/Downstream_analysis/Venn/Functions")#设置工作目录
 
 #pdf(file="FunctionsBubbleChart.pdf", width=14, height=11)
 #pdf(file="FunctionsBubbleChartx20211012.pdf")
