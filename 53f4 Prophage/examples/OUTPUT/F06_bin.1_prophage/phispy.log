@@ -1,0 +1,30 @@
+2021-10-12 12:12:31 INFO     Welcome to PhiSpy.py version 4.2.19
+2021-10-12 12:12:31 INFO     Starting PhiSpy.py with the following arguments
+Namespace(color=True, evaluate=False, expand_slope=False, extra_dna=2000, file_prefix='', ignore_annotations=False, include_all_repeats=False, include_annotations=True, infile='F06_bin.1.gbk', keep=False, keep_dropped_predictions=False, kmers_type='all', list=False, log='F06_bin.1_prophage/phispy.log', logger=<Logger PhiSpy (Level 5)>, make_training_data=None, metrics=['orf_length_med', 'shannon_slope', 'at_skew', 'gc_skew', 'max_direction'], min_contig_size=5000, min_repeat_len=10, nonprophage_genegaps=10, number=5, output_choice=1, output_dir='F06_bin.1_prophage', phage_genes=1, phmms='pVOGs.hmm', quiet=False, randomforest_trees=500, threads=8, training_set='data/trainSet_genericAll.txt', window_size=30)
+2021-10-12 12:12:31 INFO     Processing 107 contigs
+2021-10-12 12:12:31 INFO     Running HMM profiles against pVOGs.hmm
+2021-10-12 12:12:31 INFO     hmmsearch: writing the amino acids to temporary file /mnt/e/Researches/Xiaqian/NGS/CleanData/宏基因组数据/Result/Results/Annotations/F06_bin.1_prophage/tmpr5qno1cd
+2021-10-12 12:12:31 INFO     Searching 951 proteins with hmmsearch.
+2021-10-12 12:13:22 INFO     Completed running HMM profiles against pVOGs.hmm
+2021-10-12 12:13:22 INFO     Making Testing Set...
+2021-10-12 12:13:23 INFO     Start Classification Algorithm...
+2021-10-12 12:13:23 INFO     Using training set in data/trainSet_genericAll.txt
+2021-10-12 12:13:24 INFO     Using all metrics: orf_length_med, shannon_slope, at_skew, gc_skew, max_direction, phmms.
+2021-10-12 12:13:24 INFO     Running the random forest classifier with 500 trees and 8 threads
+2021-10-12 12:13:52 INFO     Rank threshold calculated as 0.13176063215107525
+2021-10-12 12:13:52 INFO     As the training flag is zero, down-weighting unknown functions
+2021-10-12 12:13:52 INFO     Evaluating...
+2021-10-12 12:13:52 INFO     Checking prophages we might have found
+2021-10-12 12:13:52 INFO     Potential prophages (sorted highest to lowest)
+2021-10-12 12:13:52 INFO     Contig	Start	Stop	Number of potential genes	Status
+2021-10-12 12:13:52 INFO     NODE_1250	268	6260	10	Kept
+2021-10-12 12:13:52 INFO     NODE_806	52	6986	8	Dropped. No genes were identified as phage genes
+2021-10-12 12:13:52 INFO     NODE_1144	1406	6519	6	Dropped. No genes were identified as phage genes
+2021-10-12 12:13:52 INFO     NODE_91	1945	2919	1	Dropped. Region too small (Not enough genes)
+2021-10-12 12:13:52 INFO     NODE_9	8245	9150	1	Dropped. Region too small (Not enough genes)
+2021-10-12 12:13:52 INFO     NODE_155	8703	9572	1	Dropped. Region too small (Not enough genes)
+2021-10-12 12:13:52 INFO     PROPHAGE: 1 Contig: NODE_1250 Start: 268 Stop: 6260
+2021-10-12 12:13:52 INFO     There were 2 repeats with the same length as the best. One chosen somewhat randomly!
+2021-10-12 12:13:52 INFO     Creating output files
+2021-10-12 12:13:52 INFO     Writing prophage_coordinates output file
+2021-10-12 12:13:52 INFO     Done!!! Output is in F06_bin.1_prophage and the log is in F06_bin.1_prophage/phispy.log
