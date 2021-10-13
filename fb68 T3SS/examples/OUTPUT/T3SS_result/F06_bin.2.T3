@@ -1,0 +1,1758 @@
+Id; Description; Score; is secreted
+F06_bin.2_00003; hypothetical protein;1.000000000000000;true
+F06_bin.2_00045; hypothetical protein;1.000000000000000;true
+F06_bin.2_00163; Ribonuclease Z;1.000000000000000;true
+F06_bin.2_00708; hypothetical protein;1.000000000000000;true
+F06_bin.2_00838; hypothetical protein;1.000000000000000;true
+F06_bin.2_00839; hypothetical protein;1.000000000000000;true
+F06_bin.2_00977; Nicotinate dehydrogenase FAD-subunit;1.000000000000000;true
+F06_bin.2_01008; hypothetical protein;1.000000000000000;true
+F06_bin.2_01052; hypothetical protein;1.000000000000000;true
+F06_bin.2_01108; Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase;1.000000000000000;true
+F06_bin.2_01166; hypothetical protein;1.000000000000000;true
+F06_bin.2_01370; hypothetical protein;1.000000000000000;true
+F06_bin.2_01442; hypothetical protein;1.000000000000000;true
+F06_bin.2_01507; hypothetical protein;1.000000000000000;true
+F06_bin.2_01673; hypothetical protein;1.000000000000000;true
+F06_bin.2_01701; hypothetical protein;1.000000000000000;true
+F06_bin.2_01759; 26 kDa periplasmic immunogenic protein;1.000000000000000;true
+F06_bin.2_01767; hypothetical protein;1.000000000000000;true
+F06_bin.2_01771; hypothetical protein;1.000000000000000;true
+F06_bin.2_01476; hypothetical protein;1.000000000000000;true
+F06_bin.2_00337; N,N-dimethyltransferase OxyT;1.000000000000000;true
+F06_bin.2_01056; hypothetical protein;1.000000000000000;true
+F06_bin.2_00569; Putrescine--pyruvate aminotransferase;0.999999999999998;true
+F06_bin.2_01626; hypothetical protein;0.999999999999996;true
+F06_bin.2_01284; hypothetical protein;0.999999999999995;true
+F06_bin.2_01608; hypothetical protein;0.999999999999992;true
+F06_bin.2_00447; hypothetical protein;0.999999999999990;true
+F06_bin.2_01718; hypothetical protein;0.999999999999988;true
+F06_bin.2_00140; hypothetical protein;0.999999999999905;true
+F06_bin.2_00195; hypothetical protein;0.999999999999904;true
+F06_bin.2_01674; hypothetical protein;0.999999999999759;true
+F06_bin.2_00722; hypothetical protein;0.999999999998548;true
+F06_bin.2_01381; D-aminoacylase;0.999999999997258;true
+F06_bin.2_00840; hypothetical protein;0.999999999995528;true
+F06_bin.2_01445; hypothetical protein;0.999999999994280;true
+F06_bin.2_01461; hypothetical protein;0.999999999986332;true
+F06_bin.2_01098; hypothetical protein;0.999999999981305;true
+F06_bin.2_00647; hypothetical protein;0.999999999969580;true
+F06_bin.2_01189; hypothetical protein;0.999999999953854;true
+F06_bin.2_01347; hypothetical protein;0.999999999926679;true
+F06_bin.2_00432; hypothetical protein;0.999999999908164;true
+F06_bin.2_00931; hypothetical protein;0.999999999888008;true
+F06_bin.2_01765; hypothetical protein;0.999999999855989;true
+F06_bin.2_01635; Protein-L-isoaspartate O-methyltransferase;0.999999999845175;true
+F06_bin.2_00930; hypothetical protein;0.999999999843201;true
+F06_bin.2_00329; hypothetical protein;0.999999999817147;true
+F06_bin.2_01506; Iron-sulfur cluster carrier protein;0.999999999793996;true
+F06_bin.2_01180; hypothetical protein;0.999999999646794;true
+F06_bin.2_01072; hypothetical protein;0.999999999517308;true
+F06_bin.2_01627; hypothetical protein;0.999999999487447;true
+F06_bin.2_01620; hypothetical protein;0.999999999432766;true
+F06_bin.2_00309; hypothetical protein;0.999999999366543;true
+F06_bin.2_01399; hypothetical protein;0.999999999118004;true
+F06_bin.2_01582; 30S ribosomal protein S11;0.999999998916655;true
+F06_bin.2_01559; hypothetical protein;0.999999998887588;true
+F06_bin.2_01737; hypothetical protein;0.999999998823646;true
+F06_bin.2_01077; hypothetical protein;0.999999998456855;true
+F06_bin.2_01252; hypothetical protein;0.999999997031613;true
+F06_bin.2_01569; hypothetical protein;0.999999996282416;true
+F06_bin.2_01726; hypothetical protein;0.999999996030590;true
+F06_bin.2_01076; hypothetical protein;0.999999995027365;true
+F06_bin.2_00511; hypothetical protein;0.999999994719169;true
+F06_bin.2_00350; hypothetical protein;0.999999994618982;true
+F06_bin.2_00173; Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase;0.999999988943739;true
+F06_bin.2_01452; hypothetical protein;0.999999986917476;true
+F06_bin.2_01307; hypothetical protein;0.999999985864766;true
+F06_bin.2_01595; hypothetical protein;0.999999978922648;true
+F06_bin.2_01486; hypothetical protein;0.999999924137069;true
+F06_bin.2_00107; 50S ribosomal protein L11;0.999999883430120;true
+F06_bin.2_00344; L-lactate transporter;0.999999751317356;true
+F06_bin.2_00356; Triosephosphate isomerase;0.999999681406701;true
+F06_bin.2_00941; hypothetical protein;0.999999525367447;true
+F06_bin.2_00875; hypothetical protein;0.999999382095589;true
+F06_bin.2_01146; hypothetical protein;0.999999335077225;true
+F06_bin.2_01207; hypothetical protein;0.999999149231406;true
+F06_bin.2_00693; hypothetical protein;0.999999020160232;true
+F06_bin.2_01309; hypothetical protein;0.999999005863659;true
+F06_bin.2_00953; hypothetical protein;0.999998899349446;true
+F06_bin.2_01017; hypothetical protein;0.999998095163768;true
+F06_bin.2_01310; hypothetical protein;0.999998082278876;true
+F06_bin.2_01089; hypothetical protein;0.999998076906973;true
+F06_bin.2_01024; hypothetical protein;0.999997909899422;true
+F06_bin.2_00707; hypothetical protein;0.999997847260612;true
+F06_bin.2_01625; hypothetical protein;0.999997210925564;true
+F06_bin.2_01111; hypothetical protein;0.999996911833852;true
+F06_bin.2_01386; hypothetical protein;0.999996877816782;true
+F06_bin.2_00869; hypothetical protein;0.999996623635587;true
+F06_bin.2_00929; hypothetical protein;0.999996289785877;true
+F06_bin.2_01592; hypothetical protein;0.999995512409248;true
+F06_bin.2_01586; hypothetical protein;0.999994926321945;true
+F06_bin.2_00715; Cytidylate kinase;0.999994602772267;true
+F06_bin.2_00933; hypothetical protein;0.999992966902273;true
+F06_bin.2_01699; hypothetical protein;0.999987468456966;true
+F06_bin.2_00496; Histidinol-phosphatase;0.999987310446226;true
+F06_bin.2_01398; Glutamate-1-semialdehyde 2,1-aminomutase;0.999985832171407;true
+F06_bin.2_01709; hypothetical protein;0.999983099700341;true
+F06_bin.2_01379; Hydroxycarboxylate dehydrogenase B;0.999979737353567;true
+F06_bin.2_01664; hypothetical protein;0.999974286034072;true
+F06_bin.2_00714; hypothetical protein;0.999973659309558;true
+F06_bin.2_01603; hypothetical protein;0.999971581102991;true
+F06_bin.2_01271; Valine--tRNA ligase;0.999948987387742;true
+F06_bin.2_00451; hypothetical protein;0.999946861735795;true
+F06_bin.2_00599; hypothetical protein;0.999943338288951;true
+F06_bin.2_00851; hypothetical protein;0.999938983777649;true
+F06_bin.2_01039; hypothetical protein;0.999929183550488;true
+F06_bin.2_00640; hypothetical protein;0.999924131260037;true
+F06_bin.2_01124; hypothetical protein;0.999923876174697;true
+F06_bin.2_01538; hypothetical protein;0.999920639983810;true
+F06_bin.2_01295; hypothetical protein;0.999920137058978;true
+F06_bin.2_01650; hypothetical protein;0.999918917850238;true
+F06_bin.2_01200; NADH-quinone oxidoreductase subunit 4;0.999915427948357;true
+F06_bin.2_01360; hypothetical protein;0.999911452698034;true
+F06_bin.2_01470; hypothetical protein;0.999890250072993;false
+F06_bin.2_00459; Homoserine kinase;0.999870889083838;false
+F06_bin.2_00687; hypothetical protein;0.999845669518395;false
+F06_bin.2_01051; hypothetical protein;0.999823964617525;false
+F06_bin.2_00271; GTPase HflX;0.999822934010064;false
+F06_bin.2_01126; hypothetical protein;0.999799149233125;false
+F06_bin.2_01649; L-threonine dehydratase catabolic TdcB;0.999761785240309;false
+F06_bin.2_01102; hypothetical protein;0.999757566946108;false
+F06_bin.2_01350; hypothetical protein;0.999752502591639;false
+F06_bin.2_01541; hypothetical protein;0.999707959036358;false
+F06_bin.2_00366; hypothetical protein;0.999661412602260;false
+F06_bin.2_01377; hypothetical protein;0.999637203540110;false
+F06_bin.2_01298; hypothetical protein;0.999636470907864;false
+F06_bin.2_01775; hypothetical protein;0.999487609050371;false
+F06_bin.2_00502; Ribonuclease J;0.999284518680538;false
+F06_bin.2_00835; hypothetical protein;0.999278500900173;false
+F06_bin.2_01014; hypothetical protein;0.998988740015259;false
+F06_bin.2_00147; GTPase Obg;0.998956203438726;false
+F06_bin.2_01768; hypothetical protein;0.998955279371802;false
+F06_bin.2_00937; Putative mycofactocin biosynthesis glycosyltransferase MftF;0.998895321972200;false
+F06_bin.2_00452; hypothetical protein;0.998751028123374;false
+F06_bin.2_00445; hypothetical protein;0.998695284281300;false
+F06_bin.2_01590; hypothetical protein;0.998690655401618;false
+F06_bin.2_00954; hypothetical protein;0.998467421403384;false
+F06_bin.2_00677; hypothetical protein;0.998455849352934;false
+F06_bin.2_00576; hypothetical protein;0.998176023973327;false
+F06_bin.2_01247; hypothetical protein;0.998021847265331;false
+F06_bin.2_00423; hypothetical protein;0.997981109607334;false
+F06_bin.2_00643; hypothetical protein;0.997499894449887;false
+F06_bin.2_01697; hypothetical protein;0.996913008116246;false
+F06_bin.2_01115; hypothetical protein;0.996868465367440;false
+F06_bin.2_00724; 1,4-beta-mannosyl-N-acetylglucosamine phosphorylase;0.996619797676775;false
+F06_bin.2_01368; hypothetical protein;0.996461409187136;false
+F06_bin.2_01224; hypothetical protein;0.996353406524380;false
+F06_bin.2_01749; hypothetical protein;0.996246282299005;false
+F06_bin.2_00058; GTP 3',8-cyclase;0.996097901273695;false
+F06_bin.2_01723; hypothetical protein;0.996006890949440;false
+F06_bin.2_01217; hypothetical protein;0.994459877400772;false
+F06_bin.2_01000; Glutathione transport system permease protein GsiD;0.994180235882983;false
+F06_bin.2_01727; hypothetical protein;0.993042442435049;false
+F06_bin.2_00298; hypothetical protein;0.992053971306683;false
+F06_bin.2_00905; hypothetical protein;0.992009527309152;false
+F06_bin.2_00404; hypothetical protein;0.991177226014686;false
+F06_bin.2_01772; hypothetical protein;0.989886628851891;false
+F06_bin.2_01066; hypothetical protein;0.987520084569530;false
+F06_bin.2_00843; hypothetical protein;0.984672973900613;false
+F06_bin.2_01228; 3-chloro-4-hydroxyphenylacetate reductive dehalogenase;0.981227936645867;false
+F06_bin.2_01363; hypothetical protein;0.980610883093659;false
+F06_bin.2_01376; hypothetical protein;0.979682204889379;false
+F06_bin.2_01345; hypothetical protein;0.973904540070067;false
+F06_bin.2_00972; Carbon monoxide dehydrogenase medium chain;0.972704882277963;false
+F06_bin.2_00889; 1-deoxy-D-xylulose-5-phosphate synthase;0.972015583804091;false
+F06_bin.2_01095; Putative thymidine phosphorylase;0.970182768815819;false
+F06_bin.2_00924; Ribonuclease BN;0.969729773052100;false
+F06_bin.2_01233; hypothetical protein;0.961312943252291;false
+F06_bin.2_01710; hypothetical protein;0.960469974944373;false
+F06_bin.2_01618; hypothetical protein;0.956799314366284;false
+F06_bin.2_01744; hypothetical protein;0.955157315464186;false
+F06_bin.2_00811; hypothetical protein;0.951047795515030;false
+F06_bin.2_01412; Phosphoribosylglycinamide formyltransferase;0.943082017817355;false
+F06_bin.2_00475; Pyruvate synthase subunit PorD;0.941606055469193;false
+F06_bin.2_01672; hypothetical protein;0.938679313184967;false
+F06_bin.2_00629; hypothetical protein;0.933918605586414;false
+F06_bin.2_00389; hypothetical protein;0.932689692303700;false
+F06_bin.2_00678; Carbon monoxide dehydrogenase/acetyl-CoA synthase subunit alpha;0.923926771587941;false
+F06_bin.2_01294; hypothetical protein;0.923360117284893;false
+F06_bin.2_00063; hypothetical protein;0.921457352918514;false
+F06_bin.2_01497; hypothetical protein;0.915718665721572;false
+F06_bin.2_00554; Pyruvate kinase;0.911082725180904;false
+F06_bin.2_01495; dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase;0.902299199275202;false
+F06_bin.2_00906; hypothetical protein;0.886548322303658;false
+F06_bin.2_01299; hypothetical protein;0.884374083424373;false
+F06_bin.2_01477; hypothetical protein;0.879429290732623;false
+F06_bin.2_01285; hypothetical protein;0.878751827244213;false
+F06_bin.2_00665; hypothetical protein;0.868802690679760;false
+F06_bin.2_01503; hypothetical protein;0.865659734078809;false
+F06_bin.2_00614; hypothetical protein;0.864745035128204;false
+F06_bin.2_01536; hypothetical protein;0.859135241708898;false
+F06_bin.2_01054; hypothetical protein;0.856809947515330;false
+F06_bin.2_01209; hypothetical protein;0.854095930920050;false
+F06_bin.2_01766; hypothetical protein;0.845017468924527;false
+F06_bin.2_01394; hypothetical protein;0.825116226566799;false
+F06_bin.2_01219; Beta-hexosaminidase;0.823963133871603;false
+F06_bin.2_00966; hypothetical protein;0.815356375703515;false
+F06_bin.2_00871; hypothetical protein;0.811896004051119;false
+F06_bin.2_01138; GTPase Der;0.805228886675769;false
+F06_bin.2_00388; hypothetical protein;0.801060829120682;false
+F06_bin.2_00636; hypothetical protein;0.782286277517504;false
+F06_bin.2_01524; hypothetical protein;0.759625571471688;false
+F06_bin.2_01599; hypothetical protein;0.696986184440979;false
+F06_bin.2_00343; Ribonuclease J;0.694681642977551;false
+F06_bin.2_01573; hypothetical protein;0.684241430329470;false
+F06_bin.2_00774; Putative acetolactate synthase small subunit;0.658154980389511;false
+F06_bin.2_01312; hypothetical protein;0.654174366640759;false
+F06_bin.2_00626; hypothetical protein;0.619751216457927;false
+F06_bin.2_00374; hypothetical protein;0.613188518851999;false
+F06_bin.2_00654; hypothetical protein;0.605958640462519;false
+F06_bin.2_01612; hypothetical protein;0.581202054625000;false
+F06_bin.2_00501; Proteasome subunit beta;0.580046809121776;false
+F06_bin.2_00427; Chromosome partition protein Smc;0.538046575705483;false
+F06_bin.2_00779; hypothetical protein;0.528696473265910;false
+F06_bin.2_01584; hypothetical protein;0.522044629074653;false
+F06_bin.2_00961; hypothetical protein;0.507501272317051;false
+F06_bin.2_01175; hypothetical protein;0.502531130003590;false
+F06_bin.2_01690; hypothetical protein;0.500457669652065;false
+F06_bin.2_00494; hypothetical protein;0.479424128242459;false
+F06_bin.2_00276; 3-hydroxy-3-methylglutaryl-coenzyme A reductase;0.476516957086762;false
+F06_bin.2_01514; N-carbamoyl-D-amino acid hydrolase;0.476028119382073;false
+F06_bin.2_00201; hypothetical protein;0.472961135568101;false
+F06_bin.2_01467; Lipoyl synthase;0.460902963903562;false
+F06_bin.2_00563; Bifunctional purine biosynthesis protein PurH;0.423946384191652;false
+F06_bin.2_01110; hypothetical protein;0.418355304914344;false
+F06_bin.2_01364; hypothetical protein;0.416559253123214;false
+F06_bin.2_01496; hypothetical protein;0.402403863183981;false
+F06_bin.2_01075; hypothetical protein;0.393650534913842;false
+F06_bin.2_01308; hypothetical protein;0.388919438856969;false
+F06_bin.2_00892; 3-dehydroquinate synthase;0.371335346786177;false
+F06_bin.2_00743; hypothetical protein;0.347700083212778;false
+F06_bin.2_00321; Corrinoid/iron-sulfur protein large subunit;0.346116677921161;false
+F06_bin.2_01176; hypothetical protein;0.336316013302382;false
+F06_bin.2_00197; hypothetical protein;0.334902927811143;false
+F06_bin.2_00679; hypothetical protein;0.303133245930969;false
+F06_bin.2_01416; Arginine deiminase;0.283653123763088;false
+F06_bin.2_00874; hypothetical protein;0.273597783126578;false
+F06_bin.2_01558; hypothetical protein;0.258329190002931;false
+F06_bin.2_00196; D-aminopeptidase;0.254162708846802;false
+F06_bin.2_01407; Aspartate carbamoyltransferase;0.245436160708441;false
+F06_bin.2_01564; Desulfoferrodoxin;0.245224993424473;false
+F06_bin.2_01531; hypothetical protein;0.232091084883238;false
+F06_bin.2_00523; Proline racemase;0.225295334162208;false
+F06_bin.2_00099; Prefoldin subunit alpha;0.214997567439655;false
+F06_bin.2_01148; hypothetical protein;0.201538668742343;false
+F06_bin.2_01637; putative L-galactonate transporter;0.196184814387767;false
+F06_bin.2_00318; hypothetical protein;0.194461726134938;false
+F06_bin.2_00111; putative GTP-binding protein EngB;0.185830266307313;false
+F06_bin.2_01117; hypothetical protein;0.177311872042845;false
+F06_bin.2_01049; 8-methylmenaquinol:fumarate reductase membrane anchor subunit;0.171474941587119;false
+F06_bin.2_01139; HTH-type transcriptional regulator MntR;0.164862020179926;false
+F06_bin.2_00912; N-acetylmuramic acid/N-acetylglucosamine kinase;0.161661292671952;false
+F06_bin.2_01530; hypothetical protein;0.148709857403494;false
+F06_bin.2_00588; putative epimerase/dehydratase;0.146083032803252;false
+F06_bin.2_00825; Oxaloacetate decarboxylase alpha chain;0.143826290638912;false
+F06_bin.2_01588; hypothetical protein;0.139035632447821;false
+F06_bin.2_01500; Ribokinase;0.130296921170320;false
+F06_bin.2_00268; hypothetical protein;0.125469071077678;false
+F06_bin.2_01682; hypothetical protein;0.121698401471343;false
+F06_bin.2_00256; hypothetical protein;0.120754863909777;false
+F06_bin.2_01705; GDP-perosamine synthase;0.120570287947652;false
+F06_bin.2_01491; hypothetical protein;0.119745368874997;false
+F06_bin.2_01607; hypothetical protein;0.109384937691470;false
+F06_bin.2_01594; hypothetical protein;0.094749534755886;false
+F06_bin.2_01761; putative protein YagA;0.090436797405180;false
+F06_bin.2_00231; hypothetical protein;0.084585073116533;false
+F06_bin.2_01338; Putative coenzyme F420-dependent oxidoreductase;0.082773302512670;false
+F06_bin.2_01059; Benzylsuccinate synthase activating enzyme;0.080808889568013;false
+F06_bin.2_01542; hypothetical protein;0.077308493102274;false
+F06_bin.2_00827; Methylmalonyl-CoA mutase;0.073970051048293;false
+F06_bin.2_00346; Photosystem I assembly protein Ycf3;0.066112887909087;false
+F06_bin.2_00310; hypothetical protein;0.057914085813484;false
+F06_bin.2_00486; hypothetical protein;0.057526608711414;false
+F06_bin.2_01276; Peptidoglycan deacetylase;0.053259930714463;false
+F06_bin.2_01385; hypothetical protein;0.051529812542763;false
+F06_bin.2_00229; hypothetical protein;0.040812989691432;false
+F06_bin.2_00574; Putative protein-methionine-sulfoxide reductase subunit YedZ1;0.039985495167257;false
+F06_bin.2_00731; hypothetical protein;0.039190779268021;false
+F06_bin.2_00968; hypothetical protein;0.037864414789445;false
+F06_bin.2_00419; hypothetical protein;0.037553952589249;false
+F06_bin.2_00028; hypothetical protein;0.037424310607460;false
+F06_bin.2_00712; putative glycine dehydrogenase (decarboxylating) subunit 1;0.035961606240725;false
+F06_bin.2_01578; hypothetical protein;0.035859669018464;false
+F06_bin.2_00164; Thioredoxin reductase;0.035111899190599;false
+F06_bin.2_00398; hypothetical protein;0.034875384630560;false
+F06_bin.2_01663; hypothetical protein;0.032663723886168;false
+F06_bin.2_01748; hypothetical protein;0.032275309983919;false
+F06_bin.2_01150; Long-chain-fatty-acid--CoA ligase;0.028713279203084;false
+F06_bin.2_01085; hypothetical protein;0.028197237969731;false
+F06_bin.2_00880; hypothetical protein;0.025797581454538;false
+F06_bin.2_01447; Phosphoribosylformylglycinamidine synthase subunit PurS;0.024191624447264;false
+F06_bin.2_00041; Galactokinase;0.023627896968256;false
+F06_bin.2_00073; D-aminoacylase;0.021740432275811;false
+F06_bin.2_01187; Caffeyl-CoA reductase-Etf complex subunit CarE;0.021186728250726;false
+F06_bin.2_00932; hypothetical protein;0.021100875600455;false
+F06_bin.2_01484; hypothetical protein;0.019420107932431;false
+F06_bin.2_00202; 3-hexulose-6-phosphate isomerase;0.018983713497383;false
+F06_bin.2_00485; hypothetical protein;0.018355550158391;false
+F06_bin.2_00474; Pyruvate synthase subunit PorA;0.017913528110017;false
+F06_bin.2_00236; hypothetical protein;0.017419895581247;false
+F06_bin.2_00552; 2'-deoxynucleoside 5'-phosphate N-hydrolase 1;0.017291340961546;false
+F06_bin.2_00288; hypothetical protein;0.015816993129762;false
+F06_bin.2_00066; hypothetical protein;0.014084980745729;false
+F06_bin.2_00603; Putative amidase AmiD;0.013593038628032;false
+F06_bin.2_00635; ABC transporter ATP-binding protein NatA;0.013248004153741;false
+F06_bin.2_01270; Inorganic pyrophosphatase;0.012899460090801;false
+F06_bin.2_00079; DNA-binding transcriptional activator DecR;0.012850903047773;false
+F06_bin.2_00184; hypothetical protein;0.012479504149210;false
+F06_bin.2_00652; hypothetical protein;0.012418791045122;false
+F06_bin.2_01557; hypothetical protein;0.011877580037118;false
+F06_bin.2_01060; Choline trimethylamine-lyase;0.011491116140840;false
+F06_bin.2_00016; Glyoxylate/hydroxypyruvate reductase B;0.011282532447356;false
+F06_bin.2_00682; hypothetical protein;0.010158065232510;false
+F06_bin.2_01087; Polyamine aminopropyltransferase;0.008833759433542;false
+F06_bin.2_00936; [Ribosomal protein S18]-alanine N-acetyltransferase;0.008248093593279;false
+F06_bin.2_01520; L-lactate dehydrogenase;0.007893911295838;false
+F06_bin.2_00267; hypothetical protein;0.007728241425291;false
+F06_bin.2_00014; Thymidylate synthase;0.007374097126537;false
+F06_bin.2_01320; Glutathione synthetase;0.007092243777560;false
+F06_bin.2_00770; hypothetical protein;0.006835841220476;false
+F06_bin.2_00727; hypothetical protein;0.006390540944831;false
+F06_bin.2_00379; hypothetical protein;0.006129927688569;false
+F06_bin.2_00765; Cystathionine beta-lyase PatB;0.004748722025923;false
+F06_bin.2_00578; hypothetical protein;0.004729073186278;false
+F06_bin.2_01313; Dipeptidyl-peptidase 5;0.004591134255350;false
+F06_bin.2_00009; Octanoyltransferase LipM;0.004516760588612;false
+F06_bin.2_01516; hypothetical protein;0.004347985746864;false
+F06_bin.2_01460; hypothetical protein;0.004277166052330;false
+F06_bin.2_01598; hypothetical protein;0.003939583549843;false
+F06_bin.2_01729; hypothetical protein;0.003588294158636;false
+F06_bin.2_00863; hypothetical protein;0.003444874026906;false
+F06_bin.2_01227; hypothetical protein;0.003339438354172;false
+F06_bin.2_01071; hypothetical protein;0.003231055154821;false
+F06_bin.2_00872; hypothetical protein;0.003124604821105;false
+F06_bin.2_00990; Glutathione transport system permease protein GsiD;0.003063140531454;false
+F06_bin.2_01487; hypothetical protein;0.002936261150886;false
+F06_bin.2_01711; hypothetical protein;0.002903026783526;false
+F06_bin.2_00526; 5'-deoxyadenosine deaminase;0.002690667421821;false
+F06_bin.2_01736; hypothetical protein;0.002520115728673;false
+F06_bin.2_01429; hypothetical protein;0.002395618450589;false
+F06_bin.2_01216; Oligopeptide transport ATP-binding protein OppD;0.002122179182778;false
+F06_bin.2_00305; hypothetical protein;0.001945355274133;false
+F06_bin.2_01498; hypothetical protein;0.001938823489678;false
+F06_bin.2_00613; hypothetical protein;0.001907794585685;false
+F06_bin.2_01258; Putative nickel-responsive regulator;0.001902722787810;false
+F06_bin.2_01694; hypothetical protein;0.001864711111850;false
+F06_bin.2_00212; 60 kDa chaperonin;0.001778172269169;false
+F06_bin.2_01109; hypothetical protein;0.001682105568565;false
+F06_bin.2_00579; Putative multidrug export ATP-binding/permease protein;0.001675821876825;false
+F06_bin.2_00547; NADPH dehydrogenase;0.001470903742069;false
+F06_bin.2_00040; Glutamate 5-kinase;0.001358056220791;false
+F06_bin.2_01031; N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase;0.001237043566327;false
+F06_bin.2_00637; F420-dependent glucose-6-phosphate dehydrogenase;0.001189701488008;false
+F06_bin.2_00370; hypothetical protein;0.001183400178988;false
+F06_bin.2_01220; Argininosuccinate synthase;0.001120469261742;false
+F06_bin.2_00984; hypothetical protein;0.001068020872507;false
+F06_bin.2_01132; 3-keto-5-aminohexanoate cleavage enzyme;0.001046064727197;false
+F06_bin.2_00897; Putative TrmH family tRNA/rRNA methyltransferase;0.001046023762678;false
+F06_bin.2_01326; hypothetical protein;0.000949504708174;false
+F06_bin.2_01164; hypothetical protein;0.000936264063298;false
+F06_bin.2_00106; hypothetical protein;0.000932840294874;false
+F06_bin.2_01680; hypothetical protein;0.000930260913734;false
+F06_bin.2_00913; N-acetylmuramic acid 6-phosphate etherase;0.000856455836815;false
+F06_bin.2_00760; hypothetical protein;0.000805325913198;false
+F06_bin.2_01567; hypothetical protein;0.000790011046687;false
+F06_bin.2_00735; hypothetical protein;0.000710705461480;false
+F06_bin.2_00148; hypothetical protein;0.000700556291238;false
+F06_bin.2_00171; hypothetical protein;0.000698981558800;false
+F06_bin.2_01451; putative oxidoreductase YdhV;0.000650781356884;false
+F06_bin.2_01431; hypothetical protein;0.000533040472497;false
+F06_bin.2_01773; hypothetical protein;0.000518239525032;false
+F06_bin.2_00845; hypothetical protein;0.000516054848820;false
+F06_bin.2_00113; hypothetical protein;0.000509163912532;false
+F06_bin.2_00565; hypothetical protein;0.000501948839805;false
+F06_bin.2_01400; hypothetical protein;0.000454973782818;false
+F06_bin.2_01365; hypothetical protein;0.000439728471351;false
+F06_bin.2_01050; hypothetical protein;0.000438278700934;false
+F06_bin.2_00721; Serine-pyruvate aminotransferase;0.000399712951684;false
+F06_bin.2_01290; NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic;0.000397149546494;false
+F06_bin.2_01322; Putative phosphoserine phosphatase 2;0.000395068541036;false
+F06_bin.2_01123; hypothetical protein;0.000389448000612;false
+F06_bin.2_00594; Hydroxyacylglutathione hydrolase;0.000383890603930;false
+F06_bin.2_00800; hypothetical protein;0.000361803593091;false
+F06_bin.2_00969; hypothetical protein;0.000351368313592;false
+F06_bin.2_00519; hypothetical protein;0.000341498373284;false
+F06_bin.2_01038; Glutathione synthetase;0.000327842431446;false
+F06_bin.2_00414; hypothetical protein;0.000313820583486;false
+F06_bin.2_00255; hypothetical protein;0.000304261004201;false
+F06_bin.2_01173; hypothetical protein;0.000301657559470;false
+F06_bin.2_00868; hypothetical protein;0.000268249501877;false
+F06_bin.2_01422; DNA-directed RNA polymerase subunit beta';0.000253148559839;false
+F06_bin.2_01090; Long-chain-fatty-acid--CoA ligase;0.000252631252266;false
+F06_bin.2_00491; hypothetical protein;0.000238945647552;false
+F06_bin.2_00395; hypothetical protein;0.000231777269843;false
+F06_bin.2_00043; hypothetical protein;0.000202559901106;false
+F06_bin.2_01619; Phosphatidylinositol phosphate synthase;0.000194337556746;false
+F06_bin.2_00575; hypothetical protein;0.000187922908451;false
+F06_bin.2_01700; hypothetical protein;0.000184988934397;false
+F06_bin.2_01644; hypothetical protein;0.000173065154170;false
+F06_bin.2_00071; hypothetical protein;0.000161772870331;false
+F06_bin.2_00697; hypothetical protein;0.000160309946773;false
+F06_bin.2_01269; hypothetical protein;0.000159950604367;false
+F06_bin.2_01757; hypothetical protein;0.000156925349341;false
+F06_bin.2_00131; K(+)-stimulated pyrophosphate-energized proton pump;0.000152209773830;false
+F06_bin.2_01277; NAD-dependent protein deacetylase;0.000151442148431;false
+F06_bin.2_01141; hypothetical protein;0.000139269668453;false
+F06_bin.2_01605; hypothetical protein;0.000127335403650;false
+F06_bin.2_01596; Methylcorrinoid:tetrahydrofolate methyltransferase;0.000125385483074;false
+F06_bin.2_01002; hypothetical protein;0.000122364110732;false
+F06_bin.2_00545; Alanine--tRNA ligase;0.000120213022974;false
+F06_bin.2_00487; hypothetical protein;0.000117253541935;false
+F06_bin.2_00645; hypothetical protein;0.000108913752668;false
+F06_bin.2_00225; hypothetical protein;0.000104079114714;false
+F06_bin.2_01566; hypothetical protein;0.000103939624118;false
+F06_bin.2_00719; Protein archease;0.000101201124593;false
+F06_bin.2_01714; hypothetical protein;0.000097278443461;false
+F06_bin.2_00610; hypothetical protein;0.000091370408455;false
+F06_bin.2_01614; hypothetical protein;0.000081413199186;false
+F06_bin.2_00332; RNA-splicing ligase RtcB;0.000081026634288;false
+F06_bin.2_00690; hypothetical protein;0.000080782397868;false
+F06_bin.2_00100; Signal recognition particle receptor FtsY;0.000079481742331;false
+F06_bin.2_01488; hypothetical protein;0.000078268602930;false
+F06_bin.2_01465; hypothetical protein;0.000077284046751;false
+F06_bin.2_00093; High molecular weight rubredoxin;0.000076428811020;false
+F06_bin.2_00189; hypothetical protein;0.000063711823563;false
+F06_bin.2_01577; hypothetical protein;0.000058620629305;false
+F06_bin.2_01245; hypothetical protein;0.000051794693953;false
+F06_bin.2_01238; Glycine--tRNA ligase;0.000046303554524;false
+F06_bin.2_00648; Taurine--pyruvate aminotransferase;0.000045234959499;false
+F06_bin.2_01009; hypothetical protein;0.000043539418012;false
+F06_bin.2_01354; hypothetical protein;0.000043418154431;false
+F06_bin.2_00292; NAD(P)-specific glutamate dehydrogenase;0.000041646966391;false
+F06_bin.2_01556; hypothetical protein;0.000041643247694;false
+F06_bin.2_00065; Multidrug efflux pump Tap;0.000039769034251;false
+F06_bin.2_00562; hypothetical protein;0.000038669010022;false
+F06_bin.2_00456; 1,4-dihydroxy-2-naphthoate octaprenyltransferase;0.000038150589734;false
+F06_bin.2_01565; Nitric oxide reductase;0.000037426282767;false
+F06_bin.2_00464; hypothetical protein;0.000032820537095;false
+F06_bin.2_00891; Phospho-2-dehydro-3-deoxyheptonate aldolase;0.000031108323290;false
+F06_bin.2_01378; Polyamine aminopropyltransferase;0.000029289028824;false
+F06_bin.2_00503; hypothetical protein;0.000029207388854;false
+F06_bin.2_00141; hypothetical protein;0.000028395766610;false
+F06_bin.2_00925; hypothetical protein;0.000028045612300;false
+F06_bin.2_01353; L-carnitine dehydrogenase;0.000026979105745;false
+F06_bin.2_01158; hypothetical protein;0.000026591846333;false
+F06_bin.2_01019; Phosphate acetyltransferase;0.000025331840295;false
+F06_bin.2_00203; hypothetical protein;0.000024881390036;false
+F06_bin.2_00291; hypothetical protein;0.000023961491267;false
+F06_bin.2_01631; hypothetical protein;0.000023341086688;false
+F06_bin.2_00275; hypothetical protein;0.000021571710442;false
+F06_bin.2_00312; hypothetical protein;0.000017808624430;false
+F06_bin.2_01289; Na(+)/H(+) antiporter subunit A;0.000017671108047;false
+F06_bin.2_00019; hypothetical protein;0.000017450471665;false
+F06_bin.2_00259; hypothetical protein;0.000017277403559;false
+F06_bin.2_00326; N-substituted formamide deformylase;0.000017134230134;false
+F06_bin.2_00437; hypothetical protein;0.000014038602067;false
+F06_bin.2_00037; F420-dependent glucose-6-phosphate dehydrogenase 1;0.000013774083367;false
+F06_bin.2_00767; hypothetical protein;0.000013680246917;false
+F06_bin.2_00493; hypothetical protein;0.000012910206104;false
+F06_bin.2_01670; Putative aminopeptidase YsdC;0.000012370328430;false
+F06_bin.2_01243; hypothetical protein;0.000011952793002;false
+F06_bin.2_01742; hypothetical protein;0.000011376090509;false
+F06_bin.2_00902; Glutaredoxin arsenate reductase;0.000011257229771;false
+F06_bin.2_01286; hypothetical protein;0.000010767889799;false
+F06_bin.2_00266; 50S ribosomal protein L23;0.000010672615724;false
+F06_bin.2_01706; hypothetical protein;0.000010126673185;false
+F06_bin.2_00867; hypothetical protein;0.000009514501509;false
+F06_bin.2_00397; hypothetical protein;0.000009308850789;false
+F06_bin.2_01403; hypothetical protein;0.000008652132339;false
+F06_bin.2_01611; hypothetical protein;0.000008401957606;false
+F06_bin.2_01601; hypothetical protein;0.000008364514892;false
+F06_bin.2_01515; Proline--tRNA ligase;0.000008337696404;false
+F06_bin.2_00333; Oxalate oxidoreductase subunit beta;0.000008074099328;false
+F06_bin.2_00950; Thermostable carboxypeptidase 1;0.000007785199661;false
+F06_bin.2_00600; hypothetical protein;0.000007608657100;false
+F06_bin.2_00717; hypothetical protein;0.000007570925214;false
+F06_bin.2_00381; hypothetical protein;0.000007378895187;false
+F06_bin.2_00979; High-affinity branched-chain amino acid transport ATP-binding protein LivF;0.000007317144767;false
+F06_bin.2_01687; hypothetical protein;0.000007271114885;false
+F06_bin.2_01762; hypothetical protein;0.000007258094277;false
+F06_bin.2_01240; Carboxy-S-adenosyl-L-methionine synthase;0.000007255133325;false
+F06_bin.2_00666; hypothetical protein;0.000006690927086;false
+F06_bin.2_01282; hypothetical protein;0.000006600890818;false
+F06_bin.2_00417; hypothetical protein;0.000006597376420;false
+F06_bin.2_00764; Cysteine--tRNA ligase;0.000006554643033;false
+F06_bin.2_01562; 3-oxoacyl-[acyl-carrier-protein] synthase 3;0.000006014412945;false
+F06_bin.2_00252; 50S ribosomal protein L6;0.000005919379441;false
+F06_bin.2_00586; Arginine--tRNA ligase;0.000005041096423;false
+F06_bin.2_00879; hypothetical protein;0.000004827765872;false
+F06_bin.2_00831; hypothetical protein;0.000004573877099;false
+F06_bin.2_00998; hypothetical protein;0.000004473578480;false
+F06_bin.2_00360; hypothetical protein;0.000004413382517;false
+F06_bin.2_00446; Methylated-DNA--protein-cysteine methyltransferase;0.000004237994115;false
+F06_bin.2_00750; hypothetical protein;0.000004105464811;false
+F06_bin.2_01549; hypothetical protein;0.000004088882915;false
+F06_bin.2_01356; Dihydroxy-acid dehydratase;0.000003984735741;false
+F06_bin.2_00465; hypothetical protein;0.000003631074880;false
+F06_bin.2_00166; hypothetical protein;0.000003527566526;false
+F06_bin.2_00168; Ribose-phosphate pyrophosphokinase;0.000003475067579;false
+F06_bin.2_00570; Bifunctional ligase/repressor BirA;0.000003320723662;false
+F06_bin.2_00278; hypothetical protein;0.000003189524232;false
+F06_bin.2_00122; hypothetical protein;0.000003177481986;false
+F06_bin.2_00622; hypothetical protein;0.000003091173726;false
+F06_bin.2_01145; hypothetical protein;0.000002972030184;false
+F06_bin.2_01420; Rubrerythrin-2;0.000002922928138;false
+F06_bin.2_00938; hypothetical protein;0.000002840310646;false
+F06_bin.2_00246; hypothetical protein;0.000002787811219;false
+F06_bin.2_00815; hypothetical protein;0.000002753205735;false
+F06_bin.2_01438; Thioredoxin;0.000002560753308;false
+F06_bin.2_01395; Orotidine 5'-phosphate decarboxylase;0.000002501385439;false
+F06_bin.2_00829; hypothetical protein;0.000002468128935;false
+F06_bin.2_00587; hypothetical protein;0.000002458000972;false
+F06_bin.2_00046; hypothetical protein;0.000002349943693;false
+F06_bin.2_00200; Energy-coupling factor transporter transmembrane protein EcfT;0.000002311647395;false
+F06_bin.2_01225; hypothetical protein;0.000002284721627;false
+F06_bin.2_00802; hypothetical protein;0.000002164202610;false
+F06_bin.2_00951; Proteasome subunit alpha;0.000002035244428;false
+F06_bin.2_01591; Bifunctional aspartokinase/homoserine dehydrogenase 1;0.000001988602879;false
+F06_bin.2_00516; hypothetical protein;0.000001909817927;false
+F06_bin.2_00824; hypothetical protein;0.000001904566980;false
+F06_bin.2_00644; hypothetical protein;0.000001867814682;false
+F06_bin.2_01571; Rubrerythrin-2;0.000001817257242;false
+F06_bin.2_00837; hypothetical protein;0.000001662828272;false
+F06_bin.2_01074; hypothetical protein;0.000001660552808;false
+F06_bin.2_01163; 60 kDa chaperonin;0.000001640323170;false
+F06_bin.2_00034; hypothetical protein;0.000001631710409;false
+F06_bin.2_01104; hypothetical protein;0.000001625392649;false
+F06_bin.2_00085; hypothetical protein;0.000001586912305;false
+F06_bin.2_00306; hypothetical protein;0.000001566803420;false
+F06_bin.2_00114; 30S ribosomal protein S9;0.000001546605127;false
+F06_bin.2_01230; Acylase ACY 1 proenzyme;0.000001538306555;false
+F06_bin.2_00728; hypothetical protein;0.000001536441923;false
+F06_bin.2_00044; hypothetical protein;0.000001522275302;false
+F06_bin.2_01676; L-allo-threonine aldolase;0.000001428106023;false
+F06_bin.2_00790; hypothetical protein;0.000001404572791;false
+F06_bin.2_01481; Bifunctional chorismate mutase/prephenate dehydratase;0.000001397190005;false
+F06_bin.2_01033; Carnitine operon protein CaiE;0.000001363418095;false
+F06_bin.2_00799; hypothetical protein;0.000001265689549;false
+F06_bin.2_00274; Succinyl-diaminopimelate desuccinylase;0.000001237755739;false
+F06_bin.2_00460; putative adenylyltransferase/sulfurtransferase MoeZ;0.000001132411564;false
+F06_bin.2_00371; Acetoin utilization protein AcuC;0.000001110211805;false
+F06_bin.2_00642; hypothetical protein;0.000001097879430;false
+F06_bin.2_00219; Obg-like ATPase 1;0.000001019163845;false
+F06_bin.2_00591; Capreomycidine synthase;0.000001001328964;false
+F06_bin.2_00995; hypothetical protein;0.000000983634095;false
+F06_bin.2_00127; hypothetical protein;0.000000963168806;false
+F06_bin.2_00232; hypothetical protein;0.000000955124048;false
+F06_bin.2_00729; hypothetical protein;0.000000949489106;false
+F06_bin.2_01235; (2R)-sulfolactate sulfo-lyase subunit beta;0.000000944142729;false
+F06_bin.2_00084; hypothetical protein;0.000000908697651;false
+F06_bin.2_00676; hypothetical protein;0.000000859016834;false
+F06_bin.2_01616; hypothetical protein;0.000000849019736;false
+F06_bin.2_00992; hypothetical protein;0.000000802919218;false
+F06_bin.2_01722; hypothetical protein;0.000000780219965;false
+F06_bin.2_00976; Nicotinate dehydrogenase small FeS subunit;0.000000773386911;false
+F06_bin.2_00006; hypothetical protein;0.000000773176329;false
+F06_bin.2_01574; Putative multidrug export ATP-binding/permease protein;0.000000759101407;false
+F06_bin.2_00281; hypothetical protein;0.000000744120493;false
+F06_bin.2_00985; hypothetical protein;0.000000735694870;false
+F06_bin.2_00782; hypothetical protein;0.000000672346086;false
+F06_bin.2_00970; hypothetical protein;0.000000651149429;false
+F06_bin.2_01006; Electron transfer flavoprotein subunit beta;0.000000646812038;false
+F06_bin.2_00101; hypothetical protein;0.000000646154479;false
+F06_bin.2_01408; hypothetical protein;0.000000622564685;false
+F06_bin.2_00907; hypothetical protein;0.000000613024436;false
+F06_bin.2_00311; hypothetical protein;0.000000562274098;false
+F06_bin.2_00238; hypothetical protein;0.000000552727011;false
+F06_bin.2_01121; N(G),N(G)-dimethylarginine dimethylaminohydrolase;0.000000542997961;false
+F06_bin.2_00258; hypothetical protein;0.000000528737640;false
+F06_bin.2_01129; hypothetical protein;0.000000526340743;false
+F06_bin.2_01686; Cell division protein FtsZ;0.000000510815214;false
+F06_bin.2_01134; hypothetical protein;0.000000506234671;false
+F06_bin.2_00222; hypothetical protein;0.000000481810349;false
+F06_bin.2_00439; 2-oxoglutarate oxidoreductase subunit KorA;0.000000480199790;false
+F06_bin.2_00948; Formyltransferase/hydrolase complex Fhc subunit A;0.000000457867727;false
+F06_bin.2_01518; hypothetical protein;0.000000444091126;false
+F06_bin.2_00561; Arginine deiminase;0.000000441498908;false
+F06_bin.2_00279; Glycine cleavage system H protein;0.000000438288662;false
+F06_bin.2_00245; Protein translocase subunit SecY;0.000000435432166;false
+F06_bin.2_00418; hypothetical protein;0.000000410013010;false
+F06_bin.2_01653; 2-aminoadipate transaminase;0.000000402695229;false
+F06_bin.2_01671; hypothetical protein;0.000000390218567;false
+F06_bin.2_00780; putative cytosol aminopeptidase;0.000000389637127;false
+F06_bin.2_01424; Transcription termination/antitermination protein NusA;0.000000372320006;false
+F06_bin.2_00585; hypothetical protein;0.000000372107244;false
+F06_bin.2_01142; hypothetical protein;0.000000348267923;false
+F06_bin.2_01535; hypothetical protein;0.000000330262007;false
+F06_bin.2_01336; tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase;0.000000263537786;false
+F06_bin.2_00660; hypothetical protein;0.000000252933385;false
+F06_bin.2_00656; Formate--tetrahydrofolate ligase;0.000000251928089;false
+F06_bin.2_01170; hypothetical protein;0.000000249911380;false
+F06_bin.2_00048; hypothetical protein;0.000000238705904;false
+F06_bin.2_01703; V-type sodium ATPase subunit B;0.000000232848603;false
+F06_bin.2_01689; hypothetical protein;0.000000228563202;false
+F06_bin.2_01273; hypothetical protein;0.000000225216466;false
+F06_bin.2_00559; hypothetical protein;0.000000219192809;false
+F06_bin.2_00934; hypothetical protein;0.000000219112785;false
+F06_bin.2_00826; Propionyl-CoA carboxylase beta chain;0.000000219052648;false
+F06_bin.2_01092; Iron-sulfur cluster carrier protein;0.000000213757531;false
+F06_bin.2_01149; Acetyl-CoA acetyltransferase;0.000000213235546;false
+F06_bin.2_01441; p-aminobenzoyl-glutamate hydrolase subunit B;0.000000211207744;false
+F06_bin.2_00263; hypothetical protein;0.000000205090878;false
+F06_bin.2_00814; hypothetical protein;0.000000202621658;false
+F06_bin.2_01045; hypothetical protein;0.000000201736601;false
+F06_bin.2_01430; hypothetical protein;0.000000192312891;false
+F06_bin.2_00182; 2,3-dimethylmalate dehydratase small subunit;0.000000186730877;false
+F06_bin.2_01331; hypothetical protein;0.000000173600517;false
+F06_bin.2_00377; hypothetical protein;0.000000164606895;false
+F06_bin.2_01254; hypothetical protein;0.000000162638757;false
+F06_bin.2_00152; hypothetical protein;0.000000160198409;false
+F06_bin.2_01256; Methionine--tRNA ligase;0.000000156869486;false
+F06_bin.2_00483; Acetyl-coenzyme A synthetase;0.000000151204630;false
+F06_bin.2_01047; Anaerobic sulfite reductase subunit B;0.000000150624746;false
+F06_bin.2_01666; hypothetical protein;0.000000148148396;false
+F06_bin.2_00205; Elongation factor G;0.000000131669498;false
+F06_bin.2_01136; hypothetical protein;0.000000131477761;false
+F06_bin.2_01517; hypothetical protein;0.000000124517883;false
+F06_bin.2_01182; Aspartate aminotransferase;0.000000122695956;false
+F06_bin.2_01731; hypothetical protein;0.000000118299266;false
+F06_bin.2_00596; hypothetical protein;0.000000114549733;false
+F06_bin.2_00102; hypothetical protein;0.000000113694341;false
+F06_bin.2_00078; Methionine aminopeptidase 1, mitochondrial;0.000000111480544;false
+F06_bin.2_00121; Translation initiation factor IF-2;0.000000105377425;false
+F06_bin.2_01120; hypothetical protein;0.000000105370820;false
+F06_bin.2_00989; Oligopeptide transport ATP-binding protein OppD;0.000000104884541;false
+F06_bin.2_00095; hypothetical protein;0.000000097587156;false
+F06_bin.2_00532; Putative competence-damage inducible protein;0.000000090562061;false
+F06_bin.2_00492; hypothetical protein;0.000000085628589;false
+F06_bin.2_00286; hypothetical protein;0.000000081819082;false
+F06_bin.2_01439; hypothetical protein;0.000000077707800;false
+F06_bin.2_01140; hypothetical protein;0.000000071690188;false
+F06_bin.2_01415; Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK;0.000000068969819;false
+F06_bin.2_00115; hypothetical protein;0.000000065682874;false
+F06_bin.2_01589; Epoxyqueuosine reductase;0.000000062779537;false
+F06_bin.2_01764; hypothetical protein;0.000000061801637;false
+F06_bin.2_00946; Formyltransferase/hydrolase complex Fhc subunit C;0.000000057778744;false
+F06_bin.2_01153; Aminomethyltransferase;0.000000052967408;false
+F06_bin.2_00771; Threonine synthase;0.000000051146894;false
+F06_bin.2_00407; hypothetical protein;0.000000050938870;false
+F06_bin.2_00967; hypothetical protein;0.000000050839279;false
+F06_bin.2_00338; hypothetical protein;0.000000050300773;false
+F06_bin.2_00285; hypothetical protein;0.000000049643017;false
+F06_bin.2_01086; lipid II flippase MurJ;0.000000048956876;false
+F06_bin.2_00029; hypothetical protein;0.000000046931841;false
+F06_bin.2_00718; GMP synthase [glutamine-hydrolyzing];0.000000045484982;false
+F06_bin.2_01186; putative FAD-linked oxidoreductase;0.000000043785268;false
+F06_bin.2_01342; hypothetical protein;0.000000042634094;false
+F06_bin.2_00882; Succinate--CoA ligase [ADP-forming] subunit alpha;0.000000041657461;false
+F06_bin.2_00254; hypothetical protein;0.000000041451514;false
+F06_bin.2_00039; Isopentenyl-diphosphate delta-isomerase;0.000000040143990;false
+F06_bin.2_00260; hypothetical protein;0.000000038749236;false
+F06_bin.2_01317; Ribose-5-phosphate isomerase A;0.000000038140020;false
+F06_bin.2_00240; hypothetical protein;0.000000037767467;false
+F06_bin.2_00327; hypothetical protein;0.000000037475449;false
+F06_bin.2_00551; hypothetical protein;0.000000037067769;false
+F06_bin.2_01647; hypothetical protein;0.000000036607056;false
+F06_bin.2_00035; Regulatory protein AsnC;0.000000035250748;false
+F06_bin.2_00188; Proteasome subunit alpha;0.000000034709095;false
+F06_bin.2_00915; N-acetylglucosamine-6-phosphate deacetylase;0.000000034638515;false
+F06_bin.2_01478; Homoserine kinase;0.000000034221379;false
+F06_bin.2_00758; hypothetical protein;0.000000033554835;false
+F06_bin.2_00438; hypothetical protein;0.000000033357733;false
+F06_bin.2_00888; hypothetical protein;0.000000032529544;false
+F06_bin.2_00850; hypothetical protein;0.000000032230003;false
+F06_bin.2_00857; hypothetical protein;0.000000031922422;false
+F06_bin.2_01724; hypothetical protein;0.000000031505441;false
+F06_bin.2_00531; Lactate racemase;0.000000031193760;false
+F06_bin.2_00290; hypothetical protein;0.000000031050751;false
+F06_bin.2_00499; hypothetical protein;0.000000030161072;false
+F06_bin.2_00457; Threonine synthase;0.000000029673184;false
+F06_bin.2_00710; hypothetical protein;0.000000029323357;false
+F06_bin.2_01459; hypothetical protein;0.000000028356774;false
+F06_bin.2_00352; Agmatinase;0.000000027509724;false
+F06_bin.2_01639; Acetyl-coenzyme A synthetase;0.000000027467493;false
+F06_bin.2_00472; hypothetical protein;0.000000026715742;false
+F06_bin.2_00165; Thioredoxin;0.000000026589595;false
+F06_bin.2_01527; putative iron-sulfur-binding oxidoreductase FadF;0.000000026519333;false
+F06_bin.2_00340; hypothetical protein;0.000000026032965;false
+F06_bin.2_00405; hypothetical protein;0.000000025661077;false
+F06_bin.2_01406; 4-hydroxy-tetrahydrodipicolinate synthase;0.000000023112315;false
+F06_bin.2_00105; Multidrug resistance protein MdtG;0.000000022971800;false
+F06_bin.2_01684; hypothetical protein;0.000000022764406;false
+F06_bin.2_00548; hypothetical protein;0.000000022348599;false
+F06_bin.2_00881; putative Nudix hydrolase NudL;0.000000020797939;false
+F06_bin.2_01262; hypothetical protein;0.000000020510583;false
+F06_bin.2_01222; hypothetical protein;0.000000020182946;false
+F06_bin.2_01404; hypothetical protein;0.000000019810751;false
+F06_bin.2_00733; Thymidylate kinase;0.000000019227767;false
+F06_bin.2_00655; hypothetical protein;0.000000018207697;false
+F06_bin.2_00149; hypothetical protein;0.000000017556388;false
+F06_bin.2_00156; Cysteine desulfurase IscS;0.000000017372628;false
+F06_bin.2_01081; hypothetical protein;0.000000016622387;false
+F06_bin.2_01314; Dipeptidyl-peptidase 5;0.000000016465013;false
+F06_bin.2_01698; hypothetical protein;0.000000016181878;false
+F06_bin.2_00919; Glucokinase;0.000000015856844;false
+F06_bin.2_01324; hypothetical protein;0.000000015719212;false
+F06_bin.2_00416; hypothetical protein;0.000000015591332;false
+F06_bin.2_00450; D-inositol-3-phosphate glycosyltransferase;0.000000015390609;false
+F06_bin.2_00484; hypothetical protein;0.000000015195199;false
+F06_bin.2_01159; hypothetical protein;0.000000015047078;false
+F06_bin.2_01133; Alkanesulfonate monooxygenase;0.000000014990462;false
+F06_bin.2_01279; Caffeyl-CoA reductase-Etf complex subunit CarD;0.000000014705622;false
+F06_bin.2_00375; hypothetical protein;0.000000014563941;false
+F06_bin.2_00514; NADH pyrophosphatase;0.000000013680550;false
+F06_bin.2_00059; hypothetical protein;0.000000013500641;false
+F06_bin.2_00005; hypothetical protein;0.000000013406282;false
+F06_bin.2_00400; hypothetical protein;0.000000013163103;false
+F06_bin.2_01732; hypothetical protein;0.000000013080792;false
+F06_bin.2_00761; Hydroxyacylglutathione hydrolase;0.000000012680729;false
+F06_bin.2_00117; hypothetical protein;0.000000012481458;false
+F06_bin.2_00886; hypothetical protein;0.000000012290149;false
+F06_bin.2_01215; Guanidinobutyrase;0.000000011328871;false
+F06_bin.2_00453; Sulfur carrier protein FdhD;0.000000010897539;false
+F06_bin.2_00183; Homoisocitrate dehydrogenase;0.000000010630666;false
+F06_bin.2_00522; hypothetical protein;0.000000009631695;false
+F06_bin.2_00797; hypothetical protein;0.000000009597724;false
+F06_bin.2_00960; hypothetical protein;0.000000009437059;false
+F06_bin.2_00495; hypothetical protein;0.000000007858674;false
+F06_bin.2_01551; hypothetical protein;0.000000007742201;false
+F06_bin.2_00353; hypothetical protein;0.000000007620517;false
+F06_bin.2_01563; Rubrerythrin;0.000000007573655;false
+F06_bin.2_00864; hypothetical protein;0.000000007510406;false
+F06_bin.2_01624; hypothetical protein;0.000000006770812;false
+F06_bin.2_01414; 3-hydroxybutyryl-CoA dehydrogenase;0.000000006753265;false
+F06_bin.2_01335; Ribosomal RNA large subunit methyltransferase E;0.000000006600339;false
+F06_bin.2_00385; hypothetical protein;0.000000006215210;false
+F06_bin.2_00185; hypothetical protein;0.000000005949062;false
+F06_bin.2_00701; hypothetical protein;0.000000005626100;false
+F06_bin.2_01716; hypothetical protein;0.000000005028734;false
+F06_bin.2_00399; hypothetical protein;0.000000005017913;false
+F06_bin.2_00661; hypothetical protein;0.000000004980558;false
+F06_bin.2_01274; Uridylate kinase;0.000000004805878;false
+F06_bin.2_01161; hypothetical protein;0.000000004723431;false
+F06_bin.2_00334; Oxalate oxidoreductase subunit alpha;0.000000004718196;false
+F06_bin.2_00529; hypothetical protein;0.000000004574864;false
+F06_bin.2_00434; hypothetical protein;0.000000004263879;false
+F06_bin.2_01292; hypothetical protein;0.000000004231356;false
+F06_bin.2_00582; hypothetical protein;0.000000004154731;false
+F06_bin.2_01440; hypothetical protein;0.000000003759106;false
+F06_bin.2_00592; Endonuclease NucS;0.000000003658650;false
+F06_bin.2_01669; Peroxiredoxin Bcp;0.000000003530536;false
+F06_bin.2_00157; Iron-sulfur cluster assembly scaffold protein IscU;0.000000003501384;false
+F06_bin.2_00821; Delta(1)-pyrroline-2-carboxylate reductase;0.000000003476536;false
+F06_bin.2_01655; hypothetical protein;0.000000003473950;false
+F06_bin.2_00505; Succinyl-CoA--L-malate CoA-transferase beta subunit;0.000000003463322;false
+F06_bin.2_00396; hypothetical protein;0.000000003428398;false
+F06_bin.2_01174; hypothetical protein;0.000000003412134;false
+F06_bin.2_00659; Aspartate--tRNA(Asp/Asn) ligase;0.000000003313594;false
+F06_bin.2_01636; hypothetical protein;0.000000003017607;false
+F06_bin.2_01509; Maleate isomerase;0.000000002957456;false
+F06_bin.2_00809; hypothetical protein;0.000000002785344;false
+F06_bin.2_01444; hypothetical protein;0.000000002757556;false
+F06_bin.2_00235; NAD-dependent malic enzyme;0.000000002618833;false
+F06_bin.2_00082; Valine--tRNA ligase;0.000000002610698;false
+F06_bin.2_00062; Molybdenum cofactor biosynthesis protein B;0.000000002575775;false
+F06_bin.2_00506; Protein-L-isoaspartate O-methyltransferase;0.000000002442178;false
+F06_bin.2_00766; hypothetical protein;0.000000002437141;false
+F06_bin.2_00376; hypothetical protein;0.000000002421868;false
+F06_bin.2_00430; hypothetical protein;0.000000002387742;false
+F06_bin.2_01084; DNA-directed RNA polymerase subunit beta;0.000000002328425;false
+F06_bin.2_00230; 8-methylmenaquinol:fumarate reductase membrane anchor subunit;0.000000002160430;false
+F06_bin.2_01325; hypothetical protein;0.000000002146037;false
+F06_bin.2_00762; p-aminobenzoyl-glutamate hydrolase subunit B;0.000000002134044;false
+F06_bin.2_01740; N-acyl-D-aspartate deacylase;0.000000002055985;false
+F06_bin.2_01114; Protein RecA;0.000000002034314;false
+F06_bin.2_01770; hypothetical protein;0.000000002010711;false
+F06_bin.2_01032; Endonuclease III;0.000000001908916;false
+F06_bin.2_00403; hypothetical protein;0.000000001797590;false
+F06_bin.2_00253; 30S ribosomal protein S8;0.000000001655413;false
+F06_bin.2_00796; hypothetical protein;0.000000001623617;false
+F06_bin.2_00215; 3-isopropylmalate dehydrogenase;0.000000001573430;false
+F06_bin.2_00287; Cell division protein FtsZ;0.000000001569555;false
+F06_bin.2_00957; hypothetical protein;0.000000001547129;false
+F06_bin.2_00513; Acetophenone carboxylase gamma subunit;0.000000001457570;false
+F06_bin.2_01229; Albonoursin synthase;0.000000001435336;false
+F06_bin.2_01725; hypothetical protein;0.000000001411343;false
+F06_bin.2_00178; hypothetical protein;0.000000001410560;false
+F06_bin.2_00616; Isoleucine 2-epimerase;0.000000001400965;false
+F06_bin.2_01678; hypothetical protein;0.000000001367731;false
+F06_bin.2_00509; hypothetical protein;0.000000001158837;false
+F06_bin.2_00124; hypothetical protein;0.000000001139622;false
+F06_bin.2_00630; hypothetical protein;0.000000001131846;false
+F06_bin.2_00033; Coenzyme A biosynthesis bifunctional protein CoaBC;0.000000001110931;false
+F06_bin.2_00217; hypothetical protein;0.000000001101916;false
+F06_bin.2_00368; 3'(2'),5'-bisphosphate nucleotidase CysQ;0.000000001071144;false
+F06_bin.2_01288; V-type ATP synthase subunit F;0.000000000965555;false
+F06_bin.2_01234; Altronate dehydratase;0.000000000955615;false
+F06_bin.2_01733; Adenosine deaminase;0.000000000954105;false
+F06_bin.2_00833; Antilisterial bacteriocin subtilosin biosynthesis protein AlbA;0.000000000945051;false
+F06_bin.2_00004; Arginine deiminase;0.000000000944382;false
+F06_bin.2_01198; hypothetical protein;0.000000000913466;false
+F06_bin.2_01750; hypothetical protein;0.000000000872038;false
+F06_bin.2_00859; Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial;0.000000000861755;false
+F06_bin.2_00689; hypothetical protein;0.000000000789572;false
+F06_bin.2_01632; Geranylgeranylglyceryl phosphate synthase;0.000000000787222;false
+F06_bin.2_00361; DNA topoisomerase 6 subunit A;0.000000000759959;false
+F06_bin.2_00884; Cysteine desulfurase SufS;0.000000000742809;false
+F06_bin.2_01760; hypothetical protein;0.000000000740781;false
+F06_bin.2_01341; ATP-dependent zinc metalloprotease FtsH;0.000000000736970;false
+F06_bin.2_00527; hypothetical protein;0.000000000698331;false
+F06_bin.2_01241; DNA-3-methyladenine glycosylase 1;0.000000000694374;false
+F06_bin.2_00436; Hydroxypyruvate reductase;0.000000000693051;false
+F06_bin.2_00473; Pyruvate synthase subunit PorB;0.000000000670750;false
+F06_bin.2_01658; hypothetical protein;0.000000000667909;false
+F06_bin.2_01521; hypothetical protein;0.000000000665938;false
+F06_bin.2_01606; hypothetical protein;0.000000000640265;false
+F06_bin.2_00784; hypothetical protein;0.000000000603733;false
+F06_bin.2_00956; Putative 3-methyladenine DNA glycosylase;0.000000000595851;false
+F06_bin.2_01065; hypothetical protein;0.000000000595466;false
+F06_bin.2_01339; hypothetical protein;0.000000000555263;false
+F06_bin.2_00210; hypothetical protein;0.000000000550882;false
+F06_bin.2_01311; p-aminobenzoyl-glutamate hydrolase subunit B;0.000000000547469;false
+F06_bin.2_01621; hypothetical protein;0.000000000528521;false
+F06_bin.2_01693; Phosphoglycolate phosphatase;0.000000000509329;false
+F06_bin.2_01651; hypothetical protein;0.000000000504282;false
+F06_bin.2_00791; Ribonuclease;0.000000000484029;false
+F06_bin.2_00192; Ribonuclease PH;0.000000000483190;false
+F06_bin.2_00748; TRAP-T-associated universal stress protein TeaD;0.000000000480157;false
+F06_bin.2_00747; hypothetical protein;0.000000000471680;false
+F06_bin.2_00606; Zinc transporter ZupT;0.000000000463517;false
+F06_bin.2_00741; hypothetical protein;0.000000000450433;false
+F06_bin.2_01202; NAD(P)H-quinone oxidoreductase subunit I, chloroplastic;0.000000000444340;false
+F06_bin.2_01303; hypothetical protein;0.000000000408335;false
+F06_bin.2_00015; hypothetical protein;0.000000000406792;false
+F06_bin.2_01249; hypothetical protein;0.000000000396665;false
+F06_bin.2_01537; hypothetical protein;0.000000000395577;false
+F06_bin.2_00854; hypothetical protein;0.000000000377795;false
+F06_bin.2_01185; hypothetical protein;0.000000000370918;false
+F06_bin.2_00476; Pyruvate synthase subunit PorC;0.000000000368296;false
+F06_bin.2_00696; putative sugar kinase YdjH;0.000000000364095;false
+F06_bin.2_01091; Hydrogenase maturation factor HypA;0.000000000353400;false
+F06_bin.2_01623; hypothetical protein;0.000000000329413;false
+F06_bin.2_01609; hypothetical protein;0.000000000324521;false
+F06_bin.2_00180; 2-isopropylmalate synthase;0.000000000323199;false
+F06_bin.2_00143; dITP/XTP pyrophosphatase;0.000000000311741;false
+F06_bin.2_01758; Cation efflux system protein CusB;0.000000000302722;false
+F06_bin.2_01640; hypothetical protein;0.000000000293786;false
+F06_bin.2_01332; hypothetical protein;0.000000000292283;false
+F06_bin.2_00023; hypothetical protein;0.000000000287227;false
+F06_bin.2_01048; hypothetical protein;0.000000000272455;false
+F06_bin.2_00794; hypothetical protein;0.000000000266236;false
+F06_bin.2_00947; Formyltransferase/hydrolase complex subunit D;0.000000000235794;false
+F06_bin.2_01157; hypothetical protein;0.000000000227940;false
+F06_bin.2_00530; hypothetical protein;0.000000000218930;false
+F06_bin.2_00657; Bifunctional protein FolD protein;0.000000000212723;false
+F06_bin.2_01183; p-aminobenzoyl-glutamate hydrolase subunit B;0.000000000211203;false
+F06_bin.2_00313; Glutamine--tRNA ligase;0.000000000208537;false
+F06_bin.2_00558; hypothetical protein;0.000000000206489;false
+F06_bin.2_01401; Oxalate oxidoreductase subunit alpha;0.000000000204978;false
+F06_bin.2_01713; hypothetical protein;0.000000000200444;false
+F06_bin.2_01463; Ion-translocating oxidoreductase complex subunit B;0.000000000198714;false
+F06_bin.2_00553; hypothetical protein;0.000000000193640;false
+F06_bin.2_01094; Ribulose bisphosphate carboxylase large chain;0.000000000193235;false
+F06_bin.2_00746; hypothetical protein;0.000000000180385;false
+F06_bin.2_00549; Protein hit;0.000000000179790;false
+F06_bin.2_00162; endonuclease 4;0.000000000176183;false
+F06_bin.2_00965; hypothetical protein;0.000000000175319;false
+F06_bin.2_01512; hypothetical protein;0.000000000174228;false
+F06_bin.2_01396; hypothetical protein;0.000000000171090;false
+F06_bin.2_00359; UTP--glucose-1-phosphate uridylyltransferase;0.000000000167601;false
+F06_bin.2_00420; Ornithine carbamoyltransferase;0.000000000148989;false
+F06_bin.2_00754; hypothetical protein;0.000000000147528;false
+F06_bin.2_00627; hypothetical protein;0.000000000147336;false
+F06_bin.2_01493; UDP-N-acetyl-D-mannosamine dehydrogenase;0.000000000147003;false
+F06_bin.2_01131; hypothetical protein;0.000000000143965;false
+F06_bin.2_00820; Phenolic acid decarboxylase;0.000000000143517;false
+F06_bin.2_00711; hypothetical protein;0.000000000138786;false
+F06_bin.2_00444; hypothetical protein;0.000000000137455;false
+F06_bin.2_01634; NH(3)-dependent NAD(+) synthetase;0.000000000133846;false
+F06_bin.2_01237; Octanoyltransferase LipM;0.000000000132977;false
+F06_bin.2_00508; hypothetical protein;0.000000000132318;false
+F06_bin.2_01190; hypothetical protein;0.000000000132197;false
+F06_bin.2_01454; hypothetical protein;0.000000000131682;false
+F06_bin.2_00702; hypothetical protein;0.000000000129959;false
+F06_bin.2_00745; hypothetical protein;0.000000000122474;false
+F06_bin.2_01552; putative ABC transporter ATP-binding protein YknY;0.000000000120283;false
+F06_bin.2_01475; Methylmalonyl-CoA mutase;0.000000000120092;false
+F06_bin.2_00597; hypothetical protein;0.000000000118503;false
+F06_bin.2_01080; Phosphoglycolate phosphatase;0.000000000118491;false
+F06_bin.2_00877; N-substituted formamide deformylase;0.000000000117990;false
+F06_bin.2_00847; Taurine--pyruvate aminotransferase;0.000000000116528;false
+F06_bin.2_01600; V-type sodium ATPase catalytic subunit A;0.000000000115216;false
+F06_bin.2_00387; hypothetical protein;0.000000000109555;false
+F06_bin.2_00443; hypothetical protein;0.000000000108479;false
+F06_bin.2_00807; Segregation and condensation protein B;0.000000000107893;false
+F06_bin.2_01343; 5,6-dimethylbenzimidazole synthase;0.000000000107329;false
+F06_bin.2_00241; hypothetical protein;0.000000000105378;false
+F06_bin.2_00883; Succinate--CoA ligase [GDP-forming] subunit beta;0.000000000100173;false
+F06_bin.2_00069; Copper-transporting P-type ATPase;0.000000000096047;false
+F06_bin.2_00320; hypothetical protein;0.000000000093402;false
+F06_bin.2_01096; putative oxidoreductase YjmC;0.000000000088715;false
+F06_bin.2_01458; Trehalose transport system permease protein SugA;0.000000000086704;false
+F06_bin.2_00036; hypothetical protein;0.000000000086248;false
+F06_bin.2_01393; hypothetical protein;0.000000000080703;false
+F06_bin.2_00751; hypothetical protein;0.000000000075324;false
+F06_bin.2_01352; hypothetical protein;0.000000000072239;false
+F06_bin.2_01251; hypothetical protein;0.000000000070802;false
+F06_bin.2_01169; Nicotinamide-nucleotide adenylyltransferase;0.000000000070625;false
+F06_bin.2_01539; Succinyl-CoA--L-malate CoA-transferase beta subunit;0.000000000068884;false
+F06_bin.2_01135; Purine nucleoside phosphorylase DeoD-type;0.000000000067586;false
+F06_bin.2_00607; Putative 2-hydroxyacid dehydrogenase;0.000000000064753;false
+F06_bin.2_00132; hypothetical protein;0.000000000064272;false
+F06_bin.2_00179; Caffeyl-CoA reductase-Etf complex subunit CarC;0.000000000063118;false
+F06_bin.2_00994; hypothetical protein;0.000000000062531;false
+F06_bin.2_01383; hypothetical protein;0.000000000061565;false
+F06_bin.2_00736; hypothetical protein;0.000000000052010;false
+F06_bin.2_00725; hypothetical protein;0.000000000048393;false
+F06_bin.2_01143; 2-methylcitrate dehydratase 2;0.000000000046154;false
+F06_bin.2_00461; hypothetical protein;0.000000000045570;false
+F06_bin.2_01357; p-aminobenzoyl-glutamate hydrolase subunit B;0.000000000043793;false
+F06_bin.2_01280; hypothetical protein;0.000000000043211;false
+F06_bin.2_00646; putative ABC transporter ATP-binding protein YknY;0.000000000041724;false
+F06_bin.2_00940; hypothetical protein;0.000000000039953;false
+F06_bin.2_01450; NADH-dependent phenylglyoxylate dehydrogenase subunit beta;0.000000000039521;false
+F06_bin.2_00916; Argininosuccinate lyase;0.000000000038769;false
+F06_bin.2_01253; D-glucosaminate-6-phosphate ammonia lyase;0.000000000036902;false
+F06_bin.2_00270; Endonuclease III;0.000000000036814;false
+F06_bin.2_00335; Oxalate oxidoreductase subunit delta;0.000000000034401;false
+F06_bin.2_01372; hypothetical protein;0.000000000034110;false
+F06_bin.2_00426; Aminopeptidase YpdF;0.000000000033417;false
+F06_bin.2_01387; Glutamine synthetase;0.000000000032687;false
+F06_bin.2_00172; hypothetical protein;0.000000000032634;false
+F06_bin.2_00841; hypothetical protein;0.000000000030886;false
+F06_bin.2_01246; N-acetyl-alpha-D-glucosaminyl L-malate synthase;0.000000000030246;false
+F06_bin.2_00498; hypothetical protein;0.000000000029076;false
+F06_bin.2_01482; T-protein;0.000000000028947;false
+F06_bin.2_01382; 3-hydroxybutyryl-CoA dehydrogenase;0.000000000028851;false
+F06_bin.2_00289; Pyruvate formate-lyase 1-activating enzyme;0.000000000027529;false
+F06_bin.2_00194; hypothetical protein;0.000000000027269;false
+F06_bin.2_01068; Fosmidomycin resistance protein;0.000000000026534;false
+F06_bin.2_01197; NAD(P)H dehydrogenase (quinone);0.000000000026305;false
+F06_bin.2_01188; Caffeyl-CoA reductase-Etf complex subunit CarD;0.000000000025944;false
+F06_bin.2_00534; Chaperone protein DnaJ;0.000000000025282;false
+F06_bin.2_01218; L-lactate transporter;0.000000000023326;false
+F06_bin.2_01103; hypothetical protein;0.000000000022886;false
+F06_bin.2_00199; Putative HMP/thiamine import ATP-binding protein YkoD;0.000000000022191;false
+F06_bin.2_00220; hypothetical protein;0.000000000021789;false
+F06_bin.2_01191; hypothetical protein;0.000000000021613;false
+F06_bin.2_01035; putative nicotinate-nucleotide pyrophosphorylase [carboxylating];0.000000000021585;false
+F06_bin.2_00021; hypothetical protein;0.000000000021475;false
+F06_bin.2_00772; hypothetical protein;0.000000000021029;false
+F06_bin.2_00792; hypothetical protein;0.000000000020193;false
+F06_bin.2_00068; N-substituted formamide deformylase;0.000000000020119;false
+F06_bin.2_01712; hypothetical protein;0.000000000019791;false
+F06_bin.2_00393; hypothetical protein;0.000000000019097;false
+F06_bin.2_00088; Epoxyqueuosine reductase;0.000000000018370;false
+F06_bin.2_01232; hypothetical protein;0.000000000018331;false
+F06_bin.2_01433; hypothetical protein;0.000000000018184;false
+F06_bin.2_01615; hypothetical protein;0.000000000018037;false
+F06_bin.2_01528; Alpha-glucosidase;0.000000000017654;false
+F06_bin.2_00264; hypothetical protein;0.000000000017610;false
+F06_bin.2_01504; hypothetical protein;0.000000000017386;false
+F06_bin.2_01358; hypothetical protein;0.000000000016590;false
+F06_bin.2_01630; Dihydroorotase;0.000000000016535;false
+F06_bin.2_01580; hypothetical protein;0.000000000016492;false
+F06_bin.2_01018; Peptidyl-lysine N-acetyltransferase Pat;0.000000000016133;false
+F06_bin.2_00468; hypothetical protein;0.000000000016081;false
+F06_bin.2_01305; hypothetical protein;0.000000000015996;false
+F06_bin.2_00257; hypothetical protein;0.000000000015510;false
+F06_bin.2_00980; hypothetical protein;0.000000000015333;false
+F06_bin.2_00308; Flavoredoxin;0.000000000015232;false
+F06_bin.2_00223; hypothetical protein;0.000000000015200;false
+F06_bin.2_00207; hypothetical protein;0.000000000014387;false
+F06_bin.2_00801; hypothetical protein;0.000000000014214;false
+F06_bin.2_01073; hypothetical protein;0.000000000014026;false
+F06_bin.2_00832; Foldase protein PrsA 1;0.000000000013885;false
+F06_bin.2_00639; putative MFS-type transporter YcaD;0.000000000013847;false
+F06_bin.2_01043; Ion-translocating oxidoreductase complex subunit B;0.000000000013842;false
+F06_bin.2_01283; Inosine-5'-monophosphate dehydrogenase;0.000000000013591;false
+F06_bin.2_00031; hypothetical protein;0.000000000013501;false
+F06_bin.2_01340; hypothetical protein;0.000000000013355;false
+F06_bin.2_00303; Bifunctional NAD(P)H-hydrate repair enzyme Nnr;0.000000000013313;false
+F06_bin.2_00177; Isoleucine--tRNA ligase;0.000000000013313;false
+F06_bin.2_01154; hypothetical protein;0.000000000013001;false
+F06_bin.2_00810; 4-hydroxy-tetrahydrodipicolinate synthase;0.000000000012977;false
+F06_bin.2_00362; DNA topoisomerase 6 subunit B;0.000000000012784;false
+F06_bin.2_01494; UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase;0.000000000012477;false
+F06_bin.2_00248; hypothetical protein;0.000000000011986;false
+F06_bin.2_00135; hypothetical protein;0.000000000011850;false
+F06_bin.2_00051; hypothetical protein;0.000000000011788;false
+F06_bin.2_01753; Oligopeptide transport ATP-binding protein OppD;0.000000000011743;false
+F06_bin.2_01016; hypothetical protein;0.000000000011601;false
+F06_bin.2_01568; Glutamate-1-semialdehyde 2,1-aminomutase;0.000000000011600;false
+F06_bin.2_00261; 50S ribosomal protein L29;0.000000000011573;false
+F06_bin.2_00755; hypothetical protein;0.000000000011530;false
+F06_bin.2_00206; D-glycerate 2-kinase;0.000000000010875;false
+F06_bin.2_01446; hypothetical protein;0.000000000010445;false
+F06_bin.2_00299; hypothetical protein;0.000000000010255;false
+F06_bin.2_00813; hypothetical protein;0.000000000010177;false
+F06_bin.2_00294; Sarcosine oxidase subunit alpha;0.000000000010040;false
+F06_bin.2_01337; hypothetical protein;0.000000000009751;false
+F06_bin.2_01774; hypothetical protein;0.000000000009486;false
+F06_bin.2_00861; hypothetical protein;0.000000000009458;false
+F06_bin.2_01162; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase;0.000000000009404;false
+F06_bin.2_01196; hypothetical protein;0.000000000008991;false
+F06_bin.2_00866; Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit;0.000000000008828;false
+F06_bin.2_00098; hypothetical protein;0.000000000008791;false
+F06_bin.2_00865; Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit;0.000000000008356;false
+F06_bin.2_00425; Isoprenyl transferase;0.000000000008153;false
+F06_bin.2_00955; hypothetical protein;0.000000000008039;false
+F06_bin.2_00038; All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific);0.000000000007771;false
+F06_bin.2_00181; 3-isopropylmalate dehydratase large subunit;0.000000000007474;false
+F06_bin.2_00226; Thermostable carboxypeptidase 1;0.000000000007380;false
+F06_bin.2_01570; hypothetical protein;0.000000000007215;false
+F06_bin.2_01583; hypothetical protein;0.000000000007194;false
+F06_bin.2_00778; hypothetical protein;0.000000000007061;false
+F06_bin.2_00094; hypothetical protein;0.000000000006980;false
+F06_bin.2_00698; hypothetical protein;0.000000000006936;false
+F06_bin.2_00367; Sugar fermentation stimulation protein A;0.000000000006872;false
+F06_bin.2_00049; Lactate racemase;0.000000000006688;false
+F06_bin.2_00304; hypothetical protein;0.000000000006605;false
+F06_bin.2_01210; hypothetical protein;0.000000000006489;false
+F06_bin.2_00988; Oligopeptide transport ATP-binding protein OppF;0.000000000006442;false
+F06_bin.2_00307; Albonoursin synthase;0.000000000006164;false
+F06_bin.2_01239; Phosphoglycolate phosphatase;0.000000000006021;false
+F06_bin.2_01638; hypothetical protein;0.000000000005706;false
+F06_bin.2_01231; hypothetical protein;0.000000000005556;false
+F06_bin.2_01522; hypothetical protein;0.000000000005535;false
+F06_bin.2_00325; hypothetical protein;0.000000000005496;false
+F06_bin.2_00564; Methenyltetrahydromethanopterin cyclohydrolase;0.000000000005188;false
+F06_bin.2_00684; Tetrathionate reductase subunit B;0.000000000004980;false
+F06_bin.2_00104; hypothetical protein;0.000000000004797;false
+F06_bin.2_00449; hypothetical protein;0.000000000004734;false
+F06_bin.2_00116; Fumarate hydratase class II;0.000000000004661;false
+F06_bin.2_00167; hypothetical protein;0.000000000004529;false
+F06_bin.2_00855; hypothetical protein;0.000000000004495;false
+F06_bin.2_00087; hypothetical protein;0.000000000004432;false
+F06_bin.2_01523; hypothetical protein;0.000000000004160;false
+F06_bin.2_00602; hypothetical protein;0.000000000004062;false
+F06_bin.2_00497; Amidophosphoribosyltransferase;0.000000000003956;false
+F06_bin.2_00726; hypothetical protein;0.000000000003869;false
+F06_bin.2_00243; Histidine--tRNA ligase;0.000000000003836;false
+F06_bin.2_00159; hypothetical protein;0.000000000003810;false
+F06_bin.2_00584; Protease HtpX;0.000000000003762;false
+F06_bin.2_00448; Succinyl-CoA--L-malate CoA-transferase beta subunit;0.000000000003745;false
+F06_bin.2_00351; hypothetical protein;0.000000000003524;false
+F06_bin.2_00973; Carbon monoxide dehydrogenase small chain;0.000000000003460;false
+F06_bin.2_00316; Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase;0.000000000003288;false
+F06_bin.2_01437; Sialic acid transporter NanT;0.000000000003125;false
+F06_bin.2_01397; Beta-peptidyl aminopeptidase BapA;0.000000000003086;false
+F06_bin.2_01747; Carbamoyl dehydratase HypE;0.000000000003055;false
+F06_bin.2_01425; DNA polymerase/3'-5' exonuclease PolX;0.000000000002933;false
+F06_bin.2_01020; Branched-chain-amino-acid aminotransferase;0.000000000002818;false
+F06_bin.2_00541; Acetylornithine deacetylase;0.000000000002727;false
+F06_bin.2_01419; hypothetical protein;0.000000000002548;false
+F06_bin.2_00945; Glutathione synthetase;0.000000000002532;false
+F06_bin.2_00158; hypothetical protein;0.000000000002485;false
+F06_bin.2_00856; hypothetical protein;0.000000000002462;false
+F06_bin.2_00759; hypothetical protein;0.000000000002453;false
+F06_bin.2_00987; tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase;0.000000000002407;false
+F06_bin.2_01683; hypothetical protein;0.000000000002383;false
+F06_bin.2_00510; L-hydantoinase;0.000000000002347;false
+F06_bin.2_01181; hypothetical protein;0.000000000002232;false
+F06_bin.2_00251; hypothetical protein;0.000000000002200;false
+F06_bin.2_00589; 8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase;0.000000000002174;false
+F06_bin.2_01501; DNA adenine methyltransferase YhdJ;0.000000000002172;false
+F06_bin.2_00944; hypothetical protein;0.000000000002041;false
+F06_bin.2_00300; hypothetical protein;0.000000000001976;false
+F06_bin.2_00348; hypothetical protein;0.000000000001912;false
+F06_bin.2_00862; tRNA uridine(34) acetyltransferase;0.000000000001889;false
+F06_bin.2_01362; putative copper-exporting P-type ATPase V;0.000000000001888;false
+F06_bin.2_01248; hypothetical protein;0.000000000001883;false
+F06_bin.2_01144; hypothetical protein;0.000000000001793;false
+F06_bin.2_01005; Ion-translocating oxidoreductase complex subunit B;0.000000000001767;false
+F06_bin.2_01707; hypothetical protein;0.000000000001719;false
+F06_bin.2_00583; Type-4 uracil-DNA glycosylase;0.000000000001600;false
+F06_bin.2_00852; hypothetical protein;0.000000000001585;false
+F06_bin.2_00363; hypothetical protein;0.000000000001579;false
+F06_bin.2_00900; hypothetical protein;0.000000000001568;false
+F06_bin.2_00803; Multidrug resistance protein MdtH;0.000000000001549;false
+F06_bin.2_00785; hypothetical protein;0.000000000001517;false
+F06_bin.2_00993; hypothetical protein;0.000000000001477;false
+F06_bin.2_01029; hypothetical protein;0.000000000001426;false
+F06_bin.2_01721; tRNA pseudouridine synthase B;0.000000000001416;false
+F06_bin.2_00454; Thiamine thiazole synthase;0.000000000001382;false
+F06_bin.2_00408; hypothetical protein;0.000000000001363;false
+F06_bin.2_01652; hypothetical protein;0.000000000001270;false
+F06_bin.2_00623; Sec-independent protein translocase protein TatC;0.000000000001263;false
+F06_bin.2_01540; hypothetical protein;0.000000000001242;false
+F06_bin.2_00543; Protease HtpX;0.000000000001241;false
+F06_bin.2_00699; hypothetical protein;0.000000000001221;false
+F06_bin.2_00477; Orotidine 5'-phosphate decarboxylase;0.000000000001221;false
+F06_bin.2_00615; hypothetical protein;0.000000000001210;false
+F06_bin.2_01668; 5,6-dimethylbenzimidazole synthase;0.000000000001208;false
+F06_bin.2_01576; hypothetical protein;0.000000000001153;false
+F06_bin.2_01526; Phosphoglycerate kinase;0.000000000001139;false
+F06_bin.2_00909; hypothetical protein;0.000000000001125;false
+F06_bin.2_01508; 2-isopropylmalate synthase;0.000000000001123;false
+F06_bin.2_00301; hypothetical protein;0.000000000001110;false
+F06_bin.2_00324; hypothetical protein;0.000000000001089;false
+F06_bin.2_01011; hypothetical protein;0.000000000001089;false
+F06_bin.2_00349; Vitamin B12 import ATP-binding protein BtuD;0.000000000001077;false
+F06_bin.2_01201; NADH-quinone oxidoreductase subunit H;0.000000000001066;false
+F06_bin.2_01297; hypothetical protein;0.000000000001062;false
+F06_bin.2_01449; hypothetical protein;0.000000000000978;false
+F06_bin.2_00467; hypothetical protein;0.000000000000971;false
+F06_bin.2_01480; hypothetical protein;0.000000000000936;false
+F06_bin.2_01448; hypothetical protein;0.000000000000921;false
+F06_bin.2_00885; Multifunctional non-homologous end joining protein LigD;0.000000000000913;false
+F06_bin.2_00742; hypothetical protein;0.000000000000911;false
+F06_bin.2_00170; Multidrug resistance protein MdtG;0.000000000000866;false
+F06_bin.2_01082; hypothetical protein;0.000000000000836;false
+F06_bin.2_00769; hypothetical protein;0.000000000000804;false
+F06_bin.2_00108; 50S ribosomal protein L1;0.000000000000793;false
+F06_bin.2_01702; V-type ATP synthase subunit D;0.000000000000789;false
+F06_bin.2_00834; hypothetical protein;0.000000000000785;false
+F06_bin.2_00137; Phosphoglucosamine mutase;0.000000000000756;false
+F06_bin.2_00691; hypothetical protein;0.000000000000740;false
+F06_bin.2_00816; Thymidylate kinase;0.000000000000684;false
+F06_bin.2_01034; Quinolinate synthase A;0.000000000000652;false
+F06_bin.2_00556; hypothetical protein;0.000000000000640;false
+F06_bin.2_01391; hypothetical protein;0.000000000000635;false
+F06_bin.2_00136; hypothetical protein;0.000000000000613;false
+F06_bin.2_00982; hypothetical protein;0.000000000000601;false
+F06_bin.2_01300; hypothetical protein;0.000000000000595;false
+F06_bin.2_01255; Aspartate/prephenate aminotransferase;0.000000000000595;false
+F06_bin.2_01263; Acyl-CoA dehydrogenase;0.000000000000582;false
+F06_bin.2_00621; GTP 3',8-cyclase;0.000000000000567;false
+F06_bin.2_01242; p-aminobenzoyl-glutamate hydrolase subunit B;0.000000000000560;false
+F06_bin.2_01040; hypothetical protein;0.000000000000559;false
+F06_bin.2_01692; putative protein;0.000000000000503;false
+F06_bin.2_01617; Aminodeoxyfutalosine deaminase;0.000000000000494;false
+F06_bin.2_00963; hypothetical protein;0.000000000000481;false
+F06_bin.2_00463; Arsenical pump-driving ATPase;0.000000000000464;false
+F06_bin.2_00590; hypothetical protein;0.000000000000442;false
+F06_bin.2_00793; hypothetical protein;0.000000000000436;false
+F06_bin.2_01434; hypothetical protein;0.000000000000426;false
+F06_bin.2_00917; hypothetical protein;0.000000000000371;false
+F06_bin.2_01125; hypothetical protein;0.000000000000356;false
+F06_bin.2_01485; hypothetical protein;0.000000000000336;false
+F06_bin.2_00386; hypothetical protein;0.000000000000326;false
+F06_bin.2_01546; Phosphoribosylformylglycinamidine synthase subunit PurQ;0.000000000000325;false
+F06_bin.2_00739; hypothetical protein;0.000000000000319;false
+F06_bin.2_01165; hypothetical protein;0.000000000000316;false
+F06_bin.2_00848; Nucleoside triphosphatase NudI;0.000000000000299;false
+F06_bin.2_01667; hypothetical protein;0.000000000000298;false
+F06_bin.2_00244; Alanine--tRNA ligase;0.000000000000294;false
+F06_bin.2_00598; DNA topoisomerase 1;0.000000000000289;false
+F06_bin.2_00595; hypothetical protein;0.000000000000274;false
+F06_bin.2_00341; hypothetical protein;0.000000000000274;false
+F06_bin.2_00129; hypothetical protein;0.000000000000268;false
+F06_bin.2_01348; hypothetical protein;0.000000000000257;false
+F06_bin.2_01097; hypothetical protein;0.000000000000238;false
+F06_bin.2_01587; 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial;0.000000000000232;false
+F06_bin.2_01462; hypothetical protein;0.000000000000228;false
+F06_bin.2_01155; hypothetical protein;0.000000000000228;false
+F06_bin.2_00480; hypothetical protein;0.000000000000223;false
+F06_bin.2_00317; hypothetical protein;0.000000000000218;false
+F06_bin.2_00542; hypothetical protein;0.000000000000217;false
+F06_bin.2_00233; NAD(P)H-quinone oxidoreductase subunit I, chloroplastic;0.000000000000209;false
+F06_bin.2_00415; hypothetical protein;0.000000000000208;false
+F06_bin.2_00734; Multidrug resistance protein MdtG;0.000000000000207;false
+F06_bin.2_01490; hypothetical protein;0.000000000000202;false
+F06_bin.2_01659; hypothetical protein;0.000000000000201;false
+F06_bin.2_01333; hypothetical protein;0.000000000000199;false
+F06_bin.2_00911; hypothetical protein;0.000000000000188;false
+F06_bin.2_00812; hypothetical protein;0.000000000000181;false
+F06_bin.2_00126; Sulfate adenylyltransferase;0.000000000000173;false
+F06_bin.2_01548; hypothetical protein;0.000000000000170;false
+F06_bin.2_00208; hypothetical protein;0.000000000000163;false
+F06_bin.2_00293; Hydrogen cyanide synthase subunit HcnB;0.000000000000162;false
+F06_bin.2_00354; hypothetical protein;0.000000000000152;false
+F06_bin.2_01226; hypothetical protein;0.000000000000149;false
+F06_bin.2_00422; hypothetical protein;0.000000000000149;false
+F06_bin.2_01675; Hydroxyacylglutathione hydrolase;0.000000000000147;false
+F06_bin.2_01427; 5'-deoxyadenosine deaminase;0.000000000000146;false
+F06_bin.2_01685; hypothetical protein;0.000000000000140;false
+F06_bin.2_00525; hypothetical protein;0.000000000000118;false
+F06_bin.2_00983; hypothetical protein;0.000000000000114;false
+F06_bin.2_00605; hypothetical protein;0.000000000000114;false
+F06_bin.2_00295; Ion-translocating oxidoreductase complex subunit B;0.000000000000114;false
+F06_bin.2_00269; hypothetical protein;0.000000000000111;false
+F06_bin.2_00899; hypothetical protein;0.000000000000110;false
+F06_bin.2_00018; tRNA 5-hydroxyuridine methyltransferase;0.000000000000110;false
+F06_bin.2_00488; hypothetical protein;0.000000000000110;false
+F06_bin.2_00873; hypothetical protein;0.000000000000109;false
+F06_bin.2_01367; Ferredoxin-type protein NapF;0.000000000000104;false
+F06_bin.2_01374; hypothetical protein;0.000000000000098;false
+F06_bin.2_00546; Large-conductance mechanosensitive channel;0.000000000000092;false
+F06_bin.2_00625; hypothetical protein;0.000000000000090;false
+F06_bin.2_01022; Fumarate reductase iron-sulfur subunit;0.000000000000090;false
+F06_bin.2_00410; hypothetical protein;0.000000000000089;false
+F06_bin.2_00997; hypothetical protein;0.000000000000088;false
+F06_bin.2_00893; 3-dehydroquinate dehydratase;0.000000000000088;false
+F06_bin.2_00922; Hydantoin racemase;0.000000000000085;false
+F06_bin.2_00462; Demethylmenaquinone methyltransferase;0.000000000000084;false
+F06_bin.2_00926; 8-methylmenaquinol:fumarate reductase membrane anchor subunit;0.000000000000081;false
+F06_bin.2_00002; Xaa-Pro dipeptidase;0.000000000000078;false
+F06_bin.2_00664; Thiamine-monophosphate kinase;0.000000000000077;false
+F06_bin.2_00713; putative glycine dehydrogenase (decarboxylating) subunit 2;0.000000000000077;false
+F06_bin.2_00890; Apulose-4-phosphate transketolase subunit B;0.000000000000076;false
+F06_bin.2_01328; Flavoredoxin;0.000000000000075;false
+F06_bin.2_01622; CTP synthase;0.000000000000071;false
+F06_bin.2_00572; 2-oxoglutarate carboxylase large subunit;0.000000000000069;false
+F06_bin.2_00685; L-threonine dehydratase catabolic TdcB;0.000000000000069;false
+F06_bin.2_00555; hypothetical protein;0.000000000000067;false
+F06_bin.2_00109; hypothetical protein;0.000000000000064;false
+F06_bin.2_00394; hypothetical protein;0.000000000000062;false
+F06_bin.2_01130; hypothetical protein;0.000000000000061;false
+F06_bin.2_00151; hypothetical protein;0.000000000000061;false
+F06_bin.2_01489; PqqA peptide cyclase;0.000000000000058;false
+F06_bin.2_00092; hypothetical protein;0.000000000000058;false
+F06_bin.2_01184; hypothetical protein;0.000000000000058;false
+F06_bin.2_01003; hypothetical protein;0.000000000000058;false
+F06_bin.2_01560; hypothetical protein;0.000000000000056;false
+F06_bin.2_01044; hypothetical protein;0.000000000000051;false
+F06_bin.2_01646; hypothetical protein;0.000000000000048;false
+F06_bin.2_00692; hypothetical protein;0.000000000000045;false
+F06_bin.2_01533; hypothetical protein;0.000000000000044;false
+F06_bin.2_00896; hypothetical protein;0.000000000000043;false
+F06_bin.2_00424; hypothetical protein;0.000000000000041;false
+F06_bin.2_00342; hypothetical protein;0.000000000000039;false
+F06_bin.2_01061; 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial;0.000000000000039;false
+F06_bin.2_00097; hypothetical protein;0.000000000000039;false
+F06_bin.2_01695; hypothetical protein;0.000000000000038;false
+F06_bin.2_00250; hypothetical protein;0.000000000000038;false
+F06_bin.2_01610; putative iron-sulfur-binding oxidoreductase FadF;0.000000000000038;false
+F06_bin.2_00228; L(+)-tartrate dehydratase subunit beta;0.000000000000037;false
+F06_bin.2_00315; hypothetical protein;0.000000000000037;false
+F06_bin.2_00283; hypothetical protein;0.000000000000035;false
+F06_bin.2_00490; hypothetical protein;0.000000000000035;false
+F06_bin.2_00080; hypothetical protein;0.000000000000031;false
+F06_bin.2_01027; hypothetical protein;0.000000000000029;false
+F06_bin.2_01250; hypothetical protein;0.000000000000029;false
+F06_bin.2_01013; hypothetical protein;0.000000000000028;false
+F06_bin.2_01688; Methionine--tRNA ligase;0.000000000000028;false
+F06_bin.2_00667; Cysteine synthase;0.000000000000027;false
+F06_bin.2_00680; hypothetical protein;0.000000000000026;false
+F06_bin.2_01093; Methylthioribose-1-phosphate isomerase;0.000000000000025;false
+F06_bin.2_00683; hypothetical protein;0.000000000000025;false
+F06_bin.2_00237; hypothetical protein;0.000000000000024;false
+F06_bin.2_01604; hypothetical protein;0.000000000000024;false
+F06_bin.2_01329; hypothetical protein;0.000000000000024;false
+F06_bin.2_01453; Thioredoxin reductase;0.000000000000023;false
+F06_bin.2_00738; Amidophosphoribosyltransferase;0.000000000000022;false
+F06_bin.2_00017; hypothetical protein;0.000000000000022;false
+F06_bin.2_00876; hypothetical protein;0.000000000000022;false
+F06_bin.2_01628; Succinyl-CoA--L-malate CoA-transferase beta subunit;0.000000000000021;false
+F06_bin.2_00302; hypothetical protein;0.000000000000020;false
+F06_bin.2_01266; Modification methylase DpnIIA;0.000000000000020;false
+F06_bin.2_00154; Methylthioribose-1-phosphate isomerase;0.000000000000020;false
+F06_bin.2_01443; hypothetical protein;0.000000000000019;false
+F06_bin.2_01511; hypothetical protein;0.000000000000019;false
+F06_bin.2_01380; hypothetical protein;0.000000000000018;false
+F06_bin.2_00091; hypothetical protein;0.000000000000018;false
+F06_bin.2_01479; Chorismate synthase;0.000000000000018;false
+F06_bin.2_00130; Calcium-transporting ATPase;0.000000000000018;false
+F06_bin.2_00440; hypothetical protein;0.000000000000015;false
+F06_bin.2_00836; Aliphatic nitrilase;0.000000000000015;false
+F06_bin.2_00668; Purine nucleoside phosphorylase DeoD-type;0.000000000000015;false
+F06_bin.2_00413; hypothetical protein;0.000000000000015;false
+F06_bin.2_00001; hypothetical protein;0.000000000000015;false
+F06_bin.2_00536; Aminopeptidase YwaD;0.000000000000014;false
+F06_bin.2_00042; hypothetical protein;0.000000000000014;false
+F06_bin.2_01204; hypothetical protein;0.000000000000014;false
+F06_bin.2_01751; hypothetical protein;0.000000000000014;false
+F06_bin.2_01042; ATP-dependent RNA helicase SrmB;0.000000000000014;false
+F06_bin.2_00123; hypothetical protein;0.000000000000014;false
+F06_bin.2_01113; hypothetical protein;0.000000000000014;false
+F06_bin.2_01745; hypothetical protein;0.000000000000013;false
+F06_bin.2_00479; hypothetical protein;0.000000000000013;false
+F06_bin.2_00991; Dipeptide transport system permease protein DppB;0.000000000000013;false
+F06_bin.2_01769; TRAP-T-associated universal stress protein TeaD;0.000000000000013;false
+F06_bin.2_00538; Protein GrpE;0.000000000000012;false
+F06_bin.2_01464; putative riboflavin import permease protein RfuD;0.000000000000011;false
+F06_bin.2_00146; hypothetical protein;0.000000000000011;false
+F06_bin.2_01194; hypothetical protein;0.000000000000011;false
+F06_bin.2_00150; hypothetical protein;0.000000000000011;false
+F06_bin.2_00384; Polyribonucleotide nucleotidyltransferase;0.000000000000010;false
+F06_bin.2_00653; hypothetical protein;0.000000000000010;false
+F06_bin.2_01264; Acyl-CoA dehydrogenase;0.000000000000009;false
+F06_bin.2_01409; hypothetical protein;0.000000000000009;false
+F06_bin.2_00373; Asparagine--tRNA ligase;0.000000000000009;false
+F06_bin.2_00442; hypothetical protein;0.000000000000009;false
+F06_bin.2_00566; hypothetical protein;0.000000000000008;false
+F06_bin.2_00070; putative cysteine desulfurase;0.000000000000007;false
+F06_bin.2_00391; hypothetical protein;0.000000000000007;false
+F06_bin.2_01321; hypothetical protein;0.000000000000007;false
+F06_bin.2_01390; hypothetical protein;0.000000000000007;false
+F06_bin.2_01334; hypothetical protein;0.000000000000007;false
+F06_bin.2_00060; Molybdopterin synthase catalytic subunit;0.000000000000007;false
+F06_bin.2_00819; hypothetical protein;0.000000000000007;false
+F06_bin.2_01168; Xanthine phosphoribosyltransferase;0.000000000000007;false
+F06_bin.2_00411; hypothetical protein;0.000000000000006;false
+F06_bin.2_00749; Methionine aminopeptidase 1, mitochondrial;0.000000000000006;false
+F06_bin.2_00239; hypothetical protein;0.000000000000006;false
+F06_bin.2_00047; hypothetical protein;0.000000000000006;false
+F06_bin.2_00328; hypothetical protein;0.000000000000006;false
+F06_bin.2_00086; hypothetical protein;0.000000000000006;false
+F06_bin.2_01221; Ornithine carbamoyltransferase;0.000000000000005;false
+F06_bin.2_00962; hypothetical protein;0.000000000000005;false
+F06_bin.2_01327; hypothetical protein;0.000000000000005;false
+F06_bin.2_01657; Coenzyme PQQ synthesis protein B;0.000000000000005;false
+F06_bin.2_01223; hypothetical protein;0.000000000000004;false
+F06_bin.2_01679; hypothetical protein;0.000000000000004;false
+F06_bin.2_01681; hypothetical protein;0.000000000000004;false
+F06_bin.2_00787; hypothetical protein;0.000000000000004;false
+F06_bin.2_01572; hypothetical protein;0.000000000000004;false
+F06_bin.2_00675; Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha;0.000000000000004;false
+F06_bin.2_01734; hypothetical protein;0.000000000000004;false
+F06_bin.2_01613; hypothetical protein;0.000000000000004;false
+F06_bin.2_01267; Putative aminopeptidase YsdC;0.000000000000004;false
+F06_bin.2_00067; NADH pyrophosphatase;0.000000000000003;false
+F06_bin.2_01499; S-methyl-5'-thioadenosine phosphorylase;0.000000000000003;false
+F06_bin.2_00378; hypothetical protein;0.000000000000003;false
+F06_bin.2_01004; putative protein;0.000000000000003;false
+F06_bin.2_00524; hypothetical protein;0.000000000000003;false
+F06_bin.2_01410; Adenylate kinase;0.000000000000003;false
+F06_bin.2_00008; Biotin synthase;0.000000000000003;false
+F06_bin.2_01402; Ferredoxin-type protein NapF;0.000000000000003;false
+F06_bin.2_01116; hypothetical protein;0.000000000000003;false
+F06_bin.2_00053; hypothetical protein;0.000000000000003;false
+F06_bin.2_00894; Shikimate dehydrogenase (NADP(+));0.000000000000003;false
+F06_bin.2_01505; hypothetical protein;0.000000000000003;false
+F06_bin.2_01502; hypothetical protein;0.000000000000003;false
+F06_bin.2_01471; hypothetical protein;0.000000000000003;false
+F06_bin.2_00978; High-affinity branched-chain amino acid transport ATP-binding protein LivF;0.000000000000003;false
+F06_bin.2_00619; hypothetical protein;0.000000000000003;false
+F06_bin.2_01106; hypothetical protein;0.000000000000003;false
+F06_bin.2_00013; hypothetical protein;0.000000000000003;false
+F06_bin.2_00703; N(G),N(G)-dimethylarginine dimethylaminohydrolase;0.000000000000003;false
+F06_bin.2_01105; Bifunctional F420 biosynthesis protein FbiB;0.000000000000003;false
+F06_bin.2_01330; Acetolactate synthase large subunit;0.000000000000003;false
+F06_bin.2_01641; hypothetical protein;0.000000000000002;false
+F06_bin.2_01323; hypothetical protein;0.000000000000002;false
+F06_bin.2_01384; hypothetical protein;0.000000000000002;false
+F06_bin.2_00674; Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta;0.000000000000002;false
+F06_bin.2_01100; hypothetical protein;0.000000000000002;false
+F06_bin.2_00694; hypothetical protein;0.000000000000002;false
+F06_bin.2_01195; hypothetical protein;0.000000000000002;false
+F06_bin.2_01127; hypothetical protein;0.000000000000001;false
+F06_bin.2_01355; Inner membrane transport protein YajR;0.000000000000001;false
+F06_bin.2_00032; hypothetical protein;0.000000000000001;false
+F06_bin.2_01735; hypothetical protein;0.000000000000001;false
+F06_bin.2_00145; tRNA N6-adenosine threonylcarbamoyltransferase;0.000000000000001;false
+F06_bin.2_00431; hypothetical protein;0.000000000000001;false
+F06_bin.2_00247; hypothetical protein;0.000000000000001;false
+F06_bin.2_00783; hypothetical protein;0.000000000000001;false
+F06_bin.2_00952; Protein RecA;0.000000000000001;false
+F06_bin.2_00700; hypothetical protein;0.000000000000001;false
+F06_bin.2_00242; hypothetical protein;0.000000000000001;false
+F06_bin.2_01257; hypothetical protein;0.000000000000001;false
+F06_bin.2_00428; hypothetical protein;0.000000000000001;false
+F06_bin.2_00187; hypothetical protein;0.000000000000001;false
+F06_bin.2_00878; hypothetical protein;0.000000000000001;false
+F06_bin.2_00345; hypothetical protein;0.000000000000001;false
+F06_bin.2_00846; hypothetical protein;0.000000000000001;false
+F06_bin.2_00331; hypothetical protein;0.000000000000001;false
+F06_bin.2_01261; Zinc transporter ZupT;0.000000000000001;false
+F06_bin.2_00518; hypothetical protein;0.000000000000001;false
+F06_bin.2_00433; Inositol-3-phosphate synthase;0.000000000000001;false
+F06_bin.2_00928; Ferredoxin-type protein NapF;0.000000000000001;false
+F06_bin.2_00921; Adenosyl-chloride synthase;0.000000000000001;false
+F06_bin.2_00515; NADH-dependent phenylglyoxylate dehydrogenase subunit gamma;0.000000000000001;false
+F06_bin.2_00277; hypothetical protein;0.000000000000001;false
+F06_bin.2_00663; hypothetical protein;0.000000000000001;false
+F06_bin.2_01118; Alcohol dehydrogenase;0.000000000000001;false
+F06_bin.2_00074; hypothetical protein;0.000000000000001;false
+F06_bin.2_00026; hypothetical protein;0.000000000000001;false
+F06_bin.2_01665; hypothetical protein;0.000000000000001;false
+F06_bin.2_00618; hypothetical protein;0.000000000000001;false
+F06_bin.2_00365; hypothetical protein;0.000000000000001;false
+F06_bin.2_00020; hypothetical protein;0.000000000000001;false
+F06_bin.2_00050; hypothetical protein;0.000000000000001;false
+F06_bin.2_00096; hypothetical protein;0.000000000000001;false
+F06_bin.2_00999; Oligopeptide transport ATP-binding protein OppD;0.000000000000001;false
+F06_bin.2_01152; Glycine cleavage system H protein;0.000000000000001;false
+F06_bin.2_01756; hypothetical protein;0.000000000000001;false
+F06_bin.2_00804; Succinyl-CoA--L-malate CoA-transferase beta subunit;0.000000000000001;false
+F06_bin.2_00072; hypothetical protein;0.000000000000000;false
+F06_bin.2_00262; hypothetical protein;0.000000000000000;false
+F06_bin.2_01319; hypothetical protein;0.000000000000000;false
+F06_bin.2_00392; hypothetical protein;0.000000000000000;false
+F06_bin.2_00706; hypothetical protein;0.000000000000000;false
+F06_bin.2_00297; NADH peroxidase;0.000000000000000;false
+F06_bin.2_01643; hypothetical protein;0.000000000000000;false
+F06_bin.2_00470; hypothetical protein;0.000000000000000;false
+F06_bin.2_00577; hypothetical protein;0.000000000000000;false
+F06_bin.2_01137; hypothetical protein;0.000000000000000;false
+F06_bin.2_00322; Iron-sulfur cluster carrier protein;0.000000000000000;false
+F06_bin.2_00012; hypothetical protein;0.000000000000000;false
+F06_bin.2_00110; hypothetical protein;0.000000000000000;false
+F06_bin.2_00052; Multidrug resistance protein MdtG;0.000000000000000;false
+F06_bin.2_01193; hypothetical protein;0.000000000000000;false
+F06_bin.2_00061; Cyclic pyranopterin monophosphate synthase 2;0.000000000000000;false
+F06_bin.2_00756; hypothetical protein;0.000000000000000;false
+F06_bin.2_00054; hypothetical protein;0.000000000000000;false
+F06_bin.2_01167; hypothetical protein;0.000000000000000;false
+F06_bin.2_01741; Signal recognition particle protein;0.000000000000000;false
+F06_bin.2_00153; putative N-glycosylase/DNA lyase;0.000000000000000;false
+F06_bin.2_01492; hypothetical protein;0.000000000000000;false
+F06_bin.2_00064; hypothetical protein;0.000000000000000;false
+F06_bin.2_00319; Carbon monoxide dehydrogenase/acetyl-CoA synthase subunit alpha;0.000000000000000;false
+F06_bin.2_00981; putative peptidase;0.000000000000000;false
+F06_bin.2_00757; hypothetical protein;0.000000000000000;false
+F06_bin.2_00753; Macrolide export ATP-binding/permease protein MacB;0.000000000000000;false
+F06_bin.2_00161; hypothetical protein;0.000000000000000;false
+F06_bin.2_00010; Biotin synthase;0.000000000000000;false
+F06_bin.2_00227; L(+)-tartrate dehydratase subunit alpha;0.000000000000000;false
+F06_bin.2_01025; Adenosylhomocysteinase;0.000000000000000;false
+F06_bin.2_00870; hypothetical protein;0.000000000000000;false
+F06_bin.2_00533; Adenylosuccinate synthetase;0.000000000000000;false
+F06_bin.2_00133; Hydroxypyruvate reductase;0.000000000000000;false
+F06_bin.2_01318; tRNA sulfurtransferase;0.000000000000000;false
+F06_bin.2_01028; Inosine-5'-monophosphate dehydrogenase;0.000000000000000;false
+F06_bin.2_01037; Nucleoside diphosphate kinase;0.000000000000000;false
+F06_bin.2_00853; hypothetical protein;0.000000000000000;false
+F06_bin.2_00958; hypothetical protein;0.000000000000000;false
+F06_bin.2_00593; hypothetical protein;0.000000000000000;false
+F06_bin.2_00737; Aspartate racemase;0.000000000000000;false
+F06_bin.2_01012; Proteasome subunit beta;0.000000000000000;false
+F06_bin.2_01554; hypothetical protein;0.000000000000000;false
+F06_bin.2_00817; Methionine aminopeptidase 1, mitochondrial;0.000000000000000;false
+F06_bin.2_01208; hypothetical protein;0.000000000000000;false
+F06_bin.2_00651; hypothetical protein;0.000000000000000;false
+F06_bin.2_00482; Glutamine--fructose-6-phosphate aminotransferase [isomerizing];0.000000000000000;false
+F06_bin.2_00155; Na(+)-translocating NADH-quinone reductase subunit F;0.000000000000000;false
+F06_bin.2_01062; hypothetical protein;0.000000000000000;false
+F06_bin.2_00272; hypothetical protein;0.000000000000000;false
+F06_bin.2_00357; Phosphomannomutase/phosphoglucomutase;0.000000000000000;false
+F06_bin.2_00788; hypothetical protein;0.000000000000000;false
+F06_bin.2_00823; Ethylmalonyl-CoA/methylmalonyl-CoA epimerase;0.000000000000000;false
+F06_bin.2_01746; Dihydrofolate synthase/folylpolyglutamate synthase;0.000000000000000;false
+F06_bin.2_01036; hypothetical protein;0.000000000000000;false
+F06_bin.2_00673; Fe/S biogenesis protein NfuA;0.000000000000000;false
+F06_bin.2_01361; hypothetical protein;0.000000000000000;false
+F06_bin.2_00025; hypothetical protein;0.000000000000000;false
+F06_bin.2_00314; hypothetical protein;0.000000000000000;false
+F06_bin.2_01715; hypothetical protein;0.000000000000000;false
+F06_bin.2_01696; Mycothione reductase;0.000000000000000;false
+F06_bin.2_00670; hypothetical protein;0.000000000000000;false
+F06_bin.2_00628; Ion-translocating oxidoreductase complex subunit B;0.000000000000000;false
+F06_bin.2_00330; N-substituted formamide deformylase;0.000000000000000;false
+F06_bin.2_00649; Queuine tRNA-ribosyltransferase catalytic subunit 1;0.000000000000000;false
+F06_bin.2_01160; hypothetical protein;0.000000000000000;false
+F06_bin.2_00844; 2-phosphosulfolactate phosphatase;0.000000000000000;false
+F06_bin.2_01041; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase;0.000000000000000;false
+F06_bin.2_00528; hypothetical protein;0.000000000000000;false
+F06_bin.2_01472; hypothetical protein;0.000000000000000;false
+F06_bin.2_00975; hypothetical protein;0.000000000000000;false
+F06_bin.2_00608; Metalloprotease TldD;0.000000000000000;false
+F06_bin.2_01662; hypothetical protein;0.000000000000000;false
+F06_bin.2_01179; hypothetical protein;0.000000000000000;false
+F06_bin.2_01268; tRNA (adenine(58)-N(1))-methyltransferase TrmI;0.000000000000000;false
+F06_bin.2_00887; hypothetical protein;0.000000000000000;false
+F06_bin.2_00198; manganese-dependent inorganic pyrophosphatase;0.000000000000000;false
+F06_bin.2_00557; hypothetical protein;0.000000000000000;false
+F06_bin.2_00218; hypothetical protein;0.000000000000000;false
+F06_bin.2_01389; D-aminoacylase;0.000000000000000;false
+F06_bin.2_00174; hypothetical protein;0.000000000000000;false
+F06_bin.2_01371; hypothetical protein;0.000000000000000;false
+F06_bin.2_00901; Lysine 6-dehydrogenase;0.000000000000000;false
+F06_bin.2_00942; Hydantoin racemase;0.000000000000000;false
+F06_bin.2_00612; hypothetical protein;0.000000000000000;false
+F06_bin.2_00567; Trans-feruloyl-CoA synthase FCS1;0.000000000000000;false
+F06_bin.2_01304; hypothetical protein;0.000000000000000;false
+F06_bin.2_01293; hypothetical protein;0.000000000000000;false
+F06_bin.2_01645; N-acetyldiaminopimelate deacetylase;0.000000000000000;false
+F06_bin.2_01064; hypothetical protein;0.000000000000000;false
+F06_bin.2_00027; hypothetical protein;0.000000000000000;false
+F06_bin.2_00209; Hydroxyacylglutathione hydrolase;0.000000000000000;false
+F06_bin.2_01436; hypothetical protein;0.000000000000000;false
+F06_bin.2_00624; Sec-independent protein translocase protein TatA;0.000000000000000;false
+F06_bin.2_01278; Caffeyl-CoA reductase-Etf complex subunit CarE;0.000000000000000;false
+F06_bin.2_01720; Ribosomal RNA small subunit methyltransferase C;0.000000000000000;false
+F06_bin.2_00805; hypothetical protein;0.000000000000000;false
+F06_bin.2_00641; Protoheme IX farnesyltransferase;0.000000000000000;false
+F06_bin.2_00964; hypothetical protein;0.000000000000000;false
+F06_bin.2_00732; Phytol kinase;0.000000000000000;false
+F06_bin.2_00466; hypothetical protein;0.000000000000000;false
+F06_bin.2_00650; hypothetical protein;0.000000000000000;false
+F06_bin.2_00471; hypothetical protein;0.000000000000000;false
+F06_bin.2_00818; hypothetical protein;0.000000000000000;false
+F06_bin.2_01083; hypothetical protein;0.000000000000000;false
+F06_bin.2_01510; hypothetical protein;0.000000000000000;false
+F06_bin.2_00076; Protein/nucleic acid deglycase 2;0.000000000000000;false
+F06_bin.2_00768; 3-methyl-2-oxobutanoate hydroxymethyltransferase;0.000000000000000;false
+F06_bin.2_00927; hypothetical protein;0.000000000000000;false
+F06_bin.2_00007; hypothetical protein;0.000000000000000;false
+F06_bin.2_01244; hypothetical protein;0.000000000000000;false
+F06_bin.2_01585; hypothetical protein;0.000000000000000;false
+F06_bin.2_01691; Glycine cleavage system H protein;0.000000000000000;false
+F06_bin.2_01021; hypothetical protein;0.000000000000000;false
+F06_bin.2_00535; hypothetical protein;0.000000000000000;false
+F06_bin.2_00402; Response regulator SaeR;0.000000000000000;false
+F06_bin.2_00336; hypothetical protein;0.000000000000000;false
+F06_bin.2_00489; Threonine--tRNA ligase 1;0.000000000000000;false
+F06_bin.2_00273; D-threonine aldolase;0.000000000000000;false
+F06_bin.2_00139; hypothetical protein;0.000000000000000;false
+F06_bin.2_01281; hypothetical protein;0.000000000000000;false
+F06_bin.2_00620; hypothetical protein;0.000000000000000;false
+F06_bin.2_00830; hypothetical protein;0.000000000000000;false
+F06_bin.2_01199; NAD(P)H-quinone oxidoreductase subunit J, chloroplastic;0.000000000000000;false
+F06_bin.2_00469; hypothetical protein;0.000000000000000;false
+F06_bin.2_00234; hypothetical protein;0.000000000000000;false
+F06_bin.2_00705; hypothetical protein;0.000000000000000;false
+F06_bin.2_00077; hypothetical protein;0.000000000000000;false
+F06_bin.2_00776; hypothetical protein;0.000000000000000;false
+F06_bin.2_00382; hypothetical protein;0.000000000000000;false
+F06_bin.2_00601; hypothetical protein;0.000000000000000;false
+F06_bin.2_00808; Phosphoribosylamine--glycine ligase;0.000000000000000;false
+F06_bin.2_01351; Glutamate dehydrogenase;0.000000000000000;false
+F06_bin.2_00458; Sulfur carrier protein CysO;0.000000000000000;false
+F06_bin.2_01579; Phosphoglycolate phosphatase;0.000000000000000;false
+F06_bin.2_00081; Inner membrane protein YbaN;0.000000000000000;false
+F06_bin.2_01079; Transcriptional regulator YqjI;0.000000000000000;false
+F06_bin.2_00138; hypothetical protein;0.000000000000000;false
+F06_bin.2_00022; S-adenosylmethionine synthase;0.000000000000000;false
+F06_bin.2_01236; Putative competence-damage inducible protein;0.000000000000000;false
+F06_bin.2_01597; Glycine betaine methyltransferase;0.000000000000000;false
+F06_bin.2_01359; hypothetical protein;0.000000000000000;false
+F06_bin.2_00429; Segregation and condensation protein B;0.000000000000000;false
+F06_bin.2_01543; hypothetical protein;0.000000000000000;false
+F06_bin.2_00160; hypothetical protein;0.000000000000000;false
+F06_bin.2_00730; hypothetical protein;0.000000000000000;false
+F06_bin.2_01046; Anaerobic sulfite reductase subunit A;0.000000000000000;false
+F06_bin.2_01642; hypothetical protein;0.000000000000000;false
+F06_bin.2_00949; Prolyl endopeptidase;0.000000000000000;false
+F06_bin.2_00055; Vitamin B12 import ATP-binding protein BtuD;0.000000000000000;false
+F06_bin.2_00671; hypothetical protein;0.000000000000000;false
+F06_bin.2_01260; Cadmium-transporting ATPase;0.000000000000000;false
+F06_bin.2_00409; hypothetical protein;0.000000000000000;false
+F06_bin.2_01211; hypothetical protein;0.000000000000000;false
+F06_bin.2_01550; Anaerobic ribonucleoside-triphosphate reductase;0.000000000000000;false
+F06_bin.2_01677; hypothetical protein;0.000000000000000;false
+F06_bin.2_00169; hypothetical protein;0.000000000000000;false
+F06_bin.2_00996; 2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase;0.000000000000000;false
+F06_bin.2_01275; Lysine 6-dehydrogenase;0.000000000000000;false
+F06_bin.2_00686; Pyrimidine-specific ribonucleoside hydrolase RihA;0.000000000000000;false
+F06_bin.2_00024; Endonuclease III;0.000000000000000;false
+F06_bin.2_00075; Multidrug resistance protein MdtG;0.000000000000000;false
+F06_bin.2_01661; hypothetical protein;0.000000000000000;false
+F06_bin.2_00119; Acetyl-CoA:oxalate CoA-transferase;0.000000000000000;false
+F06_bin.2_01656; hypothetical protein;0.000000000000000;false
+F06_bin.2_00390; hypothetical protein;0.000000000000000;false
+F06_bin.2_01099; hypothetical protein;0.000000000000000;false
+F06_bin.2_00544; Protein LemA;0.000000000000000;false
+F06_bin.2_00455; All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific);0.000000000000000;false
+F06_bin.2_00142; hypothetical protein;0.000000000000000;false
+F06_bin.2_00128; Selenocysteine-specific elongation factor;0.000000000000000;false
+F06_bin.2_01203; hypothetical protein;0.000000000000000;false
+F06_bin.2_01214; hypothetical protein;0.000000000000000;false
+F06_bin.2_00355; hypothetical protein;0.000000000000000;false
+F06_bin.2_01010; hypothetical protein;0.000000000000000;false
+F06_bin.2_00611; hypothetical protein;0.000000000000000;false
+F06_bin.2_01532; hypothetical protein;0.000000000000000;false
+F06_bin.2_01719; RNA-binding protein YhbY;0.000000000000000;false
+F06_bin.2_01423; hypothetical protein;0.000000000000000;false
+F06_bin.2_01306; hypothetical protein;0.000000000000000;false
+F06_bin.2_00512; Acetophenone carboxylase delta subunit;0.000000000000000;false
+F06_bin.2_00789; hypothetical protein;0.000000000000000;false
+F06_bin.2_00435; Aspartate aminotransferase;0.000000000000000;false
+F06_bin.2_00634; Cytochrome c-type biogenesis protein CcmE;0.000000000000000;false
+F06_bin.2_01743; Multidrug efflux system ATP-binding protein;0.000000000000000;false
+F06_bin.2_01171; hypothetical protein;0.000000000000000;false
+F06_bin.2_01654; hypothetical protein;0.000000000000000;false
+F06_bin.2_01067; hypothetical protein;0.000000000000000;false
+F06_bin.2_01547; N5-carboxyaminoimidazole ribonucleotide mutase;0.000000000000000;false
+F06_bin.2_01466; Ribose import ATP-binding protein RbsA;0.000000000000000;false
+F06_bin.2_00860; hypothetical protein;0.000000000000000;false
+F06_bin.2_00617; hypothetical protein;0.000000000000000;false
+F06_bin.2_00144; 3-deoxy-D-manno-octulosonic acid kinase;0.000000000000000;false
+F06_bin.2_01474; Methylmalonyl-CoA mutase;0.000000000000000;false
+F06_bin.2_00193; hypothetical protein;0.000000000000000;false
+F06_bin.2_00920; putative protein YisK;0.000000000000000;false
+F06_bin.2_00822; Propionyl-CoA carboxylase beta chain;0.000000000000000;false
+F06_bin.2_01192; hypothetical protein;0.000000000000000;false
+F06_bin.2_00401; Adaptive-response sensory-kinase SasA;0.000000000000000;false
+F06_bin.2_01469; Dihydrolipoyl dehydrogenase;0.000000000000000;false
+F06_bin.2_00296; Sarcosine oxidase subunit beta;0.000000000000000;false
+F06_bin.2_00372; Leucine-responsive regulatory protein;0.000000000000000;false
+F06_bin.2_00971; Putative xanthine dehydrogenase molybdenum-binding subunit XdhA;0.000000000000000;false
+F06_bin.2_00103; hypothetical protein;0.000000000000000;false
+F06_bin.2_00347; hypothetical protein;0.000000000000000;false
+F06_bin.2_01315; Thiamine-monophosphate kinase;0.000000000000000;false
+F06_bin.2_00190; Polyribonucleotide nucleotidyltransferase;0.000000000000000;false
+F06_bin.2_00763; Endonuclease V;0.000000000000000;false
+F06_bin.2_00118; L-aspartate oxidase;0.000000000000000;false
+F06_bin.2_00858; hypothetical protein;0.000000000000000;false
+F06_bin.2_01413; 4-hydroxy-tetrahydrodipicolinate synthase;0.000000000000000;false
+F06_bin.2_01575; Bifunctional purine biosynthesis protein PurH;0.000000000000000;false
+F06_bin.2_00011; Protease HtpX;0.000000000000000;false
+F06_bin.2_00681; hypothetical protein;0.000000000000000;false
+F06_bin.2_00539; hypothetical protein;0.000000000000000;false
+F06_bin.2_00481; tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase;0.000000000000000;false
+F06_bin.2_01078; putative ABC transporter ATP-binding protein;0.000000000000000;false
+F06_bin.2_01291; Formate dehydrogenase H;0.000000000000000;false
+F06_bin.2_00282; hypothetical protein;0.000000000000000;false
+F06_bin.2_00672; hypothetical protein;0.000000000000000;false
+F06_bin.2_00089; Protein LemA;0.000000000000000;false
+F06_bin.2_00175; hypothetical protein;0.000000000000000;false
+F06_bin.2_00581; Acetyl-CoA:oxalate CoA-transferase;0.000000000000000;false
+F06_bin.2_00030; hypothetical protein;0.000000000000000;false
+F06_bin.2_01058; hypothetical protein;0.000000000000000;false
+F06_bin.2_00134; Obg-like ATPase 1;0.000000000000000;false
+F06_bin.2_00500; Glycerol-1-phosphate dehydrogenase [NAD(P)+];0.000000000000000;false
+F06_bin.2_00775; Succinyl-diaminopimelate desuccinylase;0.000000000000000;false
+F06_bin.2_01704; hypothetical protein;0.000000000000000;false
+F06_bin.2_01112; hypothetical protein;0.000000000000000;false
+F06_bin.2_00369; Phosphoribosylformylglycinamidine cyclo-ligase;0.000000000000000;false
+F06_bin.2_01057; Glyceraldehyde-3-phosphate dehydrogenase;0.000000000000000;false
+F06_bin.2_01030; hypothetical protein;0.000000000000000;false
+F06_bin.2_00216; hypothetical protein;0.000000000000000;false
+F06_bin.2_00723; hypothetical protein;0.000000000000000;false
+F06_bin.2_00842; Serine--tRNA ligase;0.000000000000000;false
+F06_bin.2_01755; hypothetical protein;0.000000000000000;false
+F06_bin.2_00604; hypothetical protein;0.000000000000000;false
+F06_bin.2_01418; hypothetical protein;0.000000000000000;false
+F06_bin.2_01177; hypothetical protein;0.000000000000000;false
+F06_bin.2_01026; hypothetical protein;0.000000000000000;false
+F06_bin.2_00786; hypothetical protein;0.000000000000000;false
+F06_bin.2_01346; hypothetical protein;0.000000000000000;false
+F06_bin.2_01421; hypothetical protein;0.000000000000000;false
+F06_bin.2_01206; hypothetical protein;0.000000000000000;false
+F06_bin.2_00517; 2-oxoglutarate oxidoreductase subunit KorA;0.000000000000000;false
+F06_bin.2_01593; hypothetical protein;0.000000000000000;false
+F06_bin.2_01561; hypothetical protein;0.000000000000000;false
+F06_bin.2_00507; NAD kinase;0.000000000000000;false
+F06_bin.2_01513; hypothetical protein;0.000000000000000;false
+F06_bin.2_00903; hypothetical protein;0.000000000000000;false
+F06_bin.2_01205; NADH-quinone oxidoreductase subunit K;0.000000000000000;false
+F06_bin.2_01373; hypothetical protein;0.000000000000000;false
+F06_bin.2_01316; hypothetical protein;0.000000000000000;false
+F06_bin.2_00798; hypothetical protein;0.000000000000000;false
+F06_bin.2_00773; Acetolactate synthase large subunit;0.000000000000000;false
+F06_bin.2_01754; hypothetical protein;0.000000000000000;false
+F06_bin.2_01369; Pyruvate synthase subunit PorB;0.000000000000000;false
+F06_bin.2_01730; hypothetical protein;0.000000000000000;false
+F06_bin.2_01272; hypothetical protein;0.000000000000000;false
+F06_bin.2_00383; hypothetical protein;0.000000000000000;false
+F06_bin.2_00550; hypothetical protein;0.000000000000000;false
+F06_bin.2_01265; hypothetical protein;0.000000000000000;false
+F06_bin.2_01375; hypothetical protein;0.000000000000000;false
+F06_bin.2_01156; hypothetical protein;0.000000000000000;false
+F06_bin.2_00083; hypothetical protein;0.000000000000000;false
+F06_bin.2_00720; hypothetical protein;0.000000000000000;false
+F06_bin.2_01172; hypothetical protein;0.000000000000000;false
+F06_bin.2_01388; HTH-type transcriptional regulator LrpC;0.000000000000000;false
+F06_bin.2_00849; hypothetical protein;0.000000000000000;false
+F06_bin.2_01717; hypothetical protein;0.000000000000000;false
+F06_bin.2_01301; hypothetical protein;0.000000000000000;false
+F06_bin.2_00540; Glyoxylate carboligase;0.000000000000000;false
+F06_bin.2_00716; hypothetical protein;0.000000000000000;false
+F06_bin.2_00688; Bifunctional ribokinase/ribose-5-phosphate isomerase A;0.000000000000000;false
+F06_bin.2_01213; hypothetical protein;0.000000000000000;false
+F06_bin.2_01344; Thiosulfate sulfurtransferase GlpE;0.000000000000000;false
+F06_bin.2_00935; Inositol-3-phosphate synthase;0.000000000000000;false
+F06_bin.2_00910; hypothetical protein;0.000000000000000;false
+F06_bin.2_00249; hypothetical protein;0.000000000000000;false
+F06_bin.2_01088; hypothetical protein;0.000000000000000;false
+F06_bin.2_00744; hypothetical protein;0.000000000000000;false
+F06_bin.2_00632; Heme exporter protein C;0.000000000000000;false
+F06_bin.2_00521; hypothetical protein;0.000000000000000;false
+F06_bin.2_00358; UTP--glucose-1-phosphate uridylyltransferase;0.000000000000000;false
+F06_bin.2_01529; Ferrous iron permease EfeU;0.000000000000000;false
+F06_bin.2_01432; hypothetical protein;0.000000000000000;false
+F06_bin.2_01752; hypothetical protein;0.000000000000000;false
+F06_bin.2_01007; Caffeyl-CoA reductase-Etf complex subunit CarE;0.000000000000000;false
+F06_bin.2_00898; hypothetical protein;0.000000000000000;false
+F06_bin.2_01287; hypothetical protein;0.000000000000000;false
+F06_bin.2_00571; hypothetical protein;0.000000000000000;false
+F06_bin.2_00125; hypothetical protein;0.000000000000000;false
+F06_bin.2_01483; hypothetical protein;0.000000000000000;false
+F06_bin.2_01417; Molybdenum cofactor guanylyltransferase;0.000000000000000;false
+F06_bin.2_01063; Hydroxypyruvate reductase;0.000000000000000;false
+F06_bin.2_00441; hypothetical protein;0.000000000000000;false
+F06_bin.2_00918; hypothetical protein;0.000000000000000;false
+F06_bin.2_00658; hypothetical protein;0.000000000000000;false
+F06_bin.2_00895; Shikimate kinase;0.000000000000000;false
+F06_bin.2_00213; hypothetical protein;0.000000000000000;false
+F06_bin.2_01428; 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial;0.000000000000000;false
+F06_bin.2_01349; DNA-3-methyladenine glycosylase 1;0.000000000000000;false
+F06_bin.2_01212; Thiol-disulfide oxidoreductase ResA;0.000000000000000;false
+F06_bin.2_00806; Glutamine synthetase and cystathionine beta-lyase binding protein;0.000000000000000;false
+F06_bin.2_01519; hypothetical protein;0.000000000000000;false
+F06_bin.2_00323; Nitrogenase iron protein;0.000000000000000;false
+F06_bin.2_00943; N-alpha-acetyl-L-2,4-diaminobutyric acid deacetylase;0.000000000000000;false
+F06_bin.2_01473; Fused isobutyryl-CoA mutase;0.000000000000000;false
+F06_bin.2_01763; hypothetical protein;0.000000000000000;false
+F06_bin.2_00120; hypothetical protein;0.000000000000000;false
+F06_bin.2_01366; NADH-dependent phenylglyoxylate dehydrogenase subunit gamma;0.000000000000000;false
+F06_bin.2_00211; putative protein YisK;0.000000000000000;false
+F06_bin.2_00633; hypothetical protein;0.000000000000000;false
+F06_bin.2_00580; hypothetical protein;0.000000000000000;false
+F06_bin.2_00520; Delta(1)-pyrroline-2-carboxylate reductase;0.000000000000000;false
+F06_bin.2_00284; RNA 2',3'-cyclic phosphodiesterase;0.000000000000000;false
+F06_bin.2_01001; Glutathione transport system permease protein GsiC;0.000000000000000;false
+F06_bin.2_01069; Glutamyl-tRNA(Gln) amidotransferase subunit A;0.000000000000000;false
+F06_bin.2_00380; hypothetical protein;0.000000000000000;false
+F06_bin.2_01101; Cytochrome c-type biogenesis protein CcmF;0.000000000000000;false
+F06_bin.2_00974; Molybdenum cofactor guanylyltransferase;0.000000000000000;false
+F06_bin.2_00908; hypothetical protein;0.000000000000000;false
+F06_bin.2_01178; hypothetical protein;0.000000000000000;false
+F06_bin.2_01544; Acetolactate synthase isozyme 3 large subunit;0.000000000000000;false
+F06_bin.2_00986; hypothetical protein;0.000000000000000;false
+F06_bin.2_01122; 2-hydroxy-3-oxopropionate reductase;0.000000000000000;false
+F06_bin.2_01648; hypothetical protein;0.000000000000000;false
+F06_bin.2_00560; hypothetical protein;0.000000000000000;false
+F06_bin.2_01581; Ferredoxin-type protein NapF;0.000000000000000;false
+F06_bin.2_00568; hypothetical protein;0.000000000000000;false
+F06_bin.2_01405; hypothetical protein;0.000000000000000;false
+F06_bin.2_00537; Chaperone protein DnaK;0.000000000000000;false
+F06_bin.2_00265; hypothetical protein;0.000000000000000;false
+F06_bin.2_00914; hypothetical protein;0.000000000000000;false
+F06_bin.2_00609; hypothetical protein;0.000000000000000;false
+F06_bin.2_00781; hypothetical protein;0.000000000000000;false
+F06_bin.2_00090; hypothetical protein;0.000000000000000;false
+F06_bin.2_00478; hypothetical protein;0.000000000000000;false
+F06_bin.2_00631; Cytochrome c-type biogenesis protein CcmF;0.000000000000000;false
+F06_bin.2_00777; Ferrous-iron efflux pump FieF;0.000000000000000;false
+F06_bin.2_01259; hypothetical protein;0.000000000000000;false
+F06_bin.2_01738; hypothetical protein;0.000000000000000;false
+F06_bin.2_01602; Carbamoyl-phosphate synthase large chain;0.000000000000000;false
+F06_bin.2_00669; Flavodoxin;0.000000000000000;false
+F06_bin.2_00364; hypothetical protein;0.000000000000000;false
+F06_bin.2_01629; hypothetical protein;0.000000000000000;false
+F06_bin.2_01468; Octanoyltransferase;0.000000000000000;false
+F06_bin.2_01296; Threonylcarbamoyl-AMP synthase;0.000000000000000;false
+F06_bin.2_01015; hypothetical protein;0.000000000000000;false
+F06_bin.2_00112; Ribosomal RNA small subunit methyltransferase B;0.000000000000000;false
+F06_bin.2_01128; hypothetical protein;0.000000000000000;false
+F06_bin.2_01107; hypothetical protein;0.000000000000000;false
+F06_bin.2_01426; hypothetical protein;0.000000000000000;false
+F06_bin.2_01555; hypothetical protein;0.000000000000000;false
+F06_bin.2_00740; hypothetical protein;0.000000000000000;false
+F06_bin.2_01023; Fumarate reductase flavoprotein subunit;0.000000000000000;false
+F06_bin.2_00752; hypothetical protein;0.000000000000000;false
+F06_bin.2_00695; hypothetical protein;0.000000000000000;false
+F06_bin.2_01147; Fatty acid oxidation complex subunit alpha;0.000000000000000;false
+F06_bin.2_01633; hypothetical protein;0.000000000000000;false
+F06_bin.2_01119; hypothetical protein;0.000000000000000;false
+F06_bin.2_01435; hypothetical protein;0.000000000000000;false
+F06_bin.2_01708; hypothetical protein;0.000000000000000;false
+F06_bin.2_00959; Thiamine thiazole synthase;0.000000000000000;false
+F06_bin.2_01070; hypothetical protein;0.000000000000000;false
+F06_bin.2_01053; hypothetical protein;0.000000000000000;false
+F06_bin.2_01411; hypothetical protein;0.000000000000000;false
+F06_bin.2_01457; putative ABC transporter-binding protein;0.000000000000000;false
+F06_bin.2_01534; hypothetical protein;0.000000000000000;false
+F06_bin.2_00412; hypothetical protein;0.000000000000000;false
+F06_bin.2_01660; Ribonuclease HII;0.000000000000000;false
+F06_bin.2_00573; Glutaconyl-CoA decarboxylase subunit beta;0.000000000000000;false
+F06_bin.2_01302; hypothetical protein;0.000000000000000;false
+F06_bin.2_01553; hypothetical protein;0.000000000000000;false
+F06_bin.2_00406; hypothetical protein;0.000000000000000;false
+F06_bin.2_01055; hypothetical protein;0.000000000000000;false
+F06_bin.2_00056; Tungstate uptake system permease protein TupB;0.000000000000000;false
+F06_bin.2_00939; hypothetical protein;0.000000000000000;false
+F06_bin.2_00057; Tungstate-binding protein TupA;0.000000000000000;false
+F06_bin.2_00828; Methylmalonyl-CoA mutase;0.000000000000000;false
+F06_bin.2_00704; hypothetical protein;0.000000000000000;false
+F06_bin.2_00224; hypothetical protein;0.000000000000000;false
+F06_bin.2_00176; hypothetical protein;0.000000000000000;false
+F06_bin.2_00709; hypothetical protein;0.000000000000000;false
+F06_bin.2_00504; hypothetical protein;0.000000000000000;false
+F06_bin.2_01455; Enolase;0.000000000000000;false
+F06_bin.2_00191; Ribonuclease PH;0.000000000000000;false
+# Effective Classificator 2.0, Type III Effector prediction selective with combined set 
