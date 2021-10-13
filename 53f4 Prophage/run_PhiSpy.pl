@@ -9,7 +9,7 @@ my @gbk = glob("*.gbk");
 foreach  (@gbk) {
 	$_=~/(.+).gbk/;
 	my $out = $1 . "_prophage";
-#	system("PhiSpy.py $_ -o $out --phage_genes 1 --min_contig_size 5000 --output_choice 1 --color --phmms pVOGs.hmm --threads 8");
+	system("PhiSpy.py $_ -o $out --phage_genes 1 --min_contig_size 5000 --output_choice 1 --color --phmms pVOGs.hmm --threads 8");
 }
 
 open OUT, ">All.prophages.txt" || die;# print prophages informations
