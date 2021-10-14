@@ -1,0 +1,756 @@
+## gff-version 3
+F01_bin.1_00033	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00033	SignalP-6.0	h-region	4	15	.	.	.	.
+F01_bin.1_00033	SignalP-6.0	c-region	16	21	.	.	.	.
+F01_bin.1_00034	SignalP-6.0	n-region	1	9	.	.	.	.
+F01_bin.1_00034	SignalP-6.0	h-region	10	23	.	.	.	.
+F01_bin.1_00034	SignalP-6.0	c-region	24	26	.	.	.	.
+F01_bin.1_00038	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00038	SignalP-6.0	h-region	3	16	.	.	.	.
+F01_bin.1_00038	SignalP-6.0	c-region	17	23	.	.	.	.
+F01_bin.1_00039	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_00039	SignalP-6.0	h-region	6	16	.	.	.	.
+F01_bin.1_00039	SignalP-6.0	c-region	17	22	.	.	.	.
+F01_bin.1_00054	SignalP-6.0	n-region	1	24	.	.	.	.
+F01_bin.1_00054	SignalP-6.0	h-region	25	36	.	.	.	.
+F01_bin.1_00054	SignalP-6.0	c-region	37	39	.	.	.	.
+F01_bin.1_00055	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00055	SignalP-6.0	h-region	4	23	.	.	.	.
+F01_bin.1_00055	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+F01_bin.1_00056	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00056	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_00056	SignalP-6.0	c-region	19	23	.	.	.	.
+F01_bin.1_00061	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_00061	SignalP-6.0	h-region	7	23	.	.	.	.
+F01_bin.1_00061	SignalP-6.0	c-region	24	28	.	.	.	.
+F01_bin.1_00073	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00073	SignalP-6.0	h-region	3	16	.	.	.	.
+F01_bin.1_00073	SignalP-6.0	c-region	17	20	.	.	.	.
+F01_bin.1_00079	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00079	SignalP-6.0	h-region	3	15	.	.	.	.
+F01_bin.1_00079	SignalP-6.0	c-region	16	19	.	.	.	.
+F01_bin.1_00110	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00110	SignalP-6.0	h-region	3	13	.	.	.	.
+F01_bin.1_00110	SignalP-6.0	c-region	14	18	.	.	.	.
+F01_bin.1_00142	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00142	SignalP-6.0	h-region	4	21	.	.	.	.
+F01_bin.1_00142	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+F01_bin.1_00143	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00143	SignalP-6.0	h-region	3	12	.	.	.	.
+F01_bin.1_00143	SignalP-6.0	c-region	13	15	.	.	.	.
+F01_bin.1_00147	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00147	SignalP-6.0	h-region	3	17	.	.	.	.
+F01_bin.1_00147	SignalP-6.0	c-region	18	27	.	.	.	.
+F01_bin.1_00154	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00154	SignalP-6.0	h-region	3	14	.	.	.	.
+F01_bin.1_00154	SignalP-6.0	c-region	15	17	.	.	.	.
+F01_bin.1_00155	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00155	SignalP-6.0	h-region	5	18	.	.	.	.
+F01_bin.1_00155	SignalP-6.0	lipid-modified cysteine	19	19	.	.	.	.
+F01_bin.1_00158	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00158	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_00158	SignalP-6.0	lipid-modified cysteine	19	19	.	.	.	.
+F01_bin.1_00160	SignalP-6.0	n-region	1	7	.	.	.	.
+F01_bin.1_00160	SignalP-6.0	h-region	8	24	.	.	.	.
+F01_bin.1_00160	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+F01_bin.1_00176	SignalP-6.0	n-region	1	20	.	.	.	.
+F01_bin.1_00176	SignalP-6.0	h-region	21	34	.	.	.	.
+F01_bin.1_00176	SignalP-6.0	lipid-modified cysteine	35	35	.	.	.	.
+F01_bin.1_00216	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_00216	SignalP-6.0	h-region	6	20	.	.	.	.
+F01_bin.1_00216	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+F01_bin.1_00218	SignalP-6.0	n-region	1	11	.	.	.	.
+F01_bin.1_00218	SignalP-6.0	h-region	12	27	.	.	.	.
+F01_bin.1_00218	SignalP-6.0	c-region	28	35	.	.	.	.
+F01_bin.1_00219	SignalP-6.0	n-region	1	8	.	.	.	.
+F01_bin.1_00219	SignalP-6.0	h-region	9	19	.	.	.	.
+F01_bin.1_00219	SignalP-6.0	c-region	20	28	.	.	.	.
+F01_bin.1_00223	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00223	SignalP-6.0	h-region	3	23	.	.	.	.
+F01_bin.1_00223	SignalP-6.0	c-region	24	28	.	.	.	.
+F01_bin.1_00226	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00226	SignalP-6.0	h-region	5	19	.	.	.	.
+F01_bin.1_00226	SignalP-6.0	c-region	20	22	.	.	.	.
+F01_bin.1_00246	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00246	SignalP-6.0	h-region	4	16	.	.	.	.
+F01_bin.1_00246	SignalP-6.0	lipid-modified cysteine	17	17	.	.	.	.
+F01_bin.1_00257	SignalP-6.0	n-region	1	9	.	.	.	.
+F01_bin.1_00257	SignalP-6.0	h-region	10	28	.	.	.	.
+F01_bin.1_00257	SignalP-6.0	c-region	29	32	.	.	.	.
+F01_bin.1_00267	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_00267	SignalP-6.0	h-region	7	19	.	.	.	.
+F01_bin.1_00267	SignalP-6.0	c-region	20	24	.	.	.	.
+F01_bin.1_00268	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00268	SignalP-6.0	h-region	4	17	.	.	.	.
+F01_bin.1_00268	SignalP-6.0	c-region	18	20	.	.	.	.
+F01_bin.1_00271	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00271	SignalP-6.0	h-region	4	15	.	.	.	.
+F01_bin.1_00271	SignalP-6.0	c-region	16	19	.	.	.	.
+F01_bin.1_00275	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00275	SignalP-6.0	h-region	4	19	.	.	.	.
+F01_bin.1_00275	SignalP-6.0	c-region	20	24	.	.	.	.
+F01_bin.1_00277	SignalP-6.0	n-region	1	15	.	.	.	.
+F01_bin.1_00277	SignalP-6.0	h-region	16	29	.	.	.	.
+F01_bin.1_00277	SignalP-6.0	c-region	30	35	.	.	.	.
+F01_bin.1_00280	SignalP-6.0	n-region	1	28	.	.	.	.
+F01_bin.1_00280	SignalP-6.0	h-region	29	40	.	.	.	.
+F01_bin.1_00280	SignalP-6.0	c-region	41	43	.	.	.	.
+F01_bin.1_00298	SignalP-6.0	n-region	1	7	.	.	.	.
+F01_bin.1_00298	SignalP-6.0	h-region	8	24	.	.	.	.
+F01_bin.1_00298	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+F01_bin.1_00302	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_00302	SignalP-6.0	h-region	11	25	.	.	.	.
+F01_bin.1_00302	SignalP-6.0	c-region	26	30	.	.	.	.
+F01_bin.1_00303	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00303	SignalP-6.0	h-region	5	19	.	.	.	.
+F01_bin.1_00303	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+F01_bin.1_00305	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00305	SignalP-6.0	h-region	4	17	.	.	.	.
+F01_bin.1_00305	SignalP-6.0	lipid-modified cysteine	18	18	.	.	.	.
+F01_bin.1_00312	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00312	SignalP-6.0	h-region	3	12	.	.	.	.
+F01_bin.1_00312	SignalP-6.0	c-region	13	19	.	.	.	.
+F01_bin.1_00317	SignalP-6.0	n-region	1	11	.	.	.	.
+F01_bin.1_00317	SignalP-6.0	h-region	12	28	.	.	.	.
+F01_bin.1_00317	SignalP-6.0	c-region	29	31	.	.	.	.
+F01_bin.1_00350	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00350	SignalP-6.0	h-region	3	24	.	.	.	.
+F01_bin.1_00350	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+F01_bin.1_00390	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00390	SignalP-6.0	h-region	3	17	.	.	.	.
+F01_bin.1_00390	SignalP-6.0	c-region	18	20	.	.	.	.
+F01_bin.1_00407	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00407	SignalP-6.0	h-region	5	16	.	.	.	.
+F01_bin.1_00407	SignalP-6.0	c-region	17	19	.	.	.	.
+F01_bin.1_00414	SignalP-6.0	n-region	1	11	.	.	.	.
+F01_bin.1_00414	SignalP-6.0	h-region	12	27	.	.	.	.
+F01_bin.1_00414	SignalP-6.0	c-region	28	31	.	.	.	.
+F01_bin.1_00415	SignalP-6.0	n-region	1	8	.	.	.	.
+F01_bin.1_00415	SignalP-6.0	h-region	9	21	.	.	.	.
+F01_bin.1_00415	SignalP-6.0	c-region	22	27	.	.	.	.
+F01_bin.1_00421	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00421	SignalP-6.0	h-region	5	22	.	.	.	.
+F01_bin.1_00421	SignalP-6.0	c-region	23	25	.	.	.	.
+F01_bin.1_00423	SignalP-6.0	n-region	1	13	.	.	.	.
+F01_bin.1_00423	SignalP-6.0	h-region	14	29	.	.	.	.
+F01_bin.1_00423	SignalP-6.0	c-region	30	35	.	.	.	.
+F01_bin.1_00426	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00426	SignalP-6.0	h-region	3	25	.	.	.	.
+F01_bin.1_00426	SignalP-6.0	lipid-modified cysteine	26	26	.	.	.	.
+F01_bin.1_00434	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00434	SignalP-6.0	h-region	3	20	.	.	.	.
+F01_bin.1_00434	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+F01_bin.1_00436	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00436	SignalP-6.0	h-region	3	18	.	.	.	.
+F01_bin.1_00436	SignalP-6.0	c-region	19	21	.	.	.	.
+F01_bin.1_00437	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00437	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_00437	SignalP-6.0	c-region	19	21	.	.	.	.
+F01_bin.1_00453	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00453	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_00453	SignalP-6.0	c-region	19	24	.	.	.	.
+F01_bin.1_00466	SignalP-6.0	n-region	1	30	.	.	.	.
+F01_bin.1_00466	SignalP-6.0	h-region	31	45	.	.	.	.
+F01_bin.1_00466	SignalP-6.0	lipid-modified cysteine	46	46	.	.	.	.
+F01_bin.1_00474	SignalP-6.0	n-region	1	40	.	.	.	.
+F01_bin.1_00474	SignalP-6.0	h-region	41	54	.	.	.	.
+F01_bin.1_00474	SignalP-6.0	c-region	55	59	.	.	.	.
+F01_bin.1_00476	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00476	SignalP-6.0	h-region	5	18	.	.	.	.
+F01_bin.1_00476	SignalP-6.0	c-region	19	21	.	.	.	.
+F01_bin.1_00510	SignalP-6.0	n-region	1	22	.	.	.	.
+F01_bin.1_00510	SignalP-6.0	h-region	23	36	.	.	.	.
+F01_bin.1_00510	SignalP-6.0	c-region	37	40	.	.	.	.
+F01_bin.1_00512	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00512	SignalP-6.0	h-region	5	18	.	.	.	.
+F01_bin.1_00512	SignalP-6.0	c-region	19	22	.	.	.	.
+F01_bin.1_00513	SignalP-6.0	n-region	1	8	.	.	.	.
+F01_bin.1_00513	SignalP-6.0	h-region	9	24	.	.	.	.
+F01_bin.1_00513	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+F01_bin.1_00523	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00523	SignalP-6.0	h-region	3	18	.	.	.	.
+F01_bin.1_00523	SignalP-6.0	c-region	19	25	.	.	.	.
+F01_bin.1_00524	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00524	SignalP-6.0	h-region	4	11	.	.	.	.
+F01_bin.1_00524	SignalP-6.0	c-region	12	16	.	.	.	.
+F01_bin.1_00525	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00525	SignalP-6.0	h-region	4	14	.	.	.	.
+F01_bin.1_00525	SignalP-6.0	c-region	15	23	.	.	.	.
+F01_bin.1_00540	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_00540	SignalP-6.0	h-region	11	25	.	.	.	.
+F01_bin.1_00540	SignalP-6.0	c-region	26	30	.	.	.	.
+F01_bin.1_00543	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00543	SignalP-6.0	h-region	5	18	.	.	.	.
+F01_bin.1_00543	SignalP-6.0	c-region	19	22	.	.	.	.
+F01_bin.1_00544	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_00544	SignalP-6.0	h-region	7	19	.	.	.	.
+F01_bin.1_00544	SignalP-6.0	c-region	20	23	.	.	.	.
+F01_bin.1_00555	SignalP-6.0	n-region	1	7	.	.	.	.
+F01_bin.1_00555	SignalP-6.0	h-region	8	20	.	.	.	.
+F01_bin.1_00555	SignalP-6.0	c-region	21	27	.	.	.	.
+F01_bin.1_00558	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00558	SignalP-6.0	h-region	4	17	.	.	.	.
+F01_bin.1_00558	SignalP-6.0	c-region	18	23	.	.	.	.
+F01_bin.1_00560	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00560	SignalP-6.0	h-region	4	23	.	.	.	.
+F01_bin.1_00560	SignalP-6.0	c-region	24	29	.	.	.	.
+F01_bin.1_00570	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00570	SignalP-6.0	h-region	5	20	.	.	.	.
+F01_bin.1_00570	SignalP-6.0	c-region	21	27	.	.	.	.
+F01_bin.1_00571	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_00571	SignalP-6.0	h-region	11	28	.	.	.	.
+F01_bin.1_00571	SignalP-6.0	c-region	29	32	.	.	.	.
+F01_bin.1_00591	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00591	SignalP-6.0	h-region	3	23	.	.	.	.
+F01_bin.1_00591	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+F01_bin.1_00613	SignalP-6.0	n-region	1	16	.	.	.	.
+F01_bin.1_00613	SignalP-6.0	h-region	17	32	.	.	.	.
+F01_bin.1_00613	SignalP-6.0	lipid-modified cysteine	33	33	.	.	.	.
+F01_bin.1_00620	SignalP-6.0	n-region	1	23	.	.	.	.
+F01_bin.1_00620	SignalP-6.0	h-region	24	36	.	.	.	.
+F01_bin.1_00620	SignalP-6.0	c-region	37	42	.	.	.	.
+F01_bin.1_00626	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_00626	SignalP-6.0	h-region	7	22	.	.	.	.
+F01_bin.1_00626	SignalP-6.0	c-region	23	26	.	.	.	.
+F01_bin.1_00628	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00628	SignalP-6.0	h-region	3	17	.	.	.	.
+F01_bin.1_00628	SignalP-6.0	c-region	18	23	.	.	.	.
+F01_bin.1_00629	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00629	SignalP-6.0	h-region	3	33	.	.	.	.
+F01_bin.1_00629	SignalP-6.0	lipid-modified cysteine	34	34	.	.	.	.
+F01_bin.1_00635	SignalP-6.0	n-region	1	19	.	.	.	.
+F01_bin.1_00635	SignalP-6.0	h-region	20	33	.	.	.	.
+F01_bin.1_00635	SignalP-6.0	c-region	34	37	.	.	.	.
+F01_bin.1_00637	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00637	SignalP-6.0	h-region	4	13	.	.	.	.
+F01_bin.1_00637	SignalP-6.0	c-region	14	16	.	.	.	.
+F01_bin.1_00638	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00638	SignalP-6.0	h-region	4	20	.	.	.	.
+F01_bin.1_00638	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+F01_bin.1_00639	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00639	SignalP-6.0	h-region	3	23	.	.	.	.
+F01_bin.1_00639	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+F01_bin.1_00644	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00644	SignalP-6.0	h-region	4	22	.	.	.	.
+F01_bin.1_00644	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+F01_bin.1_00655	SignalP-6.0	n-region	1	12	.	.	.	.
+F01_bin.1_00655	SignalP-6.0	h-region	13	27	.	.	.	.
+F01_bin.1_00655	SignalP-6.0	c-region	28	39	.	.	.	.
+F01_bin.1_00658	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00658	SignalP-6.0	h-region	5	19	.	.	.	.
+F01_bin.1_00658	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+F01_bin.1_00666	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00666	SignalP-6.0	h-region	5	24	.	.	.	.
+F01_bin.1_00666	SignalP-6.0	c-region	25	28	.	.	.	.
+F01_bin.1_00687	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00687	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_00687	SignalP-6.0	c-region	19	23	.	.	.	.
+F01_bin.1_00689	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00689	SignalP-6.0	h-region	3	15	.	.	.	.
+F01_bin.1_00689	SignalP-6.0	c-region	16	20	.	.	.	.
+F01_bin.1_00707	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_00707	SignalP-6.0	h-region	7	26	.	.	.	.
+F01_bin.1_00707	SignalP-6.0	c-region	27	31	.	.	.	.
+F01_bin.1_00707	SignalP-6.0	twin-arginine motif	4	5	.	.	.	.
+F01_bin.1_00708	SignalP-6.0	n-region	1	14	.	.	.	.
+F01_bin.1_00708	SignalP-6.0	h-region	15	24	.	.	.	.
+F01_bin.1_00708	SignalP-6.0	c-region	25	33	.	.	.	.
+F01_bin.1_00715	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00715	SignalP-6.0	h-region	4	15	.	.	.	.
+F01_bin.1_00715	SignalP-6.0	lipid-modified cysteine	16	16	.	.	.	.
+F01_bin.1_00719	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00719	SignalP-6.0	h-region	5	18	.	.	.	.
+F01_bin.1_00719	SignalP-6.0	c-region	19	21	.	.	.	.
+F01_bin.1_00734	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00734	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_00734	SignalP-6.0	c-region	19	25	.	.	.	.
+F01_bin.1_00750	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_00750	SignalP-6.0	h-region	6	20	.	.	.	.
+F01_bin.1_00750	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+F01_bin.1_00795	SignalP-6.0	n-region	1	9	.	.	.	.
+F01_bin.1_00795	SignalP-6.0	h-region	10	25	.	.	.	.
+F01_bin.1_00795	SignalP-6.0	c-region	26	30	.	.	.	.
+F01_bin.1_00796	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00796	SignalP-6.0	h-region	3	16	.	.	.	.
+F01_bin.1_00796	SignalP-6.0	c-region	17	21	.	.	.	.
+F01_bin.1_00797	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00797	SignalP-6.0	h-region	5	15	.	.	.	.
+F01_bin.1_00797	SignalP-6.0	c-region	16	21	.	.	.	.
+F01_bin.1_00808	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00808	SignalP-6.0	h-region	4	19	.	.	.	.
+F01_bin.1_00808	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+F01_bin.1_00817	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00817	SignalP-6.0	h-region	3	23	.	.	.	.
+F01_bin.1_00817	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+F01_bin.1_00818	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00818	SignalP-6.0	h-region	5	21	.	.	.	.
+F01_bin.1_00818	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+F01_bin.1_00833	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_00833	SignalP-6.0	h-region	6	22	.	.	.	.
+F01_bin.1_00833	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+F01_bin.1_00834	SignalP-6.0	n-region	1	9	.	.	.	.
+F01_bin.1_00834	SignalP-6.0	h-region	10	27	.	.	.	.
+F01_bin.1_00834	SignalP-6.0	c-region	28	33	.	.	.	.
+F01_bin.1_00834	SignalP-6.0	twin-arginine motif	7	8	.	.	.	.
+F01_bin.1_00852	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00852	SignalP-6.0	h-region	4	16	.	.	.	.
+F01_bin.1_00852	SignalP-6.0	c-region	17	20	.	.	.	.
+F01_bin.1_00876	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00876	SignalP-6.0	h-region	3	16	.	.	.	.
+F01_bin.1_00876	SignalP-6.0	c-region	17	21	.	.	.	.
+F01_bin.1_00900	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_00900	SignalP-6.0	h-region	4	20	.	.	.	.
+F01_bin.1_00900	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+F01_bin.1_00911	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00911	SignalP-6.0	h-region	5	19	.	.	.	.
+F01_bin.1_00911	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+F01_bin.1_00914	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_00914	SignalP-6.0	h-region	6	17	.	.	.	.
+F01_bin.1_00914	SignalP-6.0	c-region	18	24	.	.	.	.
+F01_bin.1_00920	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_00920	SignalP-6.0	h-region	11	30	.	.	.	.
+F01_bin.1_00920	SignalP-6.0	c-region	31	34	.	.	.	.
+F01_bin.1_00920	SignalP-6.0	twin-arginine motif	8	9	.	.	.	.
+F01_bin.1_00939	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00939	SignalP-6.0	h-region	5	16	.	.	.	.
+F01_bin.1_00939	SignalP-6.0	c-region	17	17	.	.	.	.
+F01_bin.1_00943	SignalP-6.0	n-region	1	9	.	.	.	.
+F01_bin.1_00943	SignalP-6.0	h-region	10	30	.	.	.	.
+F01_bin.1_00943	SignalP-6.0	c-region	31	37	.	.	.	.
+F01_bin.1_00943	SignalP-6.0	twin-arginine motif	7	8	.	.	.	.
+F01_bin.1_00944	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_00944	SignalP-6.0	h-region	11	31	.	.	.	.
+F01_bin.1_00944	SignalP-6.0	c-region	32	37	.	.	.	.
+F01_bin.1_00944	SignalP-6.0	twin-arginine motif	8	9	.	.	.	.
+F01_bin.1_00949	SignalP-6.0	n-region	1	12	.	.	.	.
+F01_bin.1_00949	SignalP-6.0	h-region	13	29	.	.	.	.
+F01_bin.1_00949	SignalP-6.0	c-region	30	34	.	.	.	.
+F01_bin.1_00975	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_00975	SignalP-6.0	h-region	5	16	.	.	.	.
+F01_bin.1_00975	SignalP-6.0	c-region	17	21	.	.	.	.
+F01_bin.1_00977	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_00977	SignalP-6.0	h-region	6	19	.	.	.	.
+F01_bin.1_00977	SignalP-6.0	c-region	20	24	.	.	.	.
+F01_bin.1_00987	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_00987	SignalP-6.0	h-region	7	25	.	.	.	.
+F01_bin.1_00987	SignalP-6.0	c-region	26	33	.	.	.	.
+F01_bin.1_00998	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_00998	SignalP-6.0	h-region	3	17	.	.	.	.
+F01_bin.1_00998	SignalP-6.0	c-region	18	25	.	.	.	.
+F01_bin.1_01001	SignalP-6.0	n-region	1	15	.	.	.	.
+F01_bin.1_01001	SignalP-6.0	h-region	16	29	.	.	.	.
+F01_bin.1_01001	SignalP-6.0	c-region	30	40	.	.	.	.
+F01_bin.1_01001	SignalP-6.0	twin-arginine motif	14	14	.	.	.	.
+F01_bin.1_01004	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01004	SignalP-6.0	h-region	4	16	.	.	.	.
+F01_bin.1_01004	SignalP-6.0	lipid-modified cysteine	17	17	.	.	.	.
+F01_bin.1_01020	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_01020	SignalP-6.0	h-region	6	23	.	.	.	.
+F01_bin.1_01020	SignalP-6.0	c-region	24	26	.	.	.	.
+F01_bin.1_01028	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01028	SignalP-6.0	h-region	4	13	.	.	.	.
+F01_bin.1_01028	SignalP-6.0	c-region	14	18	.	.	.	.
+F01_bin.1_01056	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_01056	SignalP-6.0	h-region	7	24	.	.	.	.
+F01_bin.1_01056	SignalP-6.0	c-region	25	31	.	.	.	.
+F01_bin.1_01056	SignalP-6.0	twin-arginine motif	4	5	.	.	.	.
+F01_bin.1_01070	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01070	SignalP-6.0	h-region	3	13	.	.	.	.
+F01_bin.1_01070	SignalP-6.0	c-region	14	19	.	.	.	.
+F01_bin.1_01073	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01073	SignalP-6.0	h-region	4	16	.	.	.	.
+F01_bin.1_01073	SignalP-6.0	c-region	17	20	.	.	.	.
+F01_bin.1_01074	SignalP-6.0	n-region	1	12	.	.	.	.
+F01_bin.1_01074	SignalP-6.0	h-region	13	28	.	.	.	.
+F01_bin.1_01074	SignalP-6.0	c-region	29	33	.	.	.	.
+F01_bin.1_01074	SignalP-6.0	twin-arginine motif	10	11	.	.	.	.
+F01_bin.1_01075	SignalP-6.0	n-region	1	16	.	.	.	.
+F01_bin.1_01075	SignalP-6.0	h-region	17	34	.	.	.	.
+F01_bin.1_01075	SignalP-6.0	c-region	35	42	.	.	.	.
+F01_bin.1_01075	SignalP-6.0	twin-arginine motif	14	15	.	.	.	.
+F01_bin.1_01078	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01078	SignalP-6.0	h-region	3	17	.	.	.	.
+F01_bin.1_01078	SignalP-6.0	lipid-modified cysteine	18	18	.	.	.	.
+F01_bin.1_01093	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_01093	SignalP-6.0	h-region	7	22	.	.	.	.
+F01_bin.1_01093	SignalP-6.0	c-region	23	27	.	.	.	.
+F01_bin.1_01094	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01094	SignalP-6.0	h-region	5	27	.	.	.	.
+F01_bin.1_01094	SignalP-6.0	lipid-modified cysteine	28	28	.	.	.	.
+F01_bin.1_01095	SignalP-6.0	n-region	1	12	.	.	.	.
+F01_bin.1_01095	SignalP-6.0	h-region	13	26	.	.	.	.
+F01_bin.1_01095	SignalP-6.0	c-region	27	29	.	.	.	.
+F01_bin.1_01106	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_01106	SignalP-6.0	h-region	6	21	.	.	.	.
+F01_bin.1_01106	SignalP-6.0	c-region	22	28	.	.	.	.
+F01_bin.1_01169	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01169	SignalP-6.0	h-region	5	18	.	.	.	.
+F01_bin.1_01169	SignalP-6.0	c-region	19	21	.	.	.	.
+F01_bin.1_01173	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01173	SignalP-6.0	h-region	4	15	.	.	.	.
+F01_bin.1_01173	SignalP-6.0	c-region	16	20	.	.	.	.
+F01_bin.1_01175	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01175	SignalP-6.0	h-region	4	20	.	.	.	.
+F01_bin.1_01175	SignalP-6.0	c-region	21	28	.	.	.	.
+F01_bin.1_01176	SignalP-6.0	n-region	1	11	.	.	.	.
+F01_bin.1_01176	SignalP-6.0	h-region	12	30	.	.	.	.
+F01_bin.1_01176	SignalP-6.0	c-region	31	36	.	.	.	.
+F01_bin.1_01179	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01179	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_01179	SignalP-6.0	c-region	19	23	.	.	.	.
+F01_bin.1_01182	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01182	SignalP-6.0	h-region	4	15	.	.	.	.
+F01_bin.1_01182	SignalP-6.0	c-region	16	19	.	.	.	.
+F01_bin.1_01184	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01184	SignalP-6.0	h-region	3	16	.	.	.	.
+F01_bin.1_01184	SignalP-6.0	lipid-modified cysteine	17	17	.	.	.	.
+F01_bin.1_01189	SignalP-6.0	n-region	1	7	.	.	.	.
+F01_bin.1_01189	SignalP-6.0	h-region	8	23	.	.	.	.
+F01_bin.1_01189	SignalP-6.0	c-region	24	30	.	.	.	.
+F01_bin.1_01227	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01227	SignalP-6.0	h-region	3	19	.	.	.	.
+F01_bin.1_01227	SignalP-6.0	c-region	20	22	.	.	.	.
+F01_bin.1_01228	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01228	SignalP-6.0	h-region	5	19	.	.	.	.
+F01_bin.1_01228	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+F01_bin.1_01243	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01243	SignalP-6.0	h-region	5	20	.	.	.	.
+F01_bin.1_01243	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+F01_bin.1_01247	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01247	SignalP-6.0	h-region	5	21	.	.	.	.
+F01_bin.1_01247	SignalP-6.0	c-region	22	24	.	.	.	.
+F01_bin.1_01248	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_01248	SignalP-6.0	h-region	11	24	.	.	.	.
+F01_bin.1_01248	SignalP-6.0	c-region	25	27	.	.	.	.
+F01_bin.1_01265	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_01265	SignalP-6.0	h-region	6	15	.	.	.	.
+F01_bin.1_01265	SignalP-6.0	c-region	16	19	.	.	.	.
+F01_bin.1_01268	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01268	SignalP-6.0	h-region	5	18	.	.	.	.
+F01_bin.1_01268	SignalP-6.0	lipid-modified cysteine	19	19	.	.	.	.
+F01_bin.1_01273	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01273	SignalP-6.0	h-region	4	13	.	.	.	.
+F01_bin.1_01273	SignalP-6.0	c-region	14	16	.	.	.	.
+F01_bin.1_01278	SignalP-6.0	n-region	1	8	.	.	.	.
+F01_bin.1_01278	SignalP-6.0	h-region	9	23	.	.	.	.
+F01_bin.1_01278	SignalP-6.0	c-region	24	26	.	.	.	.
+F01_bin.1_01292	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01292	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_01292	SignalP-6.0	c-region	19	23	.	.	.	.
+F01_bin.1_01304	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01304	SignalP-6.0	h-region	3	12	.	.	.	.
+F01_bin.1_01304	SignalP-6.0	c-region	13	17	.	.	.	.
+F01_bin.1_01307	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01307	SignalP-6.0	h-region	3	21	.	.	.	.
+F01_bin.1_01307	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+F01_bin.1_01312	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01312	SignalP-6.0	h-region	3	12	.	.	.	.
+F01_bin.1_01312	SignalP-6.0	c-region	13	18	.	.	.	.
+F01_bin.1_01313	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01313	SignalP-6.0	h-region	4	16	.	.	.	.
+F01_bin.1_01313	SignalP-6.0	c-region	17	20	.	.	.	.
+F01_bin.1_01346	SignalP-6.0	n-region	1	9	.	.	.	.
+F01_bin.1_01346	SignalP-6.0	h-region	10	19	.	.	.	.
+F01_bin.1_01346	SignalP-6.0	c-region	20	23	.	.	.	.
+F01_bin.1_01354	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_01354	SignalP-6.0	h-region	11	26	.	.	.	.
+F01_bin.1_01354	SignalP-6.0	c-region	27	30	.	.	.	.
+F01_bin.1_01355	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01355	SignalP-6.0	h-region	5	17	.	.	.	.
+F01_bin.1_01355	SignalP-6.0	lipid-modified cysteine	18	18	.	.	.	.
+F01_bin.1_01357	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01357	SignalP-6.0	h-region	3	27	.	.	.	.
+F01_bin.1_01357	SignalP-6.0	lipid-modified cysteine	28	28	.	.	.	.
+F01_bin.1_01361	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01361	SignalP-6.0	h-region	3	18	.	.	.	.
+F01_bin.1_01361	SignalP-6.0	lipid-modified cysteine	19	19	.	.	.	.
+F01_bin.1_01365	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_01365	SignalP-6.0	h-region	11	25	.	.	.	.
+F01_bin.1_01365	SignalP-6.0	c-region	26	30	.	.	.	.
+F01_bin.1_01387	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01387	SignalP-6.0	h-region	3	14	.	.	.	.
+F01_bin.1_01387	SignalP-6.0	c-region	15	17	.	.	.	.
+F01_bin.1_01396	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01396	SignalP-6.0	h-region	4	19	.	.	.	.
+F01_bin.1_01396	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+F01_bin.1_01400	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_01400	SignalP-6.0	h-region	6	18	.	.	.	.
+F01_bin.1_01400	SignalP-6.0	c-region	19	23	.	.	.	.
+F01_bin.1_01411	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01411	SignalP-6.0	h-region	4	17	.	.	.	.
+F01_bin.1_01411	SignalP-6.0	c-region	18	21	.	.	.	.
+F01_bin.1_01416	SignalP-6.0	n-region	1	9	.	.	.	.
+F01_bin.1_01416	SignalP-6.0	h-region	10	25	.	.	.	.
+F01_bin.1_01416	SignalP-6.0	lipid-modified cysteine	26	26	.	.	.	.
+F01_bin.1_01417	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01417	SignalP-6.0	h-region	4	27	.	.	.	.
+F01_bin.1_01417	SignalP-6.0	c-region	28	30	.	.	.	.
+F01_bin.1_01420	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01420	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_01420	SignalP-6.0	lipid-modified cysteine	19	19	.	.	.	.
+F01_bin.1_01425	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01425	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_01425	SignalP-6.0	c-region	19	21	.	.	.	.
+F01_bin.1_01439	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01439	SignalP-6.0	h-region	4	20	.	.	.	.
+F01_bin.1_01439	SignalP-6.0	c-region	21	24	.	.	.	.
+F01_bin.1_01451	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01451	SignalP-6.0	h-region	5	20	.	.	.	.
+F01_bin.1_01451	SignalP-6.0	c-region	21	23	.	.	.	.
+F01_bin.1_01453	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01453	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_01453	SignalP-6.0	c-region	19	21	.	.	.	.
+F01_bin.1_01455	SignalP-6.0	n-region	1	19	.	.	.	.
+F01_bin.1_01455	SignalP-6.0	h-region	20	30	.	.	.	.
+F01_bin.1_01455	SignalP-6.0	c-region	31	36	.	.	.	.
+F01_bin.1_01457	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01457	SignalP-6.0	h-region	5	19	.	.	.	.
+F01_bin.1_01457	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+F01_bin.1_01458	SignalP-6.0	n-region	1	28	.	.	.	.
+F01_bin.1_01458	SignalP-6.0	h-region	29	40	.	.	.	.
+F01_bin.1_01458	SignalP-6.0	c-region	41	46	.	.	.	.
+F01_bin.1_01460	SignalP-6.0	n-region	1	8	.	.	.	.
+F01_bin.1_01460	SignalP-6.0	h-region	9	31	.	.	.	.
+F01_bin.1_01460	SignalP-6.0	c-region	32	38	.	.	.	.
+F01_bin.1_01460	SignalP-6.0	twin-arginine motif	6	7	.	.	.	.
+F01_bin.1_01463	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01463	SignalP-6.0	h-region	5	16	.	.	.	.
+F01_bin.1_01463	SignalP-6.0	c-region	17	22	.	.	.	.
+F01_bin.1_01485	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01485	SignalP-6.0	h-region	3	26	.	.	.	.
+F01_bin.1_01485	SignalP-6.0	c-region	27	32	.	.	.	.
+F01_bin.1_01490	SignalP-6.0	n-region	1	20	.	.	.	.
+F01_bin.1_01490	SignalP-6.0	h-region	21	35	.	.	.	.
+F01_bin.1_01490	SignalP-6.0	c-region	36	40	.	.	.	.
+F01_bin.1_01491	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01491	SignalP-6.0	h-region	3	32	.	.	.	.
+F01_bin.1_01491	SignalP-6.0	c-region	33	36	.	.	.	.
+F01_bin.1_01492	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01492	SignalP-6.0	h-region	3	16	.	.	.	.
+F01_bin.1_01492	SignalP-6.0	c-region	17	21	.	.	.	.
+F01_bin.1_01504	SignalP-6.0	n-region	1	20	.	.	.	.
+F01_bin.1_01504	SignalP-6.0	h-region	21	32	.	.	.	.
+F01_bin.1_01504	SignalP-6.0	c-region	33	38	.	.	.	.
+F01_bin.1_01529	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01529	SignalP-6.0	h-region	3	20	.	.	.	.
+F01_bin.1_01529	SignalP-6.0	c-region	21	26	.	.	.	.
+F01_bin.1_01530	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01530	SignalP-6.0	h-region	3	23	.	.	.	.
+F01_bin.1_01530	SignalP-6.0	c-region	24	28	.	.	.	.
+F01_bin.1_01532	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01532	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_01532	SignalP-6.0	c-region	19	23	.	.	.	.
+F01_bin.1_01548	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_01548	SignalP-6.0	h-region	11	27	.	.	.	.
+F01_bin.1_01548	SignalP-6.0	c-region	28	30	.	.	.	.
+F01_bin.1_01554	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01554	SignalP-6.0	h-region	3	21	.	.	.	.
+F01_bin.1_01554	SignalP-6.0	c-region	22	26	.	.	.	.
+F01_bin.1_01574	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01574	SignalP-6.0	h-region	4	21	.	.	.	.
+F01_bin.1_01574	SignalP-6.0	c-region	22	24	.	.	.	.
+F01_bin.1_01576	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01576	SignalP-6.0	h-region	4	17	.	.	.	.
+F01_bin.1_01576	SignalP-6.0	c-region	18	21	.	.	.	.
+F01_bin.1_01578	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01578	SignalP-6.0	h-region	3	15	.	.	.	.
+F01_bin.1_01578	SignalP-6.0	c-region	16	19	.	.	.	.
+F01_bin.1_01595	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01595	SignalP-6.0	h-region	3	19	.	.	.	.
+F01_bin.1_01595	SignalP-6.0	c-region	20	26	.	.	.	.
+F01_bin.1_01596	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01596	SignalP-6.0	h-region	5	19	.	.	.	.
+F01_bin.1_01596	SignalP-6.0	c-region	20	22	.	.	.	.
+F01_bin.1_01597	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01597	SignalP-6.0	h-region	3	25	.	.	.	.
+F01_bin.1_01597	SignalP-6.0	lipid-modified cysteine	26	26	.	.	.	.
+F01_bin.1_01605	SignalP-6.0	n-region	1	18	.	.	.	.
+F01_bin.1_01605	SignalP-6.0	h-region	19	32	.	.	.	.
+F01_bin.1_01605	SignalP-6.0	lipid-modified cysteine	33	33	.	.	.	.
+F01_bin.1_01605	SignalP-6.0	twin-arginine motif	16	17	.	.	.	.
+F01_bin.1_01610	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01610	SignalP-6.0	h-region	3	18	.	.	.	.
+F01_bin.1_01610	SignalP-6.0	c-region	19	22	.	.	.	.
+F01_bin.1_01634	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_01634	SignalP-6.0	h-region	7	26	.	.	.	.
+F01_bin.1_01634	SignalP-6.0	c-region	27	31	.	.	.	.
+F01_bin.1_01635	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01635	SignalP-6.0	h-region	3	21	.	.	.	.
+F01_bin.1_01635	SignalP-6.0	c-region	22	28	.	.	.	.
+F01_bin.1_01644	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_01644	SignalP-6.0	h-region	7	22	.	.	.	.
+F01_bin.1_01644	SignalP-6.0	c-region	23	28	.	.	.	.
+F01_bin.1_01659	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01659	SignalP-6.0	h-region	3	16	.	.	.	.
+F01_bin.1_01659	SignalP-6.0	c-region	17	19	.	.	.	.
+F01_bin.1_01663	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01663	SignalP-6.0	h-region	3	15	.	.	.	.
+F01_bin.1_01663	SignalP-6.0	lipid-modified cysteine	16	16	.	.	.	.
+F01_bin.1_01684	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_01684	SignalP-6.0	h-region	7	21	.	.	.	.
+F01_bin.1_01684	SignalP-6.0	c-region	22	26	.	.	.	.
+F01_bin.1_01687	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_01687	SignalP-6.0	h-region	11	25	.	.	.	.
+F01_bin.1_01687	SignalP-6.0	c-region	26	30	.	.	.	.
+F01_bin.1_01687	SignalP-6.0	twin-arginine motif	8	9	.	.	.	.
+F01_bin.1_01688	SignalP-6.0	n-region	1	13	.	.	.	.
+F01_bin.1_01688	SignalP-6.0	h-region	14	31	.	.	.	.
+F01_bin.1_01688	SignalP-6.0	c-region	32	34	.	.	.	.
+F01_bin.1_01688	SignalP-6.0	twin-arginine motif	11	12	.	.	.	.
+F01_bin.1_01695	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_01695	SignalP-6.0	h-region	7	19	.	.	.	.
+F01_bin.1_01695	SignalP-6.0	c-region	20	23	.	.	.	.
+F01_bin.1_01697	SignalP-6.0	n-region	1	6	.	.	.	.
+F01_bin.1_01697	SignalP-6.0	h-region	7	23	.	.	.	.
+F01_bin.1_01697	SignalP-6.0	c-region	24	28	.	.	.	.
+F01_bin.1_01698	SignalP-6.0	n-region	1	15	.	.	.	.
+F01_bin.1_01698	SignalP-6.0	h-region	16	28	.	.	.	.
+F01_bin.1_01698	SignalP-6.0	c-region	29	33	.	.	.	.
+F01_bin.1_01699	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01699	SignalP-6.0	h-region	5	20	.	.	.	.
+F01_bin.1_01699	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+F01_bin.1_01705	SignalP-6.0	n-region	1	11	.	.	.	.
+F01_bin.1_01705	SignalP-6.0	h-region	12	29	.	.	.	.
+F01_bin.1_01705	SignalP-6.0	c-region	30	31	.	.	.	.
+F01_bin.1_01708	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01708	SignalP-6.0	h-region	3	11	.	.	.	.
+F01_bin.1_01708	SignalP-6.0	c-region	12	15	.	.	.	.
+F01_bin.1_01712	SignalP-6.0	n-region	1	28	.	.	.	.
+F01_bin.1_01712	SignalP-6.0	h-region	29	41	.	.	.	.
+F01_bin.1_01712	SignalP-6.0	c-region	42	42	.	.	.	.
+F01_bin.1_01712	SignalP-6.0	twin-arginine motif	26	27	.	.	.	.
+F01_bin.1_01727	SignalP-6.0	n-region	1	24	.	.	.	.
+F01_bin.1_01727	SignalP-6.0	h-region	25	41	.	.	.	.
+F01_bin.1_01727	SignalP-6.0	lipid-modified cysteine	42	42	.	.	.	.
+F01_bin.1_01749	SignalP-6.0	n-region	1	11	.	.	.	.
+F01_bin.1_01749	SignalP-6.0	h-region	12	26	.	.	.	.
+F01_bin.1_01749	SignalP-6.0	c-region	27	30	.	.	.	.
+F01_bin.1_01749	SignalP-6.0	twin-arginine motif	9	10	.	.	.	.
+F01_bin.1_01763	SignalP-6.0	n-region	1	14	.	.	.	.
+F01_bin.1_01763	SignalP-6.0	h-region	15	33	.	.	.	.
+F01_bin.1_01763	SignalP-6.0	lipid-modified cysteine	34	34	.	.	.	.
+F01_bin.1_01763	SignalP-6.0	twin-arginine motif	12	13	.	.	.	.
+F01_bin.1_01765	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01765	SignalP-6.0	h-region	3	24	.	.	.	.
+F01_bin.1_01765	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+F01_bin.1_01770	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01770	SignalP-6.0	h-region	5	21	.	.	.	.
+F01_bin.1_01770	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+F01_bin.1_01782	SignalP-6.0	n-region	1	16	.	.	.	.
+F01_bin.1_01782	SignalP-6.0	h-region	17	29	.	.	.	.
+F01_bin.1_01782	SignalP-6.0	c-region	30	34	.	.	.	.
+F01_bin.1_01783	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01783	SignalP-6.0	h-region	5	18	.	.	.	.
+F01_bin.1_01783	SignalP-6.0	c-region	19	21	.	.	.	.
+F01_bin.1_01784	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_01784	SignalP-6.0	h-region	6	19	.	.	.	.
+F01_bin.1_01784	SignalP-6.0	c-region	20	23	.	.	.	.
+F01_bin.1_01793	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_01793	SignalP-6.0	h-region	6	19	.	.	.	.
+F01_bin.1_01793	SignalP-6.0	c-region	20	22	.	.	.	.
+F01_bin.1_01807	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_01807	SignalP-6.0	h-region	6	21	.	.	.	.
+F01_bin.1_01807	SignalP-6.0	c-region	22	25	.	.	.	.
+F01_bin.1_01812	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01812	SignalP-6.0	h-region	3	13	.	.	.	.
+F01_bin.1_01812	SignalP-6.0	c-region	14	18	.	.	.	.
+F01_bin.1_01833	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01833	SignalP-6.0	h-region	4	17	.	.	.	.
+F01_bin.1_01833	SignalP-6.0	c-region	18	22	.	.	.	.
+F01_bin.1_01836	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_01836	SignalP-6.0	h-region	6	26	.	.	.	.
+F01_bin.1_01836	SignalP-6.0	c-region	27	33	.	.	.	.
+F01_bin.1_01852	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01852	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_01852	SignalP-6.0	c-region	19	24	.	.	.	.
+F01_bin.1_01853	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01853	SignalP-6.0	h-region	4	17	.	.	.	.
+F01_bin.1_01853	SignalP-6.0	c-region	18	21	.	.	.	.
+F01_bin.1_01865	SignalP-6.0	n-region	1	11	.	.	.	.
+F01_bin.1_01865	SignalP-6.0	h-region	12	29	.	.	.	.
+F01_bin.1_01865	SignalP-6.0	c-region	30	33	.	.	.	.
+F01_bin.1_01865	SignalP-6.0	twin-arginine motif	9	10	.	.	.	.
+F01_bin.1_01867	SignalP-6.0	n-region	1	8	.	.	.	.
+F01_bin.1_01867	SignalP-6.0	h-region	9	28	.	.	.	.
+F01_bin.1_01867	SignalP-6.0	c-region	29	36	.	.	.	.
+F01_bin.1_01880	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01880	SignalP-6.0	h-region	3	35	.	.	.	.
+F01_bin.1_01880	SignalP-6.0	c-region	36	37	.	.	.	.
+F01_bin.1_01886	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_01886	SignalP-6.0	h-region	11	28	.	.	.	.
+F01_bin.1_01886	SignalP-6.0	c-region	29	32	.	.	.	.
+F01_bin.1_01889	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01889	SignalP-6.0	h-region	3	17	.	.	.	.
+F01_bin.1_01889	SignalP-6.0	c-region	18	20	.	.	.	.
+F01_bin.1_01893	SignalP-6.0	n-region	1	7	.	.	.	.
+F01_bin.1_01893	SignalP-6.0	h-region	8	21	.	.	.	.
+F01_bin.1_01893	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+F01_bin.1_01903	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01903	SignalP-6.0	h-region	4	18	.	.	.	.
+F01_bin.1_01903	SignalP-6.0	c-region	19	22	.	.	.	.
+F01_bin.1_01906	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01906	SignalP-6.0	h-region	4	17	.	.	.	.
+F01_bin.1_01906	SignalP-6.0	c-region	18	20	.	.	.	.
+F01_bin.1_01907	SignalP-6.0	n-region	1	11	.	.	.	.
+F01_bin.1_01907	SignalP-6.0	h-region	12	26	.	.	.	.
+F01_bin.1_01907	SignalP-6.0	c-region	27	33	.	.	.	.
+F01_bin.1_01909	SignalP-6.0	n-region	1	7	.	.	.	.
+F01_bin.1_01909	SignalP-6.0	h-region	8	27	.	.	.	.
+F01_bin.1_01909	SignalP-6.0	lipid-modified cysteine	28	28	.	.	.	.
+F01_bin.1_01920	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_01920	SignalP-6.0	h-region	6	17	.	.	.	.
+F01_bin.1_01920	SignalP-6.0	c-region	18	20	.	.	.	.
+F01_bin.1_01925	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01925	SignalP-6.0	h-region	3	16	.	.	.	.
+F01_bin.1_01925	SignalP-6.0	c-region	17	20	.	.	.	.
+F01_bin.1_01932	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01932	SignalP-6.0	h-region	3	15	.	.	.	.
+F01_bin.1_01932	SignalP-6.0	c-region	16	20	.	.	.	.
+F01_bin.1_01945	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_01945	SignalP-6.0	h-region	5	24	.	.	.	.
+F01_bin.1_01945	SignalP-6.0	c-region	25	27	.	.	.	.
+F01_bin.1_01951	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_01951	SignalP-6.0	h-region	4	21	.	.	.	.
+F01_bin.1_01951	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+F01_bin.1_01966	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_01966	SignalP-6.0	h-region	3	14	.	.	.	.
+F01_bin.1_01966	SignalP-6.0	lipid-modified cysteine	15	15	.	.	.	.
+F01_bin.1_01986	SignalP-6.0	n-region	1	10	.	.	.	.
+F01_bin.1_01986	SignalP-6.0	h-region	11	26	.	.	.	.
+F01_bin.1_01986	SignalP-6.0	lipid-modified cysteine	27	27	.	.	.	.
+F01_bin.1_02006	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_02006	SignalP-6.0	h-region	3	16	.	.	.	.
+F01_bin.1_02006	SignalP-6.0	c-region	17	20	.	.	.	.
+F01_bin.1_02012	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_02012	SignalP-6.0	h-region	6	21	.	.	.	.
+F01_bin.1_02012	SignalP-6.0	c-region	22	26	.	.	.	.
+F01_bin.1_02038	SignalP-6.0	n-region	1	5	.	.	.	.
+F01_bin.1_02038	SignalP-6.0	h-region	6	29	.	.	.	.
+F01_bin.1_02038	SignalP-6.0	c-region	30	35	.	.	.	.
+F01_bin.1_02039	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_02039	SignalP-6.0	h-region	4	19	.	.	.	.
+F01_bin.1_02039	SignalP-6.0	c-region	20	22	.	.	.	.
+F01_bin.1_02045	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_02045	SignalP-6.0	h-region	4	20	.	.	.	.
+F01_bin.1_02045	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+F01_bin.1_02055	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_02055	SignalP-6.0	h-region	3	15	.	.	.	.
+F01_bin.1_02055	SignalP-6.0	c-region	16	20	.	.	.	.
+F01_bin.1_02056	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_02056	SignalP-6.0	h-region	4	13	.	.	.	.
+F01_bin.1_02056	SignalP-6.0	c-region	14	19	.	.	.	.
+F01_bin.1_02059	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_02059	SignalP-6.0	h-region	4	14	.	.	.	.
+F01_bin.1_02059	SignalP-6.0	lipid-modified cysteine	15	15	.	.	.	.
+F01_bin.1_02061	SignalP-6.0	n-region	1	3	.	.	.	.
+F01_bin.1_02061	SignalP-6.0	h-region	4	16	.	.	.	.
+F01_bin.1_02061	SignalP-6.0	c-region	17	19	.	.	.	.
+F01_bin.1_02070	SignalP-6.0	n-region	1	4	.	.	.	.
+F01_bin.1_02070	SignalP-6.0	h-region	5	23	.	.	.	.
+F01_bin.1_02070	SignalP-6.0	c-region	24	28	.	.	.	.
+F01_bin.1_02102	SignalP-6.0	n-region	1	2	.	.	.	.
+F01_bin.1_02102	SignalP-6.0	h-region	3	11	.	.	.	.
+F01_bin.1_02102	SignalP-6.0	c-region	12	15	.	.	.	.
+F01_bin.1_02114	SignalP-6.0	n-region	1	9	.	.	.	.
+F01_bin.1_02114	SignalP-6.0	h-region	10	42	.	.	.	.
+F01_bin.1_02114	SignalP-6.0	c-region	43	43	.	.	.	.
