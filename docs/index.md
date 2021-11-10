@@ -1,4 +1,5 @@
 ## Welcome to Scripts Pages of Hualin Liu
+The following scripts, which can be used for common bioinformatics analysis, have been described in personal blog of Hualin Liu ([了尘兰若的小坑](https://www.liaochenlanruo.fun)).
 
 ## Scripts
 
@@ -28,3 +29,6 @@
 ## Support or Contact
 
 Having trouble with Pages? Create an [issue](https://github.com/liaochenlanruo/myScripts/issues) on GitHub or mail to liaochenlanruo@webmail.hzau.edu.cn.
+
+## Citation
+Please cite the URL for the scripts you have used in your paper, thanks!
