@@ -6,9 +6,9 @@ use warnings;
 # Name: co_type.pl
 
 my (%hash, %genome, %gene);
-my @type = glob("*.ARG.merged.quant.type");
+my @type = glob("*.arg.mapping.ARG");
 foreach  (@type) {
-	$_=~/(\S+?)\..+/;
+	$_=~/(\S+?).arg.mapping.ARG/;
 	my $str = $1;
 	$genome{$str}++;
 	open IN, "$_" || die;
@@ -17,7 +17,7 @@ foreach  (@type) {
 		chomp;
 		my @lines = split /\t/;
 		$gene{$lines[0]}++;
-		$hash{$str}{$lines[0]} = $lines[2];
+		$hash{$str}{$lines[0]} += $lines[-1];
 	}
 	close IN;
 }
