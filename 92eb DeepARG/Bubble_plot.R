@@ -8,7 +8,7 @@ setwd("E:/Researches/Xiaqian/NGS/CleanData/宏基因组数据")#设置工作目录
 #pdf(file="FunctionsBubbleChart.pdf", width=14, height=11)
 
 # 读取文件 sep 根据文件格式确定
-data <- read.table("All.ARGs.txt",header = TRUE, sep = "\t")
+data <- read.table("All.ARGs.txt",header = TRUE, sep = "\t") #注意header中的"APH(3')-IIA"，要改为"APH(3)-IIA"，不然会报错“incomplete final line found by readTableHeader on 'All.ARGs.txt'”。
 library(ggplot2)
 library(reshape)
 
@@ -18,8 +18,7 @@ names(data_melt) = c("Sample", "ARGs", "Abundances")
 ##data_melt <-as.data.frame(data_melt)
 
 # 做主图
-bubble <- ggplot(data_melt[which(data_melt$Abundances>0),], aes(x = Sample, y = ARGs, size = Abundances, color = Sample)) + geom_point()
-
+bubble <- ggplot(data_melt[which(data_melt$Abundances>0),], aes(x = ARGs, y = Sample, size = Abundances)) + geom_point()
 
 # 字体修饰
 ##windowsFonts(myFont = windowsFont("Times New Roman"))
@@ -27,15 +26,15 @@ bubble <- ggplot(data_melt[which(data_melt$Abundances>0),], aes(x = Sample, y = 
 # 修改细节 — 图注，点大小，点shape
 bubble_style <- bubble + theme_classic()+
   labs(
-	x = "Samples",
-	y = "ARGs",
+	x = "ARGs",
+	y = "Samples",
 	#color="Sites", # 颜色图注名
 	size="Abundances")+    # 大小图注名
 	scale_size(range = c(0.1, 10), breaks = seq(0.1, 0.6, 0.2)) +  #等比修改圆圈大小
 	theme(plot.title=element_text(family="Times New Roman",size=8,
-								color="red",face="italic",
-								hjust=0.5,lineheight=0.5),
-								plot.subtitle = element_text(hjust = 0.5)) + 
+		color="red",face="italic",
+		hjust=0.5,lineheight=0.5),
+		plot.subtitle = element_text(hjust = 0.5)) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1))
-
+bubble_style
 #dev.off()
