@@ -124,6 +124,8 @@ def read_AIweb_downloaded_csv(path,infile,IF_cutoff=args.ifc):
 				journal.replace(" ","_")
 
 				IF = str(row[2])
+				if not IF:
+					IF = 0
 
 				date=str(row[5])
 
@@ -148,4 +150,4 @@ if __name__ == '__main__':
 	infile=args.infile
 	#IFcutoff=args.ifc
 	read_AIweb_downloaded_csv(path,infile,IF_cutoff=args.ifc)
-	#read_AIweb_downloaded_xls(path, infile, IF_cutoff=IFcutoff) # 如人工进行了Excel中的筛选导出的是xls文件，可以使用该函数下载
+	#read_AIweb_downloaded_xls(path, infile, IF_cutoff=args.ifc) # 如人工进行了Excel中的筛选导出的是xls文件，可以使用该函数下载
